@@ -14,7 +14,7 @@
 
 ### Introduction
 
-The Italian Corpus of Linguistic Acceptability includes almost 10k sentences taken from linguistic literature with a binary annotation made by the original authors themselves. The work is inspired by [CoLA](https://nyu-mll.github.io/CoLA/)[^1].
+The Italian Corpus of Linguistic Acceptability includes almost 10k sentences taken from linguistic literature with a binary annotation made by the original authors themselves. The work is inspired by [CoLA](https://nyu-mll.github.io/CoLA/)<sup>1</sup>.
 
 
 
@@ -44,18 +44,18 @@ Sources come from different sources extracted from the linguistic literature, co
 
 | Source Legend           | Topic                            |
 | ----------------------- | -------------------------------- |
-| D-Agostino_1983[^2]     | locative constructions           |
-| D-Agostino_1992[^3]     | discourse analysis               |
-| Elia-et-al_1981[^4]     | lexicon and syntactic structures |
-| Elia_1982[^5]           | locative adverbs and idioms      |
-| Graffi-Scalise_2002[^6] | theoretical linguistics          |
-| Graffi_1994[^7]         | syntax                           |
-| Graffi_2008[^8]         | generative grammar               |
-| Jezek_2003[^9]          | verb classification              |
-| Simone-Masini_2013[^10] | theoretical linguistics          |
-| Vietri_1985[^11]        | idiomatic expressions            |
-| Vietri_2004[^12]        | lexicon-grammar approach         |
-| Vietri_2017[^13]        | anticausative sentences          |
+| D-Agostino_1983<sup>2</sup>     | locative constructions           |
+| D-Agostino_1992<sup>3</sup>     | discourse analysis               |
+| Elia-et-al_1981<sup>4</sup>     | lexicon and syntactic structures |
+| Elia_1982<sup>5</sup>           | locative adverbs and idioms      |
+| Graffi-Scalise_2002<sup>6</sup>| theoretical linguistics          |
+| Graffi_1994<sup>7</sup>        | syntax                           |
+| Graffi_2008<sup>8</sup>        | generative grammar               |
+| Jezek_2003<sup>9</sup>         | verb classification              |
+| Simone-Masini_2013<sup>10</sup> | theoretical linguistics          |
+| Vietri_1985<sup>11</sup>       | idiomatic expressions            |
+| Vietri_2004<sup>12</sup>        | lexicon-grammar approach         |
+| Vietri_2017<sup>13</sup>       | anticausative sentences          |
 
 
 
@@ -105,20 +105,20 @@ Each line in the .tsv files consists of 3 tab-separated columns.
 
 
 
+#### Footnotes
 
-
-[^1]: Alex Warstadt, Amanpreet Singh, Samuel R. Bowman; *Neural Network Acceptability Judgments*. Transactions of the Association for Computational Linguistics. 2019; 7 625–641.
-[^2]: Emilio D’Agostino. 1983. Le*ssico e sintassi dellecostruzioni locative: materiali per la didattica dell’italiano*. Liguori.
-[^3]: Emilio D’Agostino. 1992. An*alisi del discorso: metodi descrittivi dell’italiano d’uso*. Loffredo.
-[^4]: Annibale Elia, Maurizio Martinelli, and Emilio d’Agostino. 1981. L*essico e strutture sintattiche: introduzione alla sintassi del verbo italiano*. Liguori Napoli.
-[^5]: Annibale Elia. 1982. *Avverbi ed espressioni idiomatiche di carattere locativo*. Studi di Grammatica Italiana Firenze, 11:327–379.
-[^6]: Giorgio Graffi and Sergio Scalise. 2002. *Le lingue e il linguaggio. Introduzione alla linguistica*. Il Mulino, Bologna, Italy.
-[^7]: Giorgio Graffi. 1994. *Le strutture del linguaggio. Sintassi*. Il Mulino, Bologna, Italy.
-[^8]: Giorgio Graffi. 2008. *Che cos’è la grammatica generativa*. Carocci editore, Roma, Italy
-[^9]: Elisabetta Jezek. 2003. *Classi di verbi tra semantica e sintassi*. Edizioni ETS, Pisa, Italy.
-[^10]: Raffaele Simone and Francesca Masini. 2013. *Nuovi fondamenti di linguistica*. McGraw Hill.
-[^11]: Simonetta Vietri. 2004. *Lessico-grammatica dell’italiano. Metodi, descrizioni e applicazioni*. UTET Università.
-[^12]: Simonetta Vietri. 2014. *Idiomatic constructions in Italian: a lexicon-grammar approach*, volume 31. John Benjamins Publishing Company.
-[^13]: Simonetta Vietri. 2017. *Usi verbali dell’italiano: le frasi anticausative*. Carocci editore.
+1. Alex Warstadt, Amanpreet Singh, Samuel R. Bowman; *Neural Network Acceptability Judgments*. Transactions of the Association for Computational Linguistics. 2019; 7 625–641.
+2. Emilio D’Agostino. 1983. Le*ssico e sintassi dellecostruzioni locative: materiali per la didattica dell’italiano*. Liguori.
+3. Emilio D’Agostino. 1992. An*alisi del discorso: metodi descrittivi dell’italiano d’uso*. Loffredo.
+4. Annibale Elia, Maurizio Martinelli, and Emilio d’Agostino. 1981. L*essico e strutture sintattiche: introduzione alla sintassi del verbo italiano*. Liguori Napoli.
+5. Annibale Elia. 1982. *Avverbi ed espressioni idiomatiche di carattere locativo*. Studi di Grammatica Italiana Firenze, 11:327–379.
+6. Giorgio Graffi and Sergio Scalise. 2002. *Le lingue e il linguaggio. Introduzione alla linguistica*. Il Mulino, Bologna, Italy.
+7. Giorgio Graffi. 1994. *Le strutture del linguaggio. Sintassi*. Il Mulino, Bologna, Italy.
+8. Giorgio Graffi. 2008. *Che cos’è la grammatica generativa*. Carocci editore, Roma, Italy
+9. Elisabetta Jezek. 2003. *Classi di verbi tra semantica e sintassi*. Edizioni ETS, Pisa, Italy.
+10. Raffaele Simone and Francesca Masini. 2013. *Nuovi fondamenti di linguistica*. McGraw Hill.
+11. Simonetta Vietri. 2004. *Lessico-grammatica dell’italiano. Metodi, descrizioni e applicazioni*. UTET Università.
+12. Simonetta Vietri. 2014. *Idiomatic constructions in Italian: a lexicon-grammar approach*, volume 31. John Benjamins Publishing Company.
+13. Simonetta Vietri. 2017. *Usi verbali dell’italiano: le frasi anticausative*. Carocci editore.
 
 
