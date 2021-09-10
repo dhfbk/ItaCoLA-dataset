@@ -26,7 +26,7 @@ Read the paper at [LINK TO BE ADDED]()
 
 ### Download
 
-Download ItaCola from this [LINK TO BE ADDED]()
+Download ItaCola from this [ItaCoLA_dataset.tsv](ItaCoLA_dataset.tsv)
 
 
 
@@ -57,7 +57,32 @@ Sources come from different sources extracted from the linguistic literature, co
 | Vietri_2004<sup>12</sup>        | lexicon-grammar approach         |
 | Vietri_2017<sup>13</sup>       | anticausative sentences          |
 
+#### Data Format
 
+ItaCola is split into:
+
+- `train`: 7762 sentences
+- `test`:  976 sentences
+- `dev`: 948 sentences
+
+Each line in the `.tsv` files consists of 5 tab-separated columns.
+
+- Column 1: an unique ID
+- Column 2:	the source of the sentence 
+- Column 3:	the acceptability judgment label (0=unacceptable, 1=acceptable)
+- Column 4:	the sentence
+- Column 5: the split to which the sentence belongs
+
+
+#### Corpus Sample
+
+| UniqueID | Source          | Judgement | Sentence                                                     | Split |
+| -------- | --------------- | --------- | ------------------------------------------------------------ | ----- |
+| 3        | Graffi_1994     | 1         | Questa donna mi ha colpito. (*That women impressed me*)      | train |
+| 5784     | Vietri_2017     | 1         | Alice ha fatto terrorizzare Francesco da quell'uomo. (*Alice made Francesco terrified of the man.*) | train |
+| 8307     | Vietri_2004     | 0         | Quell'architetto ha alcuni progettato musei. (*That architect has some designed museums.*) | dev   |
+| 9206     | Elia-et-al_1981 | 00        | Il ministro è dal ritiro del passaporto. (*The minister is from passport withdrawal*) | test  |
+| 9366     | Vietri_2004     | 1         | Edoardo ne ride. (*Edward laughs about it*)                  | test  |
 
 #### Annotation
 
@@ -75,33 +100,9 @@ Part of the dataset has been manually annotated with 9 linguistic phenomena.
 | Bind                   |
 | Indefinite pronouns    |
 
-Download the annotated sentences from this [LINK TO BE ADDED]()
-
-#### Split
-
-- `train`: 7762 sentences
-- `test`:  976 sentences
-- `dev`: 948 sentences
-
-####Data Format
-
-Each line in the .tsv files consists of 3 tab-separated columns.
-
-- Column 1:	the source of the sentence 
-- Column 2:	the acceptability judgment label (0=unacceptable, 1=acceptable)
-- Column 3:	the sentence.
+File containing annotated sentences can be downloaded from this [ItaCoLA_dataset_phenomenon](ItaCoLA_dataset_phenomenon.tsv). Every annotated sentence in this file is linked to main one through the unique id. The `.tsv` file has a structure similar to the main corpus, but each phenomenon is represented in a column (1 if present, 0 if not present).
 
 
-
-#### Corpus Sample
-
-| Source          | Judgement | Sentence                                                     |
-| --------------- | --------- | ------------------------------------------------------------ |
-| Graffi_1994     | 1         | Questa donna mi ha colpito. (*That women impressed me*)      |
-| Vietri_2017     | 1         | Alice ha fatto terrorizzare Francesco da quell'uomo. (*Alice made Francesco terrified of the man.*) |
-| Elia-et-al_1981 | 00        | Il ministro è dal ritiro del passaporto. (*The minister is from passport withdrawal*) |
-| Vietri_2004     | 1         | Edoardo ne ride. (*Edward laughs about it*)                  |
-| Vietri_2004     | 0         | Francesco lo detesta mangiare. (*Francesco it hates to eat*) |
 
 
 
