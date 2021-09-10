@@ -1,0 +1,2089 @@
+UniqueIndexID	Source	Acceptability	Sentence	Cleft_construction	Copular_construction	Subject-verb_agreement	Wh-islands_violations	Simple	Question	Auxiliary	Bind	Indefinite_pronouns
+1	Graffi_1994	1	Quest'uomo mi ha colpito.	0	0	1	0	0	0	1	0	0
+2	Graffi_1994	0	Questa donna mi hanno colpito.	0	0	1	0	0	0	1	0	0
+3	Graffi_1994	1	Questa donna mi ha colpito.	0	0	0	0	1	0	1	0	0
+4	Graffi_1994	0	Quella donna che accompagnava i bambini mi hanno colpito.	0	0	1	0	0	0	1	0	0
+5	Graffi_1994	1	Quella donna che accompagnava i bambini mi ha colpito.	0	0	1	0	0	0	1	0	0
+6	Graffi_1994	1	La donna che mi ha colpito è Giulia.	0	0	1	0	0	0	1	0	0
+7	Graffi-Scalise_2002	1	La donna che i ragazzi dicono che mi ha colpito è Giulia.	0	0	1	0	0	0	1	0	0
+8	Graffi_1994	1	La donna che i vicini credono che i ragazzi dicano che mi ha colpito è Sofia.	0	0	1	0	0	0	1	0	0
+9	Graffi_1994	1	La donna che i Rossi sostengono che i vicini credono che i ragazzi dicano che mi ha colpito è Paola.	0	0	0	0	0	0	1	0	0
+10	Graffi_1994	0	La donna che i Rossi sostengono che i vicini credono che i ragazzi dicano che mi hanno colpito è Giulia.	0	0	0	0	0	0	1	0	0
+11	Graffi_1994	0	Quell'uomo e quella donna mi ha colpito.	0	0	1	0	0	0	1	0	0
+12	Graffi_1994	1	Quest'uomo ha colpito me.	0	0	1	0	0	0	1	0	0
+13	Graffi_1994	1	Io sono stato colpito da quest'uomo.	0	0	1	0	0	0	1	0	0
+14	Graffi_1994	1	Chi mi ha colpito?	0	0	0	1	0	1	0	0	0
+15	Graffi_1994	1	Chi dici che mi ha colpito?	0	0	0	1	0	1	0	0	0
+16	Graffi_1994	1	Chi dici che Leonardo sostiene che mi ha colpito?	0	0	0	0	0	1	1	0	0
+17	Graffi_1994	1	Chi dici che Tommaso sostiene che i vicini pensano che mi abbia colpito?	0	0	0	0	0	1	1	0	0
+18	Graffi_1994	0	Il mio per preferito è la Divina Commedia.	0	0	0	0	0	0	1	0	0
+19	Graffi_1994	0	Il mio oggi preferito è la Divina Commedia.	0	0	0	0	0	0	1	0	0
+20	Graffi_1994	0	Il mio e preferito è la Divina Commedia.	0	0	0	0	0	0	1	0	0
+21	Graffi_1994	0	Il mio leggo preferito è la Divina Commedia.	0	0	0	0	0	0	1	0	0
+22	Graffi_1994	0	Il mio esso preferito è la Divina Commedia.	0	0	0	0	0	0	1	0	0
+23	Graffi_1994	0	Il mio alto preferito è la Divina Commedia.	0	0	0	0	0	0	1	0	0
+24	Graffi_1994	1	Il mio libro preferito è la Divina Commedia.	0	0	0	0	0	0	1	0	0
+25	Graffi_1994	1	Il mio poema preferito è la Divina Commedia.	0	0	0	0	0	0	1	0	0
+26	Graffi_1994	0	Il mio lettura preferito è la Divina Commedia.	0	0	0	0	0	0	1	0	0
+27	Graffi_1994	1	La mia lettura preferita era la Divina Commedia.	0	0	0	0	1	0	1	0	0
+28	Graffi_1994	1	La mia lettura preferita è stata la Divina Commedia.	0	0	1	0	0	0	1	0	0
+29	Graffi_1994	1	Il sindaco parlerà dopo.	0	0	0	0	1	0	0	0	0
+31	Graffi_1994	1	Lorenzo lo ha portato dentro.	0	0	1	0	0	0	0	0	0
+32	Graffi_1994	1	Riccardo legge.	0	0	0	0	1	0	0	0	0
+33	Graffi_1994	1	Tommaso legge il giornale.	0	0	0	0	1	0	0	0	0
+35	Graffi_1994	1	Lorenzo mangia un gelato.	0	0	0	0	1	0	0	0	0
+37	Graffi_1994	1	Gabriele scrive una lettera.	0	0	0	0	1	0	0	0	0
+38	Graffi_1994	1	Gabriele ha detto la verità.	0	0	0	0	1	0	0	0	0
+42	Graffi_1994	1	Lorenzo teme la guerra.	0	0	0	0	1	0	0	0	0
+44	Graffi_1994	1	Tommaso beve un bicchiere di vino.	0	0	0	0	1	0	0	0	0
+46	Graffi_1994	0	La guerra teme Francesco.	0	0	0	0	1	0	0	0	0
+47	Graffi_1994	1	Il giudice ha interrogato il testimone.	0	0	0	0	1	0	0	0	0
+48	Graffi_1994	0	Il giudice ha interrogato il gatto.	0	0	0	0	1	0	0	0	0
+49	Graffi_1994	1	Il giudice ha domandato al testimone chi era entrato in casa.	0	0	1	0	0	0	1	0	0
+50	Graffi_1994	0	Il giudice ha domandato al gatto chi era entrato in casa.	0	0	1	0	0	0	1	0	0
+51	Graffi_1994	1	Il giudice ha interrogato il testimone ieri sera.	0	0	1	0	0	0	1	0	0
+52	Graffi_1994	1	Il testimone ha interrogato il giudice ieri sera.	0	0	1	0	0	0	1	0	0
+53	Graffi_1994	1	Ieri sera il giudice ha interrogato il testimone.	0	0	1	0	0	0	0	0	0
+54	Graffi_1994	1	Lorenzo ha subito molte torture.	0	0	1	0	0	0	0	0	0
+55	Graffi_1994	1	Sono arrivati molti ragazzi.	0	0	1	0	1	0	0	0	1
+56	Graffi_1994	1	Hanno telefonato molti ragazzi.	0	0	1	0	0	0	0	0	0
+57	Graffi_1994	1	Ne sono arrivati molti.	0	0	1	0	1	0	0	0	0
+58	Graffi_1994	0	Ne hanno telefonato molti.	0	0	1	0	0	0	0	0	0
+59	Graffi_1994	1	Ne è ricomparso il padre.	0	0	1	0	0	0	0	0	0
+60	Graffi_1994	0	Ne ha telefonato il padre.	0	0	1	0	0	0	0	0	0
+65	Graffi_1994	0	Alessandro è un grande partitore.	0	1	0	0	0	0	0	0	0
+66	Graffi_1994	1	Francesco è un grande oratore.	0	1	0	0	1	0	0	0	0
+67	Graffi_1994	1	I negozianti hanno aumentato i prezzi.	0	1	0	0	1	0	0	0	0
+68	Graffi_1994	1	Le sue opinioni sono cambiate.	0	1	1	0	1	0	0	0	0
+69	Graffi_1994	1	Quel filosofo ha cambiato le sue opinioni.	0	0	0	0	1	0	0	0	0
+70	Graffi_1994	1	Edoardo ne ha salvati molti.	0	0	1	0	1	0	0	0	0
+73	Graffi_1994	1	Il palazzo è crollato.	0	1	0	0	1	0	0	0	0
+74	Graffi_1994	1	La partenza è prevista per le ore otto.	0	0	1	0	0	0	0	0	0
+78	Graffi_1994	1	Manzoni ha descritto la peste di Milano.	0	0	0	0	1	0	0	0	0
+81	Graffi_1994	1	Riccardo ha danneggiato se stesso.	0	0	1	0	0	0	0	0	0
+82	Graffi_1994	1	Quegli uomini si sono denunciati.	0	0	1	0	0	0	0	0	0
+85	Graffi_1994	1	Hanno dato il premio a lui.	0	0	1	0	1	0	0	0	0
+86	Graffi_1994	1	Hanno dato il premio a Gabriele.	0	0	1	0	0	0	0	0	0
+87	Graffi_1994	0	Hanno dato il premio gli.	0	0	1	0	0	0	0	0	0
+94	Graffi_1994	1	Ho incontrato Lorenzo e Paola.	0	0	1	0	1	0	0	0	0
+97	Graffi_1994	1	Ho incontrato lei, non lui.	0	0	1	0	0	0	0	0	0
+99	Graffi_1994	1	L'ho incontrato ieri.	0	0	1	0	0	0	0	0	0
+105	Graffi_1994	1	Sono andato più volte a Firenze.	0	0	1	0	0	0	0	0	0
+106	Graffi_1994	1	Ci sono andato più volte.	0	0	1	0	0	0	0	0	0
+107	Graffi_1994	1	Ne ho scoperto solo ieri il colpevole.	0	0	1	0	0	0	0	0	0
+108	Graffi_1994	1	Sono stato molto colpito da quella reazione.	0	0	1	0	0	0	0	0	0
+109	Graffi_1994	1	Ne sono stato molto colpito.	0	0	1	0	0	0	0	0	0
+110	Graffi_1994	1	Ne ho incontrati molti.	0	0	1	0	0	0	0	0	0
+111	Graffi_1994	0	Ci più volte sono andato.	0	0	1	0	0	0	0	0	0
+112	Graffi_1994	0	Ne solo ieri ho scoperto il colpevole.	0	0	1	0	0	0	0	0	0
+113	Graffi_1994	1	Ci sono più volte andato.	0	0	1	0	0	0	0	0	0
+114	Graffi_1994	1	Ne ho solo ieri scoperto il colpevole.	0	0	1	0	0	0	0	0	0
+115	Graffi_1994	1	Non ce l'ho trovato.	0	0	1	0	0	0	0	0	0
+116	Graffi_1994	0	Non c'ho trovato.	0	0	1	0	0	0	0	0	0
+117	Graffi_1994	1	Ho dato alcuni libri ad Edoardo.	0	0	1	0	0	0	0	0	0
+118	Graffi_1994	1	Gliene ho dati.	0	0	1	0	0	0	0	0	0
+119	Graffi_1994	1	In quella biblioteca non ho trovato molti libri.	0	0	1	0	0	0	0	0	0
+120	Graffi_1994	1	Non ho trovato molti libri in quella biblioteca.	0	0	1	0	0	0	0	0	0
+121	Graffi_1994	0	Non ne ci ho trovati molti.	0	0	1	0	1	0	0	0	1
+122	Graffi_1994	1	Ho incontrato lei.	0	0	1	0	1	0	0	0	0
+123	Graffi_1994	1	Ho incontrato loro.	0	0	1	0	0	0	0	0	0
+124	Graffi_1994	1	Li ho incontrati.	0	0	1	0	1	0	0	0	0
+125	Graffi_1994	1	Ho incontrato molti amici.	0	0	1	0	0	0	0	0	0
+126	Graffi_1994	1	L'ho visto.	0	0	1	0	0	0	0	0	0
+127	Graffi_1994	1	Sono andato a Roma perché volevo parlare con Tommaso, ma non l'ho visto.	0	0	1	0	0	0	0	0	0
+128	Graffi_1994	0	Beatrice ha parlato di se stesso.	0	0	1	0	0	0	0	0	0
+129	Graffi_1994	1	Riccardo ha ingannato se stesso.	0	0	1	0	0	0	0	0	0
+130	Graffi_1994	1	Francesco lo ha ingannato.	0	0	1	0	1	0	0	0	0
+131	Graffi_1994	1	Edoardo dice che Tommaso lo ha ingannato.	0	0	1	0	0	0	0	0	0
+132	Graffi_1994	1	Tommaso ha detto che Emma ha fatto questo regalo a lui (e non a Francesco).	0	0	1	0	0	0	0	0	0
+133	Graffi_1994	1	Lui ha detto che Paola ha fatto questo regalo a Lorenzo (e non ad Alessandro).	0	0	1	0	0	0	0	0	0
+134	Graffi_1994	1	La sua arringa non ha convinto i giudici.	0	0	1	0	0	0	0	0	0
+135	Graffi_1994	1	L'avvocato Azzeccagarbugli ce l'ha messa tutta, ma la sua arringa non ha convinto i giudici.	0	0	1	0	0	0	0	0	0
+136	Graffi_1994	1	I loro argomenti non hanno convinto gli studenti.	0	0	1	0	0	0	0	0	0
+137	Graffi_1994	1	Gli argomenti di quei professori non hanno convinto i loro studenti.	0	0	1	0	0	0	0	0	0
+138	Graffi_1994	0	La propria arringa non ha convinto i giudici.	0	0	1	0	0	0	0	0	0
+139	Graffi_1994	1	Riccardo è partito.	0	0	1	0	0	0	0	0	0
+140	Graffi_1994	1	Il figlio del mio vicino del terzo piano è partito.	0	0	1	0	0	0	0	0	0
+142	Graffi_1994	1	Lorenzo è tornato l'anno scorso nella sua città natale.	0	0	1	0	0	0	0	0	0
+143	Graffi_1994	1	Nella sua città natale, Riccardo è tornato l'anno scorso.	0	0	1	0	0	0	0	0	0
+144	Graffi_1994	1	Francesco è tornato nella sua città natale l'anno scorso.	0	0	1	0	0	0	0	0	0
+145	Graffi_1994	0	Edoardo è tornato nella sua l'anno scorso città natale.	0	0	1	0	0	0	0	0	0
+146	Graffi_1994	1	Leonardo l'anno scorso è tornato nella sua città natale.	0	0	1	0	0	0	0	0	0
+148	Graffi_1994	0	Riccardo è.	0	1	0	0	1	0	0	0	0
+149	Graffi_1994	1	Leonardo è tornato l'anno scorso nella sua città natale e nel villaggio dove aveva trascorso la sua infanzia.	0	0	1	0	0	0	0	0	0
+150	Graffi_1994	0	Francesco ha mangiato una mela e nella sua città natale.	0	0	1	0	0	0	0	0	0
+151	Graffi_1994	1	Gabriele ci è tornato l'anno scorso.	0	0	1	0	0	0	0	0	0
+152	Graffi_1994	1	Giulia ha salutato il suo ragazzo.	0	0	1	0	0	0	0	0	0
+153	Graffi_1994	1	Emma lo ha salutato.	0	0	1	0	0	0	0	0	0
+154	Graffi_1994	1	Riccardo ha dormito dentro il sacco a pelo.	0	0	1	0	0	0	0	0	0
+155	Graffi_1994	1	Edoardo ha portato dentro il sacco a pelo.	0	0	1	0	0	0	0	0	0
+156	Graffi_1994	0	Dentro il sacco a pelo, Lorenzo ha portato.	0	0	1	0	0	0	0	0	0
+157	Graffi_1994	1	Gabriele ha dormito dentro il sacco a pelo e sotto la finestra.	0	0	1	0	0	0	0	0	0
+158	Graffi_1994	0	Andrea ha portato dentro il sacco a pelo e sotto la finestra.	0	0	1	0	0	0	0	0	0
+159	Graffi_1994	1	Dentro il sacco a pelo, Riccardo ci ha dormito.	0	0	1	0	0	0	0	0	0
+160	Graffi_1994	0	Dentro l'armadio, Gabriele ci ha portato.	0	0	1	0	0	0	0	0	0
+161	Graffi_1994	1	Molto intelligente, Andrea non è.	0	1	0	0	0	0	0	0	0
+162	Graffi_1994	1	Gabriele non è molto intelligente, credo.	0	1	0	0	0	0	0	0	0
+163	Graffi_1994	1	Leonardo, credo, non è molto intelligente.	0	1	0	0	0	0	0	0	0
+164	Graffi_1994	1	Tommaso non è, credo, molto intelligente.	0	1	0	0	0	0	0	0	0
+166	Graffi_1994	1	Leonardo è molto intelligente.	0	1	0	0	0	0	0	0	0
+167	Graffi_1994	1	Gabriele è abbastanza onesto.	0	1	0	0	0	0	0	0	0
+168	Graffi_1994	1	Gabriele è molto intelligente e abbastanza onesto.	0	1	0	0	0	0	0	0	0
+169	Graffi_1994	1	Lorenzo lo ha incontrato.	0	0	1	0	0	0	0	0	0
+170	Graffi_1994	1	Molte persone hanno chiamato quel numero.	0	0	1	0	0	0	0	0	0
+171	Graffi_1994	1	Hanno chiamato quel numero molte persone.	0	0	1	0	0	0	0	0	0
+172	Graffi_1994	0	Hanno molte persone chiamato quel numero.	0	0	1	0	0	0	0	0	0
+173	Graffi_1994	0	Hanno chiamato, credo, quel numero molte persone.	0	0	1	0	0	0	0	0	0
+176	Graffi_1994	0	Hanno chiamato quel molte persone numero.	0	0	1	0	0	0	0	0	0
+177	Graffi_1994	1	Il ragazzo che abita al quarto piano del condominio in fondo alla strada a destra cammina.	0	0	0	0	0	0	1	0	0
+179	Graffi_1994	1	Andrea e il ragazzo che abita al quarto piano del condominio in fondo alla strada a destra camminano.	0	0	0	0	0	0	1	0	0
+180	Graffi_1994	1	Gabriele ha visto la sua amica con un binocolo.	0	0	1	0	0	0	0	0	0
+181	Graffi_1994	1	Ho trovato vuota la gabbia.	0	0	1	0	1	0	0	0	0
+182	Graffi_1994	1	Ho trovato la gabbia vuota.	0	0	1	0	0	0	0	0	0
+185	Graffi_1994	1	Beatrice ha detto che Riccardo crede che Alessandro abbia mentito.	0	0	1	0	0	0	1	0	0
+186	Graffi_1994	1	Francesco ha comprato il giornale.	0	0	0	0	1	0	0	0	0
+187	Graffi_1994	1	Andrea non ha comprato il giornale.	0	0	0	0	1	0	0	0	0
+188	Graffi_1994	1	Gli amici hanno salutato Leonardo.	0	0	0	0	1	0	0	0	0
+189	Graffi_1994	1	Andrea è stato salutato dagli amici.	0	0	1	0	0	0	0	0	0
+190	Graffi_1994	1	Francesco ha domandato chi aveva visto Andrea.	0	0	1	0	0	0	1	0	0
+191	Graffi_1994	1	Gabriele ha domandato chi non aveva visto Leonardo.	0	0	1	0	0	0	1	0	0
+192	Graffi_1994	1	Questo libro, non lo ho aveva mai letto.	0	0	1	0	0	0	0	0	0
+193	Graffi_1994	1	A Tommaso, gli ho regalato un portafortuna.	0	0	1	0	0	0	0	0	0
+194	Graffi_1994	1	Non avevo mai letto questo libro.	0	0	1	0	0	0	0	0	0
+195	Graffi_1994	1	Ho regalato un portafortuna a Tommaso.	0	0	1	0	0	0	0	0	0
+196	Graffi_1994	1	Mi hanno detto che Tommaso parlerà domani.	0	0	1	0	0	0	1	0	0
+198	Graffi_1994	1	Riccardo, gli ho regalato un portafortuna.	0	0	1	0	0	0	0	0	0
+199	Graffi_1994	1	Questo signore, Dio gli ha toccato il cuore.	0	0	1	0	0	0	0	0	0
+200	Graffi_1994	1	Edoardo ho visto ieri, non Tommaso.	0	0	1	0	0	0	0	0	0
+201	Graffi_1994	1	A Francesco ho dato il libro, non a Lorenzo.	0	0	1	0	0	0	0	0	0
+203	Graffi_1994	0	Gabriele ho dato il libro, non a Riccardo.	0	0	1	0	0	0	0	0	0
+204	Graffi_1994	1	Lo riferirò ai giudici, quello che ho sentito.	0	0	1	0	0	0	0	0	0
+206	Graffi_1994	1	Riferirò ai giudici quello che ho sentito.	0	0	1	0	0	0	0	0	0
+209	Graffi_1994	1	È Lorenzo che parlerà stasera in piazza alla cittadinanza.	1	1	0	0	0	0	0	0	0
+210	Graffi_1994	1	È in piazza che Francesco parlerà stasera alla cittadinanza.	1	0	0	0	0	0	0	0	0
+211	Graffi_1994	1	È alla cittadinanza che Tommaso parlerà stasera in piazza.	1	0	0	0	0	0	0	0	0
+212	Graffi_1994	1	Alessandro ha riconosciuto i suoi errori.	0	1	0	0	1	0	0	0	0
+213	Graffi_1994	1	Lorenzo non ha riconosciuto i suoi errori.	0	1	0	0	1	0	0	0	0
+214	Graffi_1994	0	Che cosa ha comprato il giornale Andrea?	0	1	0	0	0	1	0	0	0
+215	Graffi_1994	0	Gabriele ha comprato.	0	1	1	0	0	0	0	0	0
+218	Graffi_1994	1	Tommaso ha messo i fogli nel cassetto.	0	0	1	0	0	0	0	0	0
+219	Graffi_1994	1	Su quale cassetto Tommaso ha sparso i fogli?	0	0	0	0	0	1	1	0	0
+220	Graffi_1994	1	Su quale cassetto hai detto che Tommaso ha sparso i fogli?	0	0	0	0	0	1	1	0	0
+221	Graffi_1994	1	Su quale pavimento hai detto che Andrea ha sparso i fogli?	0	0	0	0	0	1	1	0	0
+222	Graffi_1994	1	Su quale pavimento hai detto che Gabriele crede che Francesco ha sparso i fogli?	0	0	0	0	0	1	1	0	0
+223	Graffi_1994	1	Che figura credi che Edoardo abbia fatto agli esami di maturità?	0	0	0	0	0	1	1	0	0
+224	Graffi_1994	1	Che attenzione ritieni che l'uditorio abbia prestato a Leonardo?	0	0	0	0	0	1	1	0	0
+225	Graffi_1994	1	Che partito pensi che Tommaso abbia tratto da quella situazione?	0	0	0	0	0	1	1	0	0
+226	Graffi_1994	0	Quali pietre desideri che dormano in questa stanza?	0	0	0	0	0	1	1	0	0
+236	Graffi_1994	1	Non so che cosa abbia comprato Tommaso.	0	0	1	0	0	0	0	0	0
+237	Graffi_1994	1	Non so che cosa Riccardo abbia comprato.	0	0	1	0	0	0	0	0	0
+239	Graffi_1994	1	So che Lorenzo ha comprato il giornale.	0	0	1	0	0	0	0	0	0
+242	Graffi_1994	1	Il fatto che i soldati si siano comportati così non ha meravigliato nessuno.	0	0	0	0	0	0	1	0	0
+243	Graffi_1994	1	L'idea che i soldati potessero comportarsi così non era venuta in mente a nessuno.	0	0	0	0	0	0	1	0	0
+244	Graffi_1994	1	L'ordine che i soldati si comportassero così non era stato dato da nessuno.	0	0	0	0	0	0	1	0	0
+245	Graffi_1994	1	Dato che Riccardo è arrivato tardi, abbiamo dovuto cenare in fretta.	0	0	0	0	0	0	1	0	0
+246	Graffi_1994	1	Abbiamo aspettato l'arrivo di Alessandro per poter cenare tutti insieme.	0	0	1	0	0	0	0	0	0
+247	Graffi_1994	1	Abbiamo potuto cenare.	0	0	1	0	0	0	0	0	0
+248	Graffi_1994	1	Abbiamo aspettato l'arrivo di Lorenzo.	0	0	1	0	0	0	0	0	0
+249	Graffi_1994	1	Abbiamo dovuto cenare in fretta, dato che Edoardo è arrivato tardi.	0	0	1	0	0	0	0	0	0
+250	Graffi_1994	1	Abbiamo potuto cenare, quando è arrivato Gabriele.	0	0	1	0	0	0	0	0	0
+251	Graffi_1994	1	Per poter cenare tutti insieme, abbiamo aspettato l'arrivo di Alessandro.	0	0	1	0	0	0	0	0	0
+252	Graffi_1994	1	La quercia è caduta.	0	1	1	0	0	0	0	0	0
+253	Graffi_1994	1	La quercia grande è caduta.	0	1	1	0	0	0	0	0	0
+254	Graffi_1994	1	La quercia che era grande è caduta.	0	1	1	0	0	0	0	0	0
+255	Graffi_1994	1	La quercia della quale aveva parlato il poeta è caduta.	0	1	1	0	0	0	0	0	0
+256	Graffi_1994	1	Contesto in pieno quanto ha affermato il testimone.	0	0	1	0	0	0	0	0	0
+257	Graffi_1994	1	Gli studenti che non si sono iscritti all'appello non possono sostenere l'esame.	0	0	1	0	0	0	1	0	0
+258	Graffi_1994	1	Andrea, che non si è iscritto all'appello, non può sostenere l'esame.	0	0	0	0	0	0	1	0	0
+259	Graffi_1994	1	Abbiamo bruciato i libri che erano inutili.	0	0	1	0	0	0	0	0	0
+260	Graffi_1994	1	Abbiamo bruciato i libri, che erano inutili.	0	0	1	0	0	0	0	0	0
+261	Graffi_1994	1	L'uomo che parlerà stasera non sa una parola di inglese.	0	0	0	0	0	0	1	0	0
+262	Graffi_1994	1	Riccardo, il quale è venuto a trovarmi ieri, mi ha detto di salutarti.	0	0	1	0	0	0	1	0	0
+263	Graffi_1994	1	Lo studente che è venuto a trovarmi ieri mi ha detto di salutarti.	0	0	1	0	0	0	1	0	0
+264	Graffi_1994	0	Lo studente il quale è venuto a trovarmi ieri mi ha detto di salutarti.	0	0	1	0	0	0	1	0	0
+265	Graffi_1994	1	Riccardo ha ordinato a Maria di studiare ogni giorno.	0	0	1	0	0	0	1	0	0
+266	Graffi_1994	1	Lui ha incontrato Beatrice alla stazione.	0	0	1	0	0	0	0	0	0
+267	Graffi_1994	1	Ha incontrato Maria alla stazione.	0	0	1	0	0	0	0	0	0
+268	Graffi_1994	0	Francesco ha ordinato a Maria di lei studiare ogni giorno.	0	0	1	0	0	0	1	0	0
+269	Graffi_1994	1	Non è possibile parlare domani.	0	1	0	0	0	0	0	0	0
+271	Graffi_1994	1	Francesco non sa che cosa fare di questi soldi.	0	0	0	0	0	0	1	0	0
+272	Graffi_1994	1	Andrea ha parlato della Divina Commedia.	0	0	1	0	0	0	0	0	0
+273	Graffi_1994	1	Lorenzo ne ha parlato.	0	0	1	0	0	0	0	0	0
+274	Graffi_1994	1	Alessandro ha assunto la guida del governo.	0	0	1	0	0	0	0	0	0
+275	Graffi_1994	1	Francesco ne ha assunto la guida.	0	0	1	0	0	0	1	0	0
+276	Graffi_1994	1	Paola dubita di aver incontrato la persona giusta.	0	0	0	0	0	0	1	0	0
+278	Graffi_1994	1	Paola si rammarica di aver agito così.	0	0	0	0	0	0	1	0	0
+279	Graffi_1994	1	Riccardo lo ha promesso a Paola.	0	0	1	0	0	0	1	0	0
+280	Graffi_1994	1	Gabriele lo ha ordinato a Beatrice.	0	0	1	0	0	0	0	0	0
+282	Graffi_1994	1	Leonardo ha sentito lei cantare l'Aida.	0	0	1	0	0	0	0	0	0
+283	Graffi_1994	0	Ho fatto Riccardo parlare.	0	0	1	0	0	0	0	0	0
+284	Graffi_1994	1	Ho lasciato parlare Edoardo.	0	0	1	0	0	0	0	0	0
+285	Graffi_1994	0	Ho lasciato Riccardo parlare.	0	0	1	0	0	0	0	0	0
+286	Graffi_1994	1	Il Gentile […] aveva dichiarato molto significativamente esser la sua filosofia nient'affatto separata dal mondo degli uomini.	0	0	1	0	0	0	0	0	0
+287	Graffi_1994	1	La commissione ritiene dunque aver il candidato fornito sufficienti prove della sua maturità scientifica.	0	0	0	0	0	0	1	0	0
+288	Graffi_1994	1	Il candidato ha fornito sufficienti prove della sua maturità scientifica.	0	0	0	0	0	0	1	0	0
+289	Graffi_1994	0	Ha fornito il candidato sufficienti prove della sua maturità scientifica.	0	0	1	0	0	0	1	0	0
+290	Graffi_1994	1	Avendo incontrato di nuovo Alice, Riccardo si sentiva molto felice.	0	0	1	0	0	0	1	0	0
+291	Graffi_1994	1	Hanno eletto Gabriele presidente.	0	0	1	0	1	0	0	0	0
+293	Graffi_1994	1	Andrea è stato eletto presidente.	0	1	1	0	0	0	0	0	0
+295	Graffi_1994	1	I personaggi descritti nel romanzo non sono molto fedeli alla realtà.	0	0	0	0	0	0	1	0	0
+296	Graffi_1994	1	Nel filmato, Alice ha visto se stessa ritirare un premio.	0	0	1	0	0	0	0	0	0
+297	Graffi_1994	1	Chi prevedi che Riccardo incontrerà a Bruxelles?	0	0	0	1	0	1	0	0	0
+299	Graffi_1994	1	I vandali saccheggiarono Roma.	0	0	0	0	1	0	0	0	0
+302	Graffi_1994	1	Andrea ha domandato che ora era.	0	0	0	0	1	0	0	0	0
+303	Graffi_1994	1	Riccardo ha domandato l'ora.	0	0	0	0	1	0	0	0	0
+304	Graffi_1994	1	Francesco ha convinto suo figlio che è utile studiare il latino.	0	0	1	0	0	0	1	0	0
+305	Graffi_1994	1	Edoardo ha convinto suo figlio dell'utilità di studiare il latino.	0	0	1	0	0	0	1	0	0
+306	Graffi_1994	0	Leonardo ha convinto suo figlio l'utilità studiare il latino.	0	0	1	0	0	0	1	0	0
+307	Graffi_1994	1	Roma fu saccheggiata dai Vandali.	0	1	1	0	0	0	0	0	0
+308	Graffi_1994	1	Roma fu saccheggiata.	0	1	1	0	0	0	0	0	0
+309	Graffi_1994	1	Il suo timore della guerra è ingiustificato.	0	1	0	0	0	0	0	0	0
+310	Graffi_1994	1	La guerra è molto temuta da Edoardo.	0	1	0	0	0	0	0	0	0
+311	Graffi_1994	1	La guerra è molto temuta.	0	1	0	0	0	0	0	0	0
+312	Graffi_1994	1	Alessandro ha perso la testa.	0	1	0	0	1	0	0	0	0
+313	Graffi_1994	1	Gabriele ha tirato le cuoia.	0	1	0	0	1	0	0	0	0
+314	Graffi_1994	1	Francesco ha tirato il cordoncino del campanello.	0	1	1	0	0	0	0	0	0
+315	Graffi_1994	0	I vandali saccheggiarono di Roma.	0	0	0	0	1	0	0	0	0
+316	Graffi_1994	1	Alessandro ha affermato che la situazione è grave.	0	0	1	0	0	0	1	0	0
+317	Graffi_1994	1	L'affermazione di Lorenzo che la situazione è grave.	0	0	0	0	0	0	1	0	0
+318	Graffi_1994	0	L'affermazione di Francesco che di la situazione è grave.	0	0	0	0	0	0	1	0	0
+319	Graffi_1994	0	Tommaso è bramoso potere.	0	1	0	0	0	0	0	0	0
+320	Graffi_1994	1	Edoardo non si era accorto che Francesco era entrato.	0	0	0	0	0	0	1	0	0
+321	Graffi_1994	1	Tommaso non si era accorto dell'entrata di Leonardo.	0	0	0	0	0	0	1	0	0
+322	Graffi_1994	0	Riccardo non si era accorto l'entrata di Edoardo.	0	0	0	0	0	0	1	0	0
+326	Graffi_1994	1	Riccardo ha scommesso sulla barca di Tommaso.	0	0	1	0	0	0	1	0	0
+327	Graffi_1994	1	Sulla barca di Leonardo, Alessandro ha scommesso.	1	0	1	0	0	0	1	0	0
+331	Graffi_1994	1	Penso che Edoardo domandi che ora è a Tommaso.	0	0	0	0	0	0	1	0	0
+342	Graffi_1994	1	Leonardo ha affermato che Riccardo arriva.	0	0	1	0	0	0	0	0	0
+343	Graffi_1994	1	Tommaso ha affermato che Lorenzo discute la sua tesi di laurea.	0	0	1	0	0	0	0	0	0
+344	Graffi_1994	1	Alessandro ha affermato che Francesco si sposa.	0	0	1	0	0	0	0	0	0
+345	Graffi_1994	1	Gli ho detto dove andare.	0	0	1	0	0	0	0	0	0
+346	Graffi_1994	0	Gli ho detto dove di andare.	0	0	1	0	0	0	0	0	0
+347	Graffi_1994	1	Francesco ha promesso che se ne andrà.	0	0	1	0	0	0	0	0	0
+348	Graffi_1994	1	Riccardo ha promesso di andarsene.	0	0	1	0	0	0	0	0	0
+349	Graffi_1994	1	Tommaso ha domandato chi partirà domani.	0	0	1	0	0	0	0	0	0
+350	Graffi_1994	0	Francesco ha domandato che partirà domani.	0	0	1	0	0	0	0	0	0
+353	Graffi_1994	1	Andrea ha detto che Gabriele ha comprato il giornale.	0	0	1	0	0	0	0	0	0
+354	Graffi_1994	1	Ti ho detto che le mani me le sono già lavate.	0	0	1	0	0	0	0	0	0
+356	Graffi_1994	1	Partito io, avrete più spazio a disposizione.	0	0	1	0	0	0	0	0	0
+357	Graffi_1994	1	Leonardo sembra aver dato un libro a Paola.	0	0	1	0	0	0	0	0	0
+358	Graffi_1994	1	Ha danneggiato se stesso.	0	0	1	0	0	0	0	0	0
+359	Graffi_1994	1	Ha danneggiato lui.	0	0	1	0	0	0	0	0	0
+360	Graffi_1994	1	Lorenzo ha detto che lui parlerà, mentre gli altri non avranno il coraggio.	0	0	1	0	0	0	1	0	0
+361	Graffi_1994	1	Lui ha danneggiato se stesso, nessun altro è responsabile.	0	0	1	0	0	0	0	0	0
+362	Graffi_1994	1	Alessandro ha ordinato ad Edoardo di difendersi.	0	0	1	0	0	0	1	0	0
+363	Graffi_1994	1	Hanno eletto Alessandro presidente del Consiglio.	0	0	1	0	0	0	1	0	0
+365	Graffi_1994	1	Ho visto Leonardo uscire dal cinema.	0	0	1	0	0	0	0	0	0
+366	Graffi_1994	1	Gabriele ha salutato Giulia.	0	0	0	0	1	0	0	0	0
+367	Graffi_1994	1	Alice è stata salutata da Gabriele.	0	0	1	0	0	0	0	0	0
+368	Graffi_1994	1	Maria è amata da Riccardo.	0	1	1	0	0	0	0	0	0
+369	Graffi_1994	1	Giulia è amata.	0	1	1	0	0	0	0	0	0
+370	Graffi_1994	1	È stata salutata Alice.	0	1	1	0	0	0	0	0	0
+371	Graffi_1994	0	Maria è stata salutata Alice.	0	1	1	0	1	0	0	0	0
+372	Graffi_1994	1	È stato scoperto un delitto.	0	1	1	0	0	0	0	0	0
+373	Graffi_1994	1	Il fatto che sia stato scoperto un delitto ci ha sconvolti.	0	0	1	0	0	0	1	0	0
+374	Graffi_1994	1	Lo hanno scoperto.	0	1	1	0	0	0	0	0	0
+375	Graffi_1994	0	Lo è stato scoperto.	0	1	1	0	0	0	0	0	0
+376	Graffi_1994	1	Esaminano molti studenti.	0	0	1	0	0	0	0	0	0
+378	Graffi_1994	1	Sono esaminati molti studenti.	0	0	1	0	0	0	0	0	0
+379	Graffi_1994	1	Ne sono esaminati molti.	0	0	1	0	0	0	0	0	0
+385	Graffi_1994	1	Maria è arrivata.	0	1	1	0	0	0	0	0	0
+386	Graffi_1994	1	Hanno parlato molti ragazzi.	0	0	1	0	0	0	0	0	0
+387	Graffi_1994	1	Chi ha dato un libro a Riccardo?	0	0	0	1	0	1	0	0	0
+388	Graffi_1994	1	Che cosa ha dato a Lorenzo, Tommaso?	0	0	0	1	0	1	0	0	0
+397	Graffi_1994	1	Quale persona hai incontrato?	0	0	0	1	0	1	0	0	0
+398	Graffi_1994	1	Chi hai incontrato?	0	0	0	1	0	1	0	0	0
+399	Graffi_1994	1	Chi hai detto che hai incontrato?	0	0	0	1	0	1	0	0	0
+400	Graffi_1994	1	Chi hai detto che credi che Tommaso abbia incontrato?	0	0	0	1	0	1	0	0	0
+401	Graffi_1994	1	Chi hai detto che credi che Paola pensi che Riccardo abbia incontrato?	0	0	0	1	0	1	0	0	0
+404	Graffi_1994	1	Ho incontrato la persona che conosceva questi segreti.	0	0	1	0	0	0	0	0	0
+405	Graffi_1994	1	Ho fatto l'affermazione che Edoardo conosceva questi segreti.	0	0	1	0	0	0	0	0	0
+406	Graffi_1994	0	Quali segreti hai incontrato la persona che conosceva?	0	0	0	1	0	1	0	0	0
+407	Graffi_1994	0	Quali segreti hai fatto l'affermazione che Tommaso conosceva?	0	0	0	1	0	1	0	0	0
+408	Graffi_1994	1	Quali segreti hai affermato che Riccardo conosceva?	0	0	0	1	0	1	0	0	0
+409	Graffi_1994	1	La persona a cui ho parlato è il mio miglior amico.	0	0	1	0	0	0	1	0	0
+410	Graffi_1994	1	La persona alla quale ho parlato è il mio miglior amico.	0	0	1	0	0	0	1	0	0
+411	Graffi_1994	0	La persona a che ho parlato è il mio miglior amico.	0	0	1	0	0	0	1	0	0
+412	Graffi_1994	1	La persona di cui ho parlato è il mio miglior amico.	0	0	1	0	0	0	1	0	0
+413	Graffi_1994	1	La persona della quale ho parlato è il mio miglior amico.	0	0	1	0	0	0	1	0	0
+414	Graffi_1994	0	La persona di che ho parlato è il mio miglior amico.	0	0	1	0	0	0	1	0	0
+415	Graffi_1994	1	La sedia sulla quale ti sei seduto è rotta.	0	0	1	0	0	0	1	0	0
+416	Graffi_1994	0	La sedia su che ti sei seduto è rotta.	0	0	1	0	0	0	1	0	0
+417	Graffi_1994	1	L'uomo che ha appena parlato è mio zio.	0	0	1	0	0	0	1	0	0
+418	Graffi_1994	0	L'uomo il quale ha appena parlato è mio zio.	0	0	1	0	0	0	1	0	0
+419	Graffi_1994	1	L'uomo che hai conosciuto ieri è mio zio.	0	0	1	0	0	0	1	0	0
+420	Graffi_1994	0	L'uomo il quale hai conosciuto ieri è mio zio.	0	0	1	0	0	0	1	0	0
+421	Graffi_1994	1	Alessandro non è più il bravo ragazzo che era una volta.	0	0	0	0	0	0	1	0	0
+422	Graffi_1994	0	Lorenzo non è più il bravo ragazzo il quale era una volta.	0	0	0	0	0	0	1	0	0
+423	Graffi_1994	1	Cerco qualcuno con cui parlare.	0	0	0	0	0	0	1	0	1
+424	Graffi_1994	1	Cerco qualcuno con il quale parlare.	0	0	0	0	0	0	1	0	1
+425	Graffi_1994	1	Questa è la sedia sulla quale Lorenzo si è seduto.	0	0	0	0	0	0	1	0	0
+426	Graffi_1994	1	Questa è la sedia su cui Francesco si è seduto.	0	0	0	0	0	0	1	0	0
+427	Graffi_1994	0	Questa è la sedia sulla quale Francesco ha domandato quando Gabriele si è seduto.	0	0	0	0	0	0	1	0	0
+428	Graffi_1994	1	Questa è la persona con la quale Leonardo ha parlato.	0	0	0	0	0	0	1	0	0
+429	Graffi_1994	1	Questa è la persona con cui Andrea ha parlato.	0	0	0	0	0	0	1	0	0
+430	Graffi_1994	0	Questa è la persona con la quale Riccardo ha fatto l'affermazione che Riccardo ha parlato.	0	0	0	0	0	0	1	0	0
+431	Graffi_1994	1	Questo è il libro che Alessandro ha recensito.	0	0	1	0	0	0	1	0	0
+432	Graffi_1994	0	Questo è il libro che Riccardo ha domandato quando Alessandro ha recensito.	0	0	0	0	0	0	1	0	0
+433	Graffi_1994	1	Questa è la persona che Alessandro apprezza di più.	0	0	0	0	0	0	1	0	0
+434	Graffi_1994	1	Tommaso crede che Maria abbia baciato Edoardo.	0	0	0	0	0	0	1	0	0
+435	Graffi_1994	1	Chi crede Gabriele che Emma abbia baciato?	0	0	0	1	0	1	0	0	0
+436	Graffi_1994	1	Che cosa legge Edoardo al mattino?	0	0	0	1	0	1	0	0	0
+437	Graffi_1994	0	Che cosa Riccardo legge al mattino?	0	0	0	1	0	1	0	0	0
+440	Graffi_1994	1	Giulia sembra risultare essere partita.	0	1	0	0	0	0	0	0	0
+442	Graffi_1994	1	Chi ha detto che Riccardo parlerà?	0	0	0	1	0	1	0	0	0
+444	Graffi_1994	1	Sofia ha promesso di parlare.	0	0	1	0	0	0	0	0	0
+445	Graffi_1994	1	Paola conosce tutti.	0	0	0	0	1	0	0	0	0
+446	Graffi_1994	1	Abbiamo visto Gabriele.	0	0	1	0	1	0	0	0	0
+447	Graffi_1994	1	Lo abbiamo visto.	0	0	1	0	1	0	0	0	0
+448	Graffi_1994	1	Gli hanno dato il premio.	0	0	1	0	0	0	0	0	0
+449	Graffi_1994	1	Chi pensi che abbia visto Riccardo?	0	0	0	1	0	1	0	0	0
+454	Graffi_1994	0	Chi è partito dopo aver salutato?	0	0	0	1	0	1	0	0	0
+455	Graffi_1994	1	Ho detto che credo che Paola pensi che Leonardo abbia incontrato Francesco?	0	0	0	0	0	1	1	0	0
+456	Graffi_1994	1	È partito dopo aver salutato Andrea.	0	0	1	0	0	0	1	0	0
+458	Graffi_1994	0	Chi che Alessandro incontri è molto difficile?	0	0	0	1	0	1	0	0	0
+459	Graffi_1994	0	Che argomento ti chiedi quando discuteremo?	0	0	0	1	0	1	0	0	0
+461	Graffi_1994	1	Ha visto tua madre Edoardo, (non Riccardo).	0	1	1	0	0	0	0	0	0
+463	Graffi_1994	1	Ho comprato il libro sulle disavventure giudiziarie di Riccardo.	0	0	1	0	0	0	1	0	0
+464	Graffi_1994	0	Ho parlato sulle disavventure giudiziarie di Riccardo.	0	0	1	0	0	0	1	0	0
+465	Graffi_1994	1	Alessandro ha detto che Alice ha incontrato Alessandro (e non Alessandro).	0	0	1	0	0	0	1	0	0
+468	Graffi_1994	0	Se stesso inganna Lorenzo.	0	0	0	0	0	0	0	1	0
+470	Graffi_1994	0	Giulia ha molto apprezzato la mia descrizione di se stessa.	0	0	1	0	0	0	1	0	0
+471	Graffi_1994	1	Sofia ha dichiarato che lei non ha mi avuto niente a che fare con Edoardo.	0	0	1	0	0	0	1	0	0
+472	Graffi_1994	1	Lorenzo ha ripetuto la propria ricostruzione dei fatti.	0	0	1	0	0	0	1	0	0
+473	Graffi_1994	1	Tommaso ha ripetuto la sua ricostruzione dei fatti.	0	0	1	0	0	0	1	0	0
+474	Graffi_1994	1	Andrea ha convinto Riccardo che la propria casa era andata in fiamme.	0	0	1	0	0	0	1	0	0
+475	Graffi_1994	1	Io ho informato Leonardo che voi pensate che denunciare se stesso sia stato un errore.	0	0	1	0	0	0	1	1	0
+476	Graffi_1994	1	Francesco ha calunniato se stesso.	0	0	0	0	1	0	0	0	0
+477	Graffi_1994	0	Andrea ha calunniato.	0	0	1	0	0	0	1	0	0
+478	Graffi_1994	0	Lorenzo crede di se stesso essere buono.	0	0	0	0	0	0	1	1	0
+480	Graffi_1994	0	Quando non sai che argomento discuteremo?	0	0	0	1	0	1	0	0	0
+486	Graffi_2008	1	A me questo discorso non mi piace.	0	0	0	0	0	0	1	0	0
+488	Graffi_2008	1	Ho incontrato Alessandro e Giulia, e gli ho parlato di te.	0	0	0	0	0	0	1	0	0
+492	Graffi_2008	1	Leonardo ha baciato Maria.	0	1	0	0	1	0	0	0	0
+495	Graffi_2008	1	Riccardo ha promesso a Paola di partire.	0	0	1	0	0	0	1	0	0
+498	Graffi_2008	1	Secondo me, l'opinione di Tommaso è questa: Beatrice vuole che Leonardo veda Lorenzo.	0	0	0	0	0	0	1	0	0
+501	Graffi_2008	1	Alessandro vede Edoardo.	0	0	0	0	1	0	0	0	0
+506	Graffi_2008	1	I ragazzi di cui mi ha parlato la ragazza partono.	0	0	1	0	0	0	1	0	0
+507	Graffi_2008	1	La ragazza di cui mi hanno parlato i ragazzi parte.	0	0	1	0	0	0	1	0	0
+508	Graffi_2008	0	La ragazza di cui mi hanno parlato i ragazzi partono.	0	0	1	0	0	0	1	0	0
+509	Graffi_2008	1	I ragazzi di cui Lorenzo dice che mi ha parlato la ragazza partono.	0	0	1	0	0	0	1	0	0
+510	Graffi_2008	1	I ragazzi di cui Lorenzo dice che Sofia sostiene che mi ha parlato la ragazza partono.	0	0	1	0	0	0	1	0	0
+511	Graffi_2008	1	Chi pensi che Sofia affermi che Alessandro vuole sposare?	0	0	0	0	0	1	1	0	0
+512	Graffi_2008	1	Penso che Giulia affermi che Leonardo vuole sposare Maria.	0	0	0	0	0	0	1	0	0
+513	Graffi_2008	0	Chi pensi all'affermazione di Paola che Lorenzo vuole sposare?	0	0	0	0	0	1	1	0	0
+514	Graffi_2008	1	Penso all'affermazione di Maria che Riccardo vuole sposare.	0	0	0	0	0	0	1	0	0
+516	Graffi_2008	1	Paola mangia la mela.	0	0	0	0	1	0	0	0	0
+517	Graffi_2008	1	Il coniglio mangia qualunque cosa.	0	0	0	0	1	0	0	0	0
+521	Graffi_2008	1	Chi credi che verrà?	0	0	0	0	0	1	0	0	0
+524	Graffi_2008	1	Lui dice che il professore ha raccomandato di leggere un libro di introduzione alla grammatica generativa.	0	0	0	0	0	0	1	0	0
+526	Graffi_2008	1	Chi crede Alessandro che sua madre abbia baciato?	0	0	0	1	0	1	0	0	0
+527	Graffi_2008	1	Per quale individuo x, Tommaso crede che sua madre abbia visto x.	0	0	0	0	0	0	1	0	0
+528	Graffi_2008	0	Che libro il professore ha raccomandato di leggere un libro di grammatica generativa?	0	0	0	1	0	1	0	0	0
+529	Graffi_2008	1	Francesco sa che Alessandro è partito.	0	0	0	0	0	0	1	0	0
+530	Graffi_2008	0	Gabriele sa quell'uomo.	0	0	0	0	1	0	0	0	0
+531	Graffi_2008	1	I nemici hanno subito una sconfitta.	0	0	0	0	1	0	0	0	0
+532	Graffi_2008	1	Riccardo conosceva quell'uomo.	0	0	0	0	1	0	0	0	0
+533	Graffi_2008	1	Alessandro ha conosciuto quell'uomo.	0	0	0	0	1	0	0	0	0
+534	Graffi_2008	1	Tommaso conoscerà quell'uomo.	0	0	0	0	1	0	0	0	0
+535	Graffi_2008	1	Tommaso ha preso un libro in biblioteca.	0	0	1	0	0	0	0	0	0
+536	Graffi_2008	1	Francesco ha preso un raffreddore in biblioteca.	0	0	1	0	0	0	1	0	0
+541	Graffi_2008	1	Per primo sono arrivato io, non tu.	0	1	1	0	0	0	0	0	0
+542	Graffi_2008	0	Per primo sono arrivato me, non te.	0	1	1	0	0	0	0	0	0
+544	Graffi_2008	1	In questo luogo sono arrivati molti ragazzi.	0	1	1	0	0	0	0	0	0
+545	Graffi_2008	1	In questo luogo hanno camminato molti ragazzi.	0	1	1	0	0	0	0	0	0
+546	Graffi_2008	0	In questo luogo, ne hanno camminato molti.	0	1	1	0	0	0	0	0	0
+547	Graffi_2008	1	Riccardo ha colpito molti ragazzi.	0	1	0	0	1	0	0	0	0
+548	Graffi_2008	1	Leonardo ne ha colpiti molti.	0	1	1	0	0	0	0	0	0
+549	Graffi_2008	0	Camminato Tommaso, ci siamo sentiti meglio.	0	0	1	0	0	0	0	0	0
+550	Graffi_2008	1	Arrivato Francesco, ci siamo sentiti meglio.	0	0	1	0	0	0	0	0	0
+551	Graffi_2008	1	Colpito Riccardo, ci siamo sentiti meglio.	0	0	1	0	0	0	0	0	0
+553	Graffi_2008	0	Sai se il professore ha raccomandato di leggere "Le strutture della sintassi"?	0	0	0	0	0	1	0	0	0
+555	Graffi_2008	1	Il ragazzo lasciò la casa.	0	0	0	0	1	0	0	0	0
+556	Graffi_2008	1	Chiudete le finestre?	0	0	0	0	1	1	0	0	0
+557	Graffi_2008	1	Lorenzo ha promesso che partirà.	0	1	1	0	0	0	0	0	0
+560	Graffi_2008	1	Tommaso ha colpito Maria.	0	1	1	0	0	0	0	0	0
+561	Graffi_2008	1	Emma è stata colpita (da Leonardo).	0	1	1	0	0	0	0	0	0
+562	Graffi_2008	1	Cosa ha fatto Alessandro?	0	1	0	0	0	1	0	0	0
+563	Graffi_2008	1	Cosa è successo a Paola?	0	1	0	0	0	1	0	0	0
+565	Graffi_2008	1	Dico che Alessandro ha colpito Giulia.	0	0	1	0	0	0	1	0	0
+566	Graffi_2008	1	Chi dici che Riccardo ha colpito?	0	0	0	1	0	1	0	0	0
+567	Graffi_2008	1	Penso all'affermazione di Alice che Lorenzo vuole sposare Emma.	0	0	0	0	0	0	1	0	0
+569	Graffi_2008	1	Andrea ha donato un libro ad Emma.	0	0	1	0	0	0	0	0	0
+571	Graffi_2008	1	Una vecchia legge la regola.	0	0	0	0	1	0	0	0	0
+574	Graffi_2008	1	Il professore dice che lui ha raccomandato di leggere un libro di introduzione alla grammatica generativa, non una raccolta di favole.	0	0	0	0	0	0	1	0	0
+575	Graffi_2008	1	Edoardo guarda se stesso.	0	0	0	0	1	0	0	0	0
+577	Graffi_2008	1	Gli hanno detto che il professore vuole che leggiamo un libro di grammatica generativa.	0	0	1	0	0	0	1	0	0
+579	Graffi_2008	1	Lui sostiene che il giovanotto dice sempre la verità.	0	0	0	0	0	0	1	0	0
+580	Graffi_2008	1	Il giovanotto sostiene che lui dice sempre la verità.	0	0	0	0	0	0	1	0	0
+581	Graffi_2008	1	Il suo difensore sostiene che il giovanotto dice sempre la verità.	0	0	0	0	0	0	1	0	0
+582	Graffi_2008	1	Lui sostiene che l'uomo medio dice sempre la verità.	0	0	0	0	0	0	1	0	0
+583	Graffi_2008	1	L'uomo medio sostiene che lui dice sempre la verità.	0	0	0	0	0	0	1	0	0
+584	Graffi_2008	1	Il suo difensore sostiene che l'uomo medio dice sempre la verità.	0	0	0	0	0	0	1	0	0
+585	Graffi-Scalise_2002	1	Maria mi ha colpito.	0	0	1	0	1	0	0	0	0
+586	Graffi-Scalise_2002	1	I ragazzi dicono che Paola mi ha colpito.	0	0	1	0	0	0	0	0	0
+591	Graffi-Scalise_2002	0	La donna che i ragazzi dicono che mi hanno colpito è Paola.	0	0	1	0	0	0	1	0	0
+594	Graffi-Scalise_2002	1	Lorenzo scrisse una lettera.	0	0	0	0	1	0	0	0	0
+595	Graffi-Scalise_2002	1	I bambini adorano i dolci.	0	0	0	0	1	0	0	0	0
+596	Graffi-Scalise_2002	1	Adorano i dolci i bambini?	0	0	0	0	0	1	0	0	0
+597	Graffi-Scalise_2002	1	Cosa adorano i bambini?	0	0	0	0	0	1	0	0	0
+602	Graffi-Scalise_2002	1	Io ritengo Emma una buona giornalista.	0	0	0	0	0	0	1	0	0
+603	Graffi-Scalise_2002	1	Io ritengo che Alice sia una buona giornalista.	0	0	0	0	0	0	1	0	0
+604	Graffi-Scalise_2002	1	Giulia è ritenuta una buona giornalista.	0	0	1	0	0	0	1	0	0
+605	Graffi-Scalise_2002	1	Paola è ritenuta da me una buona giornalista.	0	0	1	0	0	0	1	0	0
+606	Graffi-Scalise_2002	0	Maria è ritenuta (da me) sia una buona giornalista.	0	0	1	0	0	0	1	0	0
+607	Graffi-Scalise_2002	1	Gabriele ha sentito una storia su una foto di qualcuno.	0	0	1	0	0	0	1	0	0
+608	Graffi-Scalise_2002	1	Di chi ha trovato una foto Leonardo?	0	0	0	1	0	1	0	0	0
+609	Graffi-Scalise_2002	0	Di chi ha sentito una storia su una foto Riccardo?	0	0	0	1	0	1	0	0	0
+610	Graffi-Scalise_2002	1	La gente che va alla Normale ama la fisica.	0	0	0	0	0	0	1	0	0
+611	Graffi-Scalise_2002	1	Alessandro, che va alla Normale, ama la fisica.	0	0	0	0	0	0	1	0	0
+612	Graffi-Scalise_2002	1	La gente che va alla Normale che ama la fisica otterrà il laboratorio.	0	0	0	0	0	0	1	0	0
+613	Graffi-Scalise_2002	0	Andrea, che va alla Normale, che ama la fisica, otterrà il laboratorio.	0	0	0	0	0	0	1	0	0
+618	Graffi-Scalise_2002	1	Il ragazzo legge il libro.	0	0	0	0	1	0	0	0	0
+619	Graffi-Scalise_2002	0	Il cane legge il libro.	0	0	0	0	1	0	0	0	0
+620	Graffi-Scalise_2002	0	La virtù legge il libro.	0	0	0	0	1	0	0	0	0
+628	Graffi-Scalise_2002	0	Tommaso ha voglia andare al mare.	0	0	1	0	0	0	0	0	0
+629	Graffi-Scalise_2002	1	Il poliziotto catturò il ladro.	0	0	0	0	1	0	0	0	0
+631	Graffi-Scalise_2002	0	Riccardo cammina la strada.	0	0	0	0	1	0	0	0	0
+632	Graffi-Scalise_2002	1	A mezzanotte, il poliziotto catturò il ladro davanti alla casa che aveva appena svaligiato.	0	0	0	0	0	0	1	0	0
+635	Graffi-Scalise_2002	1	Il ladro catturò il poliziotto.	0	0	0	0	1	0	0	0	0
+638	Graffi-Scalise_2002	1	Chi ha catturato il ladro?	0	0	0	0	0	1	0	0	0
+639	Graffi-Scalise_2002	0	Il poliziotto ha.	0	1	0	0	0	0	0	0	0
+642	Graffi-Scalise_2002	1	Andrea legge questi libri.	0	0	0	0	1	0	0	0	0
+644	Graffi-Scalise_2002	1	Fino a qualche anno fa, La Slovacchia era unita alla Repubblica Ceca.	0	0	1	0	0	0	0	0	0
+646	Graffi-Scalise_2002	1	Leonardo crede che Francesco abbia mentito.	0	0	1	0	0	0	0	0	0
+647	Graffi-Scalise_2002	1	Riccardo è partito e Beatrice è rimasta a casa.	0	0	1	0	0	0	0	0	0
+648	Graffi-Scalise_2002	1	Edoardo ha letto il giornale.	0	1	0	0	1	0	0	0	0
+649	Graffi-Scalise_2002	1	Gabriele ha domandato da quale professore non era stato ancora interrogato Riccardo.	0	0	1	0	0	0	1	0	0
+650	Graffi-Scalise_2002	1	Lorenzo ha detto che Tommaso ha comprato il giornale.	0	0	1	0	0	0	0	0	0
+651	Graffi-Scalise_2002	1	Cosa ha detto Edoardo che Gabriele ha comprato?	0	0	0	1	0	1	0	0	0
+652	Graffi-Scalise_2002	1	Cosa ha detto Alessandro che Edoardo crede che Alessandro abbia comprato?	0	0	0	1	0	1	0	0	0
+653	Graffi-Scalise_2002	1	Cosa ha detto Francesco che Leonardo crede che Giulia pensi che Tommaso abbia comprato?	0	0	0	1	0	1	0	0	0
+654	Graffi-Scalise_2002	1	Quale paese Gabriele crede che invaderanno?	0	0	0	1	0	1	0	0	0
+656	Graffi-Scalise_2002	1	Edoardo ci ha fatto attendere tanto a lungo che ce ne siamo andati via.	0	0	1	0	0	0	1	0	0
+657	Graffi-Scalise_2002	1	Se Riccardo fosse arrivato in orario, avremmo potuto cenare con calma.	0	0	1	0	0	0	0	0	0
+658	Graffi-Scalise_2002	1	Benché Francesco fosse arrivato in orario, non trovò nessuno ad attenderlo.	0	0	1	0	0	0	0	0	0
+659	Graffi-Scalise_2002	1	Abbiamo atteso Riccardo più a lungo di quanto fosse necessario.	0	0	1	0	0	0	0	0	0
+660	Graffi-Scalise_2002	1	Che la Terra giri intorno al Sole è noto da molto tempo.	0	0	1	0	0	0	0	0	0
+661	Graffi-Scalise_2002	1	Il fatto che Tommaso ci ha riferito tutti i particolari ci ha impressionato molto.	0	0	1	0	0	0	0	0	0
+662	Graffi-Scalise_2002	1	Il fatto che Francesco ci ha riferito ci ha impressionato molto.	0	0	1	0	0	0	0	0	0
+663	Graffi-Scalise_2002	1	Lorenzo ha promesso a Paola che partirà domani.	0	0	1	0	0	0	0	0	0
+664	Graffi-Scalise_2002	1	Alessandro ha promesso a Paola di partire domani.	0	0	1	0	0	0	0	0	0
+665	Graffi-Scalise_2002	1	Dopo che ebbe salutato la moglie, Riccardo uscì.	0	0	1	0	0	0	0	0	0
+668	Graffi-Scalise_2002	1	Quale paese crede Riccardo che invaderanno?	0	0	0	0	0	1	0	0	0
+671	Graffi-Scalise_2002	1	Quel ragazzo picchia quei signori.	0	0	0	0	1	0	0	0	0
+672	Graffi-Scalise_2002	1	Quel ragazzo teme le guerre.	0	0	0	0	1	0	0	0	0
+673	Graffi-Scalise_2002	0	Quei ragazzi picchia quel signore.	0	0	0	0	1	0	0	0	1
+674	Graffi-Scalise_2002	0	Quei ragazzi teme la guerra.	0	0	0	0	1	0	0	0	0
+675	Graffi-Scalise_2002	1	La dottrina espone qualcosa.	0	0	0	0	1	0	0	0	0
+676	Graffi-Scalise_2002	1	Qualcuno espone la dottrina.	0	0	0	0	1	0	0	0	0
+677	Graffi-Scalise_2002	1	Alessandro ha ferito qualcuno.	0	0	0	0	1	0	0	0	0
+678	Graffi-Scalise_2002	1	Qualcuno ha ferito Riccardo.	0	0	1	0	0	0	0	0	0
+679	Graffi-Scalise_2002	1	Quando Andrea era già partito da tempo, Edoardo finalmente arrivò.	0	0	1	0	0	0	0	0	0
+680	Graffi-Scalise_2002	1	Quando Edoardo fu finalmente arrivato, Gabriele potè partire.	0	0	1	0	0	0	0	0	0
+681	Graffi-Scalise_2002	1	Quando Leonardo sarà arrivato, Lorenzo potrà partire.	0	0	1	0	0	0	0	0	0
+683	Graffi-Scalise_2002	1	L'anno scorso, Edoardo ha scritto un libro.	0	0	1	0	0	0	0	0	0
+686	Graffi-Scalise_2002	1	Riccardo disse che sarebbe arrivato alle quattro.	0	0	1	0	0	0	0	0	0
+689	Graffi-Scalise_2002	1	Sapevo che eri qui.	0	1	0	0	0	0	0	0	0
+690	Graffi-Scalise_2002	1	Edoardo ha detto che era malato.	0	1	0	0	0	0	0	0	0
+693	Graffi-Scalise_2002	1	Lorenzo si è dimenticato di chiudere la porta e allora, visto che aveva dimenticato anche le chiavi, ha dovuto sfondarla.	0	0	0	0	0	0	1	0	0
+694	Graffi-Scalise_2002	1	Riccardo ha cotto le uova.	0	0	0	0	1	0	0	0	0
+695	Graffi-Scalise_2002	1	Riccardo ha cotto una frittata.	0	0	0	0	1	0	0	0	0
+698	Graffi-Scalise_2002	1	Gabriele è scapolo e non è sposato.	0	1	0	0	0	0	0	0	0
+699	Graffi-Scalise_2002	1	Alessandro è un canarino ed è un uccello.	0	1	0	0	0	0	0	0	0
+700	Graffi-Scalise_2002	1	Lorenzo è un canarino ed non è un uccello.	0	1	0	0	0	0	0	0	0
+701	Graffi-Scalise_2002	1	L'attuale re di Francia non è calvo.	0	1	0	0	0	0	0	0	0
+702	Graffi-Scalise_2002	1	Attualmente c'è un re di Francia.	0	1	0	0	0	0	0	0	0
+713	Simone-Masini_2013	1	Qualcuno dorme.	0	0	0	0	1	0	0	0	1
+721	Simone-Masini_2013	1	Edoardo sta dormendo.	0	0	1	0	0	0	0	0	0
+722	Simone-Masini_2013	1	Tommaso, che ha bevuto la camomilla, dorme.	0	0	1	0	0	0	1	0	0
+723	Simone-Masini_2013	1	Riccardo, che ha bevuto la camomilla che gli hai portato tu, dorme.	0	0	1	0	0	0	1	0	0
+724	Simone-Masini_2013	1	Mi ha dato uno schiaffo … o una carezza violenta?	0	0	0	0	0	1	0	0	0
+725	Simone-Masini_2013	1	Mi ha dato uno schiaffo?	0	1	0	0	0	1	0	0	0
+726	Simone-Masini_2013	1	Mi ha dato una carezza violenta?	0	1	0	0	0	1	0	0	0
+727	Simone-Masini_2013	1	Ho strappato il libro.	0	1	1	0	0	0	0	0	0
+728	Simone-Masini_2013	1	Ho letto il libro.	0	1	1	0	0	0	0	0	0
+729	Simone-Masini_2013	1	Parigi è antica, popolata, democratica e piena di vita.	0	1	0	0	0	0	0	0	0
+730	Simone-Masini_2013	1	Questo è Parigi?	0	1	0	0	0	1	0	0	0
+731	Simone-Masini_2013	1	La folla si è dispersa.	0	1	0	0	0	0	0	0	0
+732	Simone-Masini_2013	1	Sono arrivati una folla di ragazzi.	0	1	1	0	0	0	0	0	0
+735	Simone-Masini_2013	1	Sto parlando dello stato.	0	0	1	0	0	0	0	0	0
+740	Simone-Masini_2013	1	Le ho comprato un po' di pane.	0	0	1	0	1	0	0	0	0
+741	Simone-Masini_2013	1	Francesco saluta Sofia.	0	0	0	0	1	0	0	0	0
+743	Simone-Masini_2013	1	Ho bevuto il vino che Tommaso mi ha portato.	0	0	1	0	0	0	1	0	0
+744	Simone-Masini_2013	1	Le persone a cui non piace il vino non sanno quanto è buono.	0	1	0	0	0	0	1	0	0
+745	Simone-Masini_2013	1	Tommaso beve troppo vino.	0	0	0	0	1	0	0	0	0
+746	Simone-Masini_2013	1	È Tommaso che beve troppo vino.	1	0	0	0	0	0	0	0	0
+749	Simone-Masini_2013	1	Ho parlato alla zia del parroco.	0	0	1	0	0	0	0	0	0
+750	Simone-Masini_2013	1	Ho parlato del parroco alla zia.	0	0	1	0	0	0	0	0	0
+751	Simone-Masini_2013	1	Ho parlato con la donna di cui il parroco è nipote.	0	0	1	0	0	0	0	0	0
+754	Simone-Masini_2013	1	Alessandro ha telefonato a Giulia.	0	0	1	0	0	0	0	0	0
+755	Simone-Masini_2013	1	Sono andato subito via.	0	0	1	0	0	0	0	0	0
+756	Simone-Masini_2013	1	Io ho visto.	0	1	1	0	0	0	0	0	0
+760	Simone-Masini_2013	1	I ragazzi e le ragazze sono arrivati.	0	0	1	0	0	0	0	0	0
+761	Simone-Masini_2013	1	I ragazzi sono arrivati.	0	0	1	0	0	0	0	0	0
+762	Simone-Masini_2013	1	Ho visto una persona che affascina.	0	1	1	0	0	0	0	0	0
+763	Simone-Masini_2013	1	Ho visto una persona.	0	1	1	0	0	0	0	0	0
+764	Simone-Masini_2013	0	Ho visto che affascina.	0	1	1	0	0	0	0	0	0
+765	Simone-Masini_2013	1	Il figlio di Maria è arrivato tardi.	0	0	1	0	0	0	0	0	0
+766	Simone-Masini_2013	1	È il figlio di Beatrice che è arrivato tardi.	1	0	1	0	0	0	0	0	0
+767	Simone-Masini_2013	0	È figlio di che il di Sofia è arrivato tardi.	1	0	1	0	0	0	0	0	0
+768	Simone-Masini_2013	1	In macchina, siamo usciti.	0	0	1	0	0	0	0	0	0
+769	Simone-Masini_2013	0	Usciti siamo in macchina.	0	0	1	0	0	0	0	0	0
+770	Simone-Masini_2013	1	Siamo usciti in macchina coi bambini.	0	0	1	0	0	0	0	0	0
+771	Simone-Masini_2013	1	Siamo usciti in macchina coi bambini e i loro amici.	0	0	1	0	0	0	0	0	0
+772	Simone-Masini_2013	0	Siamo usciti in macchina e in macchina coi.	0	0	1	0	0	0	0	0	0
+777	Simone-Masini_2013	1	Giulia è una ragazza simpatica.	0	1	0	0	0	0	0	0	0
+778	Simone-Masini_2013	1	Maria è una ragazza simpatica, sveglia, accorta e intelligente.	0	1	0	0	0	0	0	0	0
+784	Simone-Masini_2013	1	Il libro, che Lorenzo, che di solito ha buon gusto, mi ha prestato, non mi piace.	0	0	0	0	0	0	1	0	0
+786	Simone-Masini_2013	1	Le persone che parlano sempre mi piacciono poco.	0	0	0	0	0	0	1	0	0
+790	Simone-Masini_2013	1	Dice che è in ritardo.	0	1	0	0	1	0	0	0	0
+799	Simone-Masini_2013	1	Nulla è più audace di quest'uomo.	0	1	0	0	0	0	0	0	0
+804	Simone-Masini_2013	1	Il bambino di Edoardo ha rotto la macchina fotografica!	0	0	0	0	0	0	1	0	0
+806	Simone-Masini_2013	1	Buongiorno, c'è Riccardo?	0	1	0	0	0	1	0	0	0
+808	Simone-Masini_2013	1	Ti dispiacerebbe venire un momento da me?	0	0	0	0	0	1	0	0	0
+820	Simone-Masini_2013	1	I ragazzi non leggono i giornali.	0	0	0	0	1	0	0	0	0
+823	Simone-Masini_2013	1	Il guardiano chiude la porta con la chiave.	0	0	0	0	0	0	1	0	0
+826	Simone-Masini_2013	1	Chi ha mandato questi fiori?	0	0	0	0	0	1	0	0	0
+827	Simone-Masini_2013	1	Tommaso ha mandato i fiori.	0	0	0	0	1	0	0	0	0
+828	Simone-Masini_2013	1	È Francesco che ha mandato i fiori.	1	0	0	0	0	0	0	0	0
+835	Simone-Masini_2013	1	Io conosco questa città.	0	0	0	0	1	0	0	0	0
+837	Simone-Masini_2013	0	Hai visto chi?	0	0	0	1	1	1	0	0	0
+838	Simone-Masini_2013	1	Ecco il libro che ha portato Edoardo.	0	0	0	0	0	0	1	0	0
+839	Simone-Masini_2013	1	Ecco il libro che Lorenzo ha portato.	0	0	0	0	0	0	1	0	0
+841	Simone-Masini_2013	1	Tutto ciò che è insigne è raro.	0	1	0	0	0	0	0	0	0
+842	Simone-Masini_2013	1	Questa è una matita.	0	1	0	0	1	0	0	0	0
+848	Simone-Masini_2013	1	Emma è una donna molto apprezzata da noi.	0	1	0	0	0	0	0	0	0
+850	Simone-Masini_2013	1	Che ore sono?	0	0	0	1	0	1	0	0	0
+851	Simone-Masini_2013	1	Chi ha preso le bottiglie?	0	0	0	0	0	1	1	0	0
+852	Simone-Masini_2013	1	Chiudi la porta?	0	0	0	0	0	1	0	0	0
+853	Simone-Masini_2013	1	Hai preso il latte?	0	0	0	0	0	1	0	0	0
+855	Simone-Masini_2013	1	Hai fatto bene l'esame?	0	0	0	0	0	1	0	0	0
+856	Simone-Masini_2013	1	Vuoi tu prender Gabriele come legittimo sposo?	0	0	0	0	0	1	0	0	0
+857	Simone-Masini_2013	1	Non è vero che Francesco è uscito?	0	0	0	0	0	1	0	0	0
+858	Simone-Masini_2013	1	Hai fatto questo?	0	0	0	0	0	1	0	0	0
+859	Simone-Masini_2013	1	Hai fatto ciò?	0	0	0	0	1	1	0	0	0
+860	Simone-Masini_2013	1	Hai vinto?	0	0	0	0	1	1	0	0	0
+861	Simone-Masini_2013	1	Dici che la morte è una cosa cattiva?	0	1	0	0	0	0	0	0	0
+862	Simone-Masini_2013	1	Lorenzo fu forse re dei romani?	0	0	0	0	0	1	0	0	0
+863	Simone-Masini_2013	1	Non è vero che l'uomo è simile al lupo?	0	1	0	0	0	1	0	0	0
+864	Simone-Masini_2013	1	Dove vai?	0	0	0	0	0	1	0	0	0
+865	Simone-Masini_2013	1	La Cina ha una popolazione numerosa?	0	1	0	0	0	1	0	0	0
+866	Simone-Masini_2013	1	A chi hai dato il libro?	0	0	0	0	0	1	0	0	0
+867	Simone-Masini_2013	1	Questo è un libro?	0	1	0	0	0	1	0	0	0
+868	Simone-Masini_2013	1	I libri che gli antichi scrissero sono utili.	0	0	0	0	0	0	1	0	0
+869	Simone-Masini_2013	1	Questo è l'uomo che Riccardo conosce.	0	0	0	0	0	0	1	0	0
+870	Simone-Masini_2013	1	Ho visto il ragazzo con cui tuo figlio ha studiato.	0	0	0	0	0	0	1	0	0
+879	Simone-Masini_2013	1	Che tu sia intelligente è sicuro.	0	1	0	0	0	0	0	0	0
+885	Simone-Masini_2013	1	So che lui è felice.	0	1	0	0	0	0	0	0	0
+887	Simone-Masini_2013	1	Parlammo del fatto che il bambino non vuole andare a scuola.	0	0	0	0	0	0	1	0	0
+891	Simone-Masini_2013	1	Si è fatto male perché è caduto.	0	1	0	0	0	0	0	0	0
+899	Simone-Masini_2013	1	Se le cose stanno così…	0	1	0	0	0	0	0	0	0
+900	Simone-Masini_2013	1	Hanno scritto questa lettera?	0	0	0	0	0	1	0	0	0
+902	Simone-Masini_2013	1	Hanno distrutto questa fortuna?	0	0	0	0	0	1	0	0	0
+903	Simone-Masini_2013	1	Non avrei dovuto restituirgli il suo denaro?	0	0	0	0	0	1	0	0	0
+907	Simone-Masini_2013	1	La lettera è l'unica cosa che si sia trovata…	0	1	0	0	0	0	0	0	0
+911	Simone-Masini_2013	1	Sei capace di saltare, no?	0	0	0	0	0	1	0	0	0
+912	Simone-Masini_2013	1	Tu hai letto questo libro, no?	0	0	0	0	0	1	0	0	0
+913	Simone-Masini_2013	1	Ora sono davvero stanco.	0	1	0	0	0	0	0	0	0
+914	Simone-Masini_2013	1	Sei il fratello di Riccardo, no?	0	0	0	0	0	1	0	0	0
+915	Simone-Masini_2013	1	Hai preso il libro, no?	0	0	0	0	0	1	0	0	0
+917	Simone-Masini_2013	1	Chi è venuto?	0	0	0	1	0	1	0	0	0
+918	Simone-Masini_2013	1	Come è successo?	0	0	0	1	0	1	0	0	0
+919	Simone-Masini_2013	1	Quando parte questo treno?	0	0	0	0	0	1	0	0	0
+920	Simone-Masini_2013	1	Posso entrare?	0	0	0	0	1	1	0	0	0
+921	Simone-Masini_2013	1	Siete arrivati presto?	0	0	0	0	0	1	0	0	0
+923	Simone-Masini_2013	1	Porto al cinema i ragazzi che sono stati buoni.	0	0	0	0	0	0	1	0	0
+925	Simone-Masini_2013	1	La testa mi fa male.	0	1	0	0	0	0	0	0	0
+926	Simone-Masini_2013	1	Ho male alla testa.	0	1	0	0	0	0	0	0	0
+927	Simone-Masini_2013	1	Ho male al capo.	0	1	0	0	1	0	0	0	0
+935	Simone-Masini_2013	1	È venuto un tale.	0	1	0	0	1	0	0	0	0
+940	Simone-Masini_2013	1	Questa faccenda è intricata.	0	1	0	0	0	0	0	0	0
+949	Simone-Masini_2013	1	È molto alto, no?	0	1	0	0	0	0	0	0	0
+950	Simone-Masini_2013	1	Avete mangiato, no?	0	0	0	0	0	1	0	0	0
+961	Simone-Masini_2013	1	Ho fame.	0	1	0	0	1	0	0	0	0
+962	Simone-Masini_2013	1	Non ho soldi.	0	1	0	0	0	0	0	0	0
+963	Simone-Masini_2013	1	Ho un libro.	0	1	0	0	1	0	1	0	0
+964	Simone-Masini_2013	1	Il bambino ha fame.	0	1	0	0	1	0	0	0	0
+968	Simone-Masini_2013	1	Gli è nato un figlio.	0	1	0	0	0	0	0	0	0
+969	Simone-Masini_2013	1	Ho una casa.	0	1	0	0	1	0	0	0	0
+970	Simone-Masini_2013	1	Il cavallo è un animale resistente.	0	1	0	0	0	0	0	0	0
+971	Simone-Masini_2013	1	I cavalli sono arrivati prima.	0	1	0	0	0	0	0	0	0
+974	Simone-Masini_2013	1	Ho visto qualcosa.	0	0	0	0	1	0	0	0	1
+975	Simone-Masini_2013	1	È venuto Riccardo.	0	1	0	0	1	0	0	0	0
+976	Simone-Masini_2013	1	È venuto un ragazzo.	0	1	0	0	0	0	0	0	0
+980	Simone-Masini_2013	1	Lorenzo ha salutato Paola.	0	0	0	0	1	0	0	0	0
+982	Simone-Masini_2013	1	La giustizia è una grande virtù.	0	1	0	0	0	0	0	0	0
+985	Simone-Masini_2013	1	Sono andato in America.	0	1	0	0	0	0	0	0	0
+1007	Simone-Masini_2013	1	Qualcuno potrebbe domandare.	0	0	0	0	0	0	0	0	1
+1022	Simone-Masini_2013	1	La Vergine fu assunta in cielo.	0	0	0	0	1	0	0	0	0
+1025	Simone-Masini_2013	1	Il tuo bambino ruppe il vaso.	0	0	0	0	1	0	0	0	0
+1026	Simone-Masini_2013	1	Il vaso è stato rotto.	0	1	0	0	0	0	0	0	0
+1027	Simone-Masini_2013	1	Il libro è stato rilegato.	0	1	0	0	0	0	1	0	0
+1030	Simone-Masini_2013	1	Il delinquente è stato arrestato ieri.	0	1	0	0	0	0	0	0	0
+1031	Simone-Masini_2013	1	Il cibo viene sprecato.	0	1	0	0	0	0	0	0	0
+1037	Simone-Masini_2013	1	I bambini hanno cantato una canzone.	0	0	0	0	1	0	0	0	0
+1046	Simone-Masini_2013	1	Oggi Andrea non c'è.	0	1	0	0	0	0	0	0	0
+1048	Simone-Masini_2013	1	A chi interessa che la piazza sia pulita?	0	0	0	0	0	1	0	0	0
+1054	Simone-Masini_2013	1	C'è un cane nella macchina.	0	1	0	0	0	0	0	0	0
+1071	Simone-Masini_2013	1	Francesco chiede a Lorenzo di restare a casa.	0	0	0	0	0	0	1	0	0
+1072	Simone-Masini_2013	1	Riccardo è biondo.	0	1	0	0	1	0	0	0	0
+1073	Simone-Masini_2013	1	È vero che Gabriele è biondo.	1	1	0	0	0	0	0	0	0
+1074	Simone-Masini_2013	1	Riccardo non è biondo.	0	1	0	0	0	0	0	0	0
+1075	Simone-Masini_2013	1	Non è vero che Lorenzo è biondo.	0	1	0	0	0	0	0	0	0
+1076	Simone-Masini_2013	1	Maria è medico.	0	1	0	0	1	0	0	0	0
+1077	Simone-Masini_2013	1	Riccardo è bravo.	0	1	0	0	1	0	0	0	0
+1091	Simone-Masini_2013	0	Quel ragazzo e quella chiave aprono la porta.	0	0	0	0	0	0	1	0	0
+1092	Simone-Masini_2013	1	Quel ragazzo apre la porta con quella chiave.	0	0	0	0	0	0	1	0	0
+1095	Simone-Masini_2013	1	La chiave apre la porta.	0	0	0	0	1	0	0	0	0
+1096	Simone-Masini_2013	1	Il ragazzo apre la porta con la chiave.	0	0	0	0	0	0	1	0	0
+1100	Simone-Masini_2013	1	Maria studia la matematica.	0	0	0	0	1	0	0	0	0
+1119	Simone-Masini_2013	1	È in bicicletta che è venuto.	1	0	0	0	0	0	0	0	0
+1121	Simone-Masini_2013	1	È questo libro che voglio.	1	0	0	0	0	0	0	0	0
+1122	Simone-Masini_2013	1	È con il motorino che non voglio che tu esca.	1	0	0	0	0	0	0	0	0
+1125	Simone-Masini_2013	1	Bello sì che lo è.	0	1	0	0	0	0	0	0	0
+1132	Simone-Masini_2013	1	Il tuo amico, la ragazza, il bambino, non glielo può appioppare.	0	0	0	0	0	0	1	0	0
+1133	Simone-Masini_2013	1	Chi è venuto è Sofia?	0	0	0	1	0	1	0	0	0
+1134	Simone-Masini_2013	1	Che ha fatto Maria?	0	0	0	1	1	1	0	0	0
+1137	Simone-Masini_2013	1	Chi sta arrivando?	0	0	0	1	0	1	0	0	0
+1138	Simone-Masini_2013	1	Che fa Gabriele?	0	0	0	1	0	1	0	0	0
+1149	Simone-Masini_2013	1	Chi è?	0	0	0	0	1	1	0	0	0
+1157	Simone-Masini_2013	1	Riccardo, non c'è bisogno di lui.	0	1	0	0	0	0	0	0	0
+1161	Simone-Masini_2013	1	Bello è bello, quel bambino.	0	1	0	0	0	0	0	0	0
+1162	Simone-Masini_2013	1	Quanto al pesce, il tai è delizioso.	0	1	0	0	0	0	0	0	0
+1165	Simone-Masini_2013	1	Chi ha telefonato?	0	0	0	1	0	1	0	0	0
+1168	Simone-Masini_2013	1	L'uomo che è in giardino sta riparando il rubinetto.	0	0	0	0	0	0	1	0	0
+1171	Simone-Masini_2013	1	Hai visto nessuno?	0	0	0	0	0	1	0	0	0
+1173	Simone-Masini_2013	1	Certo, è possibile una cosa del genere.	0	1	0	0	0	0	0	0	0
+1176	Simone-Masini_2013	1	Sono romani?	0	1	0	0	0	1	0	0	0
+1184	Simone-Masini_2013	1	Gli Etruschi scorrazzano molto per terra, moltissimo per mare.	0	0	0	0	0	0	1	0	0
+1186	Simone-Masini_2013	1	Emma baciò Riccardo sulla guancia con i suoi labbroni e la sua testa nera sembrava enorme accanto a quella del primatologo.	0	0	0	0	0	0	1	0	0
+1188	Simone-Masini_2013	1	Ho visto un film, che è la storia di una coppia infelice.	0	0	0	0	0	0	1	0	0
+1190	Simone-Masini_2013	1	Ero stanco, così me ne andai via.	0	1	0	0	0	0	0	0	0
+1195	Simone-Masini_2013	1	Chi non si preoccupa sono i turisti scandinavi: meno di cento prenotazioni disdette.	0	0	0	1	0	0	0	0	0
+1199	Simone-Masini_2013	1	Sulla spiaggia di Rimini ci possono essere dei turisti.	0	0	0	0	0	0	1	0	0
+1200	Simone-Masini_2013	1	La presenza di alghe sulla spiaggia allontana i turisti.	0	0	0	0	0	0	1	0	0
+1202	Simone-Masini_2013	1	Maria fu invitata alla festa di Leonardo.	0	0	0	0	0	0	1	0	0
+1204	Simone-Masini_2013	1	Maria voleva la bicicletta di Leonardo.	0	0	0	0	0	0	1	0	0
+1211	Simone-Masini_2013	1	Il tuo gatto ha mangiato la salsiccia.	0	0	0	0	1	0	0	0	0
+1213	Simone-Masini_2013	1	Il bambino non mangia la minestra.	0	0	0	0	1	0	0	0	0
+1214	Simone-Masini_2013	0	Il bambino non mangia latte.	0	0	0	0	1	0	0	0	0
+1216	Simone-Masini_2013	1	È molto sensibile alle lodi.	0	1	0	0	0	0	0	0	0
+1219	Simone-Masini_2013	1	Questa è la casa di mio zio.	0	1	0	0	0	0	0	0	0
+1223	Simone-Masini_2013	1	La presa della Bastiglia da parte del popolo segna l'inzio della rivoluzione francese.	0	0	0	0	0	0	1	0	0
+1234	Simone-Masini_2013	1	Qualcuno che è in questo posto.	0	1	0	0	0	0	0	0	0
+1235	Simone-Masini_2013	1	Qualcosa che è in questo posto.	0	1	0	0	0	0	0	0	0
+1236	Simone-Masini_2013	1	Il ragazzo guardava la capra.	0	0	0	0	1	0	0	0	0
+1237	Simone-Masini_2013	1	La costruzione del palazzo è durata due anni.	0	0	0	0	0	0	1	0	0
+1238	Simone-Masini_2013	1	La preparazione di questa torta richiede tempo.	0	0	0	0	0	0	1	0	0
+1239	Simone-Masini_2013	1	Questa preparazione è stata apprezzata da tutti.	0	0	0	0	0	0	1	0	0
+1240	Simone-Masini_2013	1	La costruzione si presenta elegante e luminosa.	0	0	0	0	0	0	1	0	0
+1241	Simone-Masini_2013	1	Le tue dimenticanze sono troppe e pericolose.	0	0	0	0	0	0	1	0	0
+1242	Simone-Masini_2013	1	La spedizione del pacchetto a Milano da parte dell'autista fu molto rapida.	0	0	0	0	0	0	1	0	0
+1243	Simone-Masini_2013	1	Sono arrivati i ragazzi.	0	1	0	0	0	0	0	0	0
+1249	Simone-Masini_2013	1	È appena arrivato.	0	1	0	0	0	0	0	0	0
+1262	Simone-Masini_2013	1	Il bambino ha mangiato.	0	1	0	0	0	0	0	0	0
+1263	Simone-Masini_2013	1	Il padre è partito.	0	1	0	0	0	0	0	0	0
+1264	Simone-Masini_2013	1	Il pesce viene facilmente cotto al vapore.	0	0	0	0	0	0	1	0	0
+1265	Simone-Masini_2013	1	È stato qui ieri.	0	1	0	0	1	0	0	0	0
+1272	Simone-Masini_2013	1	Ho aperto la porta.	0	1	0	0	1	0	0	0	0
+1273	Simone-Masini_2013	1	Ho aperto la bocca.	0	1	0	0	1	0	0	0	0
+1274	Simone-Masini_2013	1	Ho aperto la seduta.	0	1	0	0	1	0	0	0	0
+1275	Simone-Masini_2013	1	Ho perduto il libro.	0	1	0	0	1	0	0	0	0
+1277	Simone-Masini_2013	1	Tommaso è un vero cane.	0	1	0	0	1	0	0	0	0
+1280	Simone-Masini_2013	1	Tutti gli animali devono essere protetti.	0	0	0	0	0	0	1	0	0
+1281	Simone-Masini_2013	1	Mi porti qualcosa da bere?	0	0	0	0	0	1	0	0	0
+1286	Simone-Masini_2013	1	Questa macchina è usata ma nuova.	0	1	0	0	0	0	1	0	0
+1287	Simone-Masini_2013	0	Il marinaio alleva il remo.	0	0	0	0	1	0	0	0	0
+1288	Simone-Masini_2013	1	Il film annoia gli spettatori.	0	0	0	0	1	0	0	0	0
+1292	Simone-Masini_2013	1	Il disarcionamento del fantino è stato spettacolare.	0	1	0	0	0	0	1	0	0
+1294	Simone-Masini_2013	1	Sei una persona paurosa.	0	1	0	0	0	0	0	0	0
+1296	Simone-Masini_2013	1	Ma che racconti?	0	0	0	0	0	1	0	0	0
+1297	Simone-Masini_2013	1	Che si dice?	0	0	0	1	0	1	0	0	0
+1298	Simone-Masini_2013	1	Chi credi di essere?	0	0	0	1	0	1	0	0	0
+1299	Simone-Masini_2013	1	Chi ti conosce?	0	0	0	1	0	1	0	0	0
+1300	Simone-Masini_2013	1	Dove sta scritto?	0	0	0	0	0	1	0	0	0
+1301	Simone-Masini_2013	1	Stai scherzando?	0	0	0	0	1	1	0	0	0
+1302	Simone-Masini_2013	1	Ti dispiace portarmi quel pacco?	0	0	0	0	0	1	0	0	0
+1303	Simone-Masini_2013	1	C'è Riccardo?	0	1	0	0	0	1	0	0	0
+1305	Simone-Masini_2013	1	Mi passi il sale?	0	0	0	0	0	1	0	0	0
+1306	Simone-Masini_2013	1	Mi passeresti il sale?	0	0	0	0	0	1	0	0	0
+1310	Simone-Masini_2013	1	Il bandito è fuggito.	0	1	0	0	1	0	0	0	0
+1312	Simone-Masini_2013	1	È lombardo ma non è leghista.	0	1	0	0	0	0	0	0	0
+1313	Simone-Masini_2013	1	Dove vado a dormire stasera con lo sciopero dei trasporti?	0	0	0	0	0	1	0	0	0
+1315	Simone-Masini_2013	1	Prendimi il libro che sta sul tavolo.	0	0	0	0	0	0	1	0	0
+1316	Simone-Masini_2013	1	Questo è il signore di cui ti ho parlato.	0	1	0	0	0	0	1	0	0
+1326	Jezek_2003	0	Lorenzo è suonato.	0	1	0	0	0	0	0	0	0
+1327	Jezek_2003	0	Il violino è suonato.	0	1	0	0	0	0	0	0	0
+1328	Jezek_2003	1	La sveglia è suonata.	0	1	0	0	1	0	0	0	0
+1329	Jezek_2003	1	È nata una bambina.	0	1	0	0	0	0	0	0	0
+1337	Jezek_2003	1	Sofia ha bucato.	0	1	0	0	1	0	0	0	0
+1338	Jezek_2003	1	Ho tagliato il pane.	0	1	0	0	1	0	0	0	0
+1339	Jezek_2003	1	Ho tagliato i capelli.	0	1	0	0	0	0	0	0	0
+1345	Jezek_2003	1	Riccardo ha cantato.	0	1	0	0	0	0	0	0	0
+1347	Jezek_2003	1	Edoardo ha dormito.	0	1	0	0	1	0	0	0	0
+1348	Jezek_2003	1	Dove lavora?	0	0	0	0	1	1	0	0	0
+1351	Jezek_2003	1	Maria ha cantato.	0	1	0	0	0	0	0	0	0
+1355	Jezek_2003	1	L'arrosto è bruciato.	0	1	0	0	0	0	0	0	0
+1357	Jezek_2003	1	La macchia è sparita.	0	1	0	0	0	0	0	0	0
+1358	Jezek_2003	1	Edoardo ha colpito la palla.	0	1	0	0	0	0	0	0	0
+1359	Jezek_2003	1	Francesco ha ricevuto un libro.	0	1	0	0	1	0	0	0	0
+1360	Jezek_2003	1	Andrea ha preso uno schiaffo.	0	1	0	0	1	0	0	0	0
+1363	Jezek_2003	1	Andrea è arrivato tardi.	0	1	0	0	1	0	0	0	0
+1367	Jezek_2003	1	Maria ha cantato per ore.	0	1	0	0	0	0	0	0	0
+1375	Jezek_2003	1	L'idraulico aggiusta il tubo.	0	1	0	0	0	0	0	0	0
+1376	Jezek_2003	0	L'idraulico aggiusta.	0	1	0	0	0	0	0	0	0
+1377	Jezek_2003	0	Il postino arriva la posta.	0	1	0	0	0	0	0	0	0
+1378	Jezek_2003	1	Il postino arriva.	0	1	0	0	0	0	0	0	0
+1383	Jezek_2003	1	Hai chiamato Alice?	0	0	0	0	0	1	0	0	0
+1387	Jezek_2003	1	Il pallone si è rotto.	0	1	0	0	1	0	0	0	0
+1389	Jezek_2003	1	Il pallone è scoppiato.	0	1	0	0	0	0	0	0	0
+1390	Jezek_2003	0	Il pallone si è scoppiato.	0	1	0	0	0	0	0	0	0
+1409	Jezek_2003	1	Il negozio ha chiuso.	0	1	0	0	0	0	0	0	0
+1410	Jezek_2003	0	La porta ha chiuso.	0	1	0	0	1	0	0	0	0
+1411	Jezek_2003	0	Il negozio si è chiuso.	0	1	0	0	1	0	0	0	0
+1412	Jezek_2003	0	I prezzi sono abbassati.	0	1	0	0	0	0	0	0	0
+1413	Jezek_2003	1	I prezzi si sono abbassati.	0	1	0	0	0	0	0	0	0
+1414	Jezek_2003	1	I prezzi sono scesi.	0	1	0	0	0	0	0	0	0
+1415	Jezek_2003	0	I prezzi si sono scesi.	0	1	0	0	0	0	0	0	0
+1416	Jezek_2003	1	Il libro si è strappato.	0	1	0	0	1	0	0	0	0
+1417	Jezek_2003	1	Il libro è caduto.	0	1	0	0	1	0	0	0	0
+1418	Jezek_2003	0	Il libro si è caduto.	0	1	0	0	0	0	0	0	0
+1424	Jezek_2003	1	Andrea è corso a casa.	0	1	0	0	1	0	0	0	0
+1425	Jezek_2003	1	La palla ha rotolato per più di cento metri.	0	0	0	0	0	0	1	0	0
+1426	Jezek_2003	1	La palla è rotolata dal pendio.	0	0	0	0	0	0	1	0	0
+1429	Jezek_2003	1	Lo spettacolo mi ha coinvolto.	0	1	0	0	0	0	0	0	0
+1430	Jezek_2003	1	Tommaso è uno che conta.	0	1	0	0	0	0	0	0	0
+1433	Jezek_2003	0	La pena di morte ha abolita.	0	1	0	0	0	0	0	0	0
+1434	Jezek_2003	1	La pena di morte è abolita.	0	1	0	0	1	0	0	0	0
+1435	Jezek_2003	0	La pena di morte si è abolita.	0	1	0	0	0	0	0	0	0
+1446	Jezek_2003	1	Tommaso non ammette che tu sia così villano.	0	0	0	0	0	0	1	0	0
+1467	Jezek_2003	0	Il fuoco che ha preso.	0	1	0	0	0	0	0	0	0
+1468	Jezek_2003	0	Il fuoco è stato preso.	0	1	0	0	0	0	0	0	0
+1471	Jezek_2003	1	Paola ha accorciato il vestito.	0	1	0	0	0	0	0	0	0
+1473	Jezek_2003	1	Il vestito si è accorciato.	0	1	0	0	0	0	0	0	0
+1478	Jezek_2003	0	Le scarpe si sono lucidate.	0	1	0	0	0	0	0	0	0
+1480	Jezek_2003	1	Andrea è arrivato.	0	1	0	0	0	0	0	0	0
+1481	Jezek_2003	1	Il treno è arrivato.	0	1	0	0	0	0	0	0	0
+1482	Jezek_2003	0	Francesco ha caduto il bicchiere.	0	1	0	0	0	0	0	0	0
+1486	Jezek_2003	1	Stando al sole, Emma si è accaldata.	0	1	0	0	0	0	0	0	0
+1491	Jezek_2003	1	Che ti è successo?	0	0	0	1	0	1	0	0	0
+1492	Jezek_2003	1	Per la manifestazione sono arrivate nel porto molte navi.	0	0	0	0	0	0	1	0	0
+1495	Jezek_2003	1	Prima di raggiungere il porto molte navi si sono arenate.	0	0	0	0	0	0	1	0	0
+1504	Jezek_2003	1	Le navi arenate sono state recuperate solo in tarda serata.	0	0	0	0	0	0	1	0	0
+1506	Jezek_2003	0	La nebbia è dileguata.	0	1	0	0	0	0	0	0	0
+1507	Jezek_2003	1	Edoardo piange sempre.	0	1	0	0	1	0	0	0	0
+1511	Jezek_2003	1	Parlando, si è impaperato.	0	1	0	0	0	0	0	0	0
+1512	Jezek_2003	1	L'acqua è evaporata.	0	1	0	0	0	0	0	0	0
+1514	Jezek_2003	1	Paola è scappata.	0	1	0	0	1	0	0	0	0
+1519	Jezek_2003	0	La bufera è imperversata.	0	1	0	0	1	0	0	0	0
+1528	Jezek_2003	1	L'acqua è zampillata dalla fessura.	0	1	0	0	0	0	0	0	0
+1529	Jezek_2003	1	L'acqua ha zampillato dalla fessura.	0	1	0	0	1	0	0	0	0
+1530	Jezek_2003	1	La malattia è regredita.	0	1	0	0	1	0	0	0	0
+1531	Jezek_2003	1	La macchina è sparita.	0	1	0	0	0	0	0	0	0
+1533	Jezek_2003	1	La nave si è arenata.	0	1	0	0	0	0	0	0	0
+1551	Jezek_2003	1	Ha squillato il telefono	0	1	0	0	0	0	0	0	0
+1552	Jezek_2003	1	È squillato il telefono	0	1	0	0	1	0	0	0	0
+1553	Jezek_2003	1	Il tentativo è abortito.	0	1	0	0	1	0	0	0	0
+1566	Jezek_2003	1	Il figlio di Edoardo siede in prima fila.	0	0	0	0	0	0	1	0	0
+1567	Jezek_2003	0	Il figlio di Gabriele siede in prima fila alle 8 in punto.	0	0	0	0	0	0	1	0	0
+1568	Jezek_2003	1	Il figlio di Leonardo siede in prima fila dall'inizio del concerto.	0	0	0	0	0	0	1	0	0
+1569	Jezek_2003	0	Il figlio di Gabriele si siede in prima fila dall'inizio del concerto.	0	0	0	0	0	0	1	0	0
+1570	Jezek_2003	1	Il figlio di Leonardo entra nel teatro e si siede in prima fila.	0	0	0	0	0	0	1	0	0
+1571	Jezek_2003	0	Quando iniziò il concerto, il figlio di Riccardo si sedeva in prima fila.	0	0	0	0	0	0	1	0	0
+1578	Jezek_2003	1	Il muro è ammuffito in due ore.	0	1	0	0	0	0	0	0	0
+1579	Jezek_2003	1	Nel referendum hanno prevalso i no.	0	1	0	0	0	0	0	0	0
+1581	Jezek_2003	1	Si è prevalso della propria posizione.	0	1	0	0	0	0	0	0	0
+1583	Jezek_2003	1	Paola è caduta.	0	1	0	0	0	0	0	0	0
+1584	Jezek_2003	1	Emma si è arrabbiata.	0	1	0	0	1	0	0	0	0
+1588	Jezek_2003	1	La situazione è peggiorata.	0	1	0	0	0	0	0	0	0
+1589	Jezek_2003	0	Il tuo intervento è peggiorato.	0	1	0	0	0	0	0	0	0
+1590	Jezek_2003	1	Il tuo comportamento è peggiorato.	0	1	0	0	0	0	0	0	0
+1592	Jezek_2003	1	La gonna si è strappata.	0	1	0	0	1	0	0	0	0
+1593	Jezek_2003	0	Emma si è strappata.	0	1	0	0	0	0	0	0	0
+1601	Jezek_2003	1	Paola sta leggendo qualcosa.	0	0	0	0	0	0	0	0	1
+1602	Jezek_2003	1	Paola legge molto qualcosa, soprattutto dopo cena.	0	0	0	0	0	0	0	0	1
+1603	Jezek_2003	1	Maria ha cucinato qualcosa.	0	0	0	0	0	0	0	0	1
+1604	Jezek_2003	1	Beatrice sa cucinare molto bene qualcosa.	0	0	0	0	0	0	0	0	1
+1613	Jezek_2003	1	Hai finito di apparecchiare?	0	0	0	0	0	1	0	0	0
+1614	Jezek_2003	1	Hai finito di apparecchiare la tavola?	0	0	0	0	0	1	0	0	0
+1623	Jezek_2003	1	La mia vecchia macchina beve sempre di più.	0	0	0	0	0	0	1	0	0
+1626	Jezek_2003	1	Francesco ha scritto.	0	1	0	0	1	0	0	0	0
+1627	Jezek_2003	1	Francesco ha scritto un libro.	0	1	0	0	0	0	0	0	0
+1631	Jezek_2003	1	Maria ha nuotato.	0	1	0	0	1	0	0	0	0
+1632	Jezek_2003	1	Paola ha bucato.	0	1	0	0	1	0	0	0	0
+1633	Jezek_2003	1	Alice ha mangiato.	0	1	0	0	0	0	0	0	0
+1639	Jezek_2003	1	Il coro ha cantato un madrigale.	0	1	0	0	0	0	0	0	0
+1640	Jezek_2003	1	Il coro ha cantato.	0	1	0	0	1	0	1	0	0
+1641	Jezek_2003	1	L'imputato ha cantato.	0	1	0	0	0	0	0	0	0
+1644	Jezek_2003	1	Lo sforzo ha collassato il polmone.	0	1	0	0	1	0	0	0	0
+1645	Jezek_2003	1	Il polmone ha collassato.	0	1	0	0	1	0	0	0	0
+1646	Jezek_2003	1	Maria ha bollito l'acqua.	0	1	0	0	0	0	0	0	0
+1647	Jezek_2003	1	La cura ha guarito Tommaso.	0	1	0	0	1	0	0	0	0
+1648	Jezek_2003	0	La cura è guarita.	0	1	0	0	0	0	0	0	0
+1649	Jezek_2003	1	Il colpo ha tramortito tutti.	0	1	0	0	0	0	0	0	0
+1650	Jezek_2003	1	Tutti sono tramortiti.	0	1	0	0	1	0	0	0	0
+1651	Jezek_2003	0	Il colpo è tramortito.	0	1	0	0	0	0	0	0	0
+1652	Jezek_2003	1	I negozianti sono aumentati di numero.	0	1	0	0	0	0	0	0	0
+1653	Jezek_2003	1	I negozianti sono aumentati.	0	1	0	0	0	0	0	0	0
+1654	Jezek_2003	1	Il macchinista ha fermato il treno.	0	1	0	0	1	0	0	0	0
+1655	Jezek_2003	1	Il treno si è fermato.	0	1	0	0	0	0	0	0	0
+1656	Jezek_2003	0	La cura ha guarito.	0	1	0	0	1	0	0	0	0
+1657	Jezek_2003	0	Il macchinista ha fermato.	0	1	0	0	0	0	0	0	0
+1658	Jezek_2003	1	La notizia si è diffusa.	0	1	0	0	1	0	0	0	0
+1659	Jezek_2003	1	La notizia è stata diffusa da Riccardo.	0	1	0	0	0	0	0	0	0
+1660	Jezek_2003	0	La notizia si è raccontata.	0	1	0	0	0	0	0	0	0
+1661	Jezek_2003	1	Andrea ha rotto i bicchieri.	0	1	0	0	0	0	0	0	0
+1662	Jezek_2003	1	I bicchieri sono stati rotti da Edoardo.	0	1	0	0	0	0	0	0	0
+1663	Jezek_2003	1	Tommaso ha lavato i bicchieri.	0	1	0	0	1	0	0	0	0
+1664	Jezek_2003	0	I bicchieri si sono lavati.	0	1	0	0	0	0	0	0	0
+1665	Jezek_2003	1	Il fuoco si è acceso.	0	1	0	0	1	0	0	0	0
+1666	Jezek_2003	1	Il fuoco è stato acceso da Sofia.	0	1	0	0	0	0	0	0	0
+1667	Jezek_2003	1	Il muro è ammuffito.	0	1	0	0	0	0	0	0	0
+1668	Jezek_2003	0	L'umidità ha ammuffito il muro.	0	1	0	0	1	0	0	0	0
+1673	Jezek_2003	0	Qualcuno accorcia le giornate.	0	0	0	0	1	0	0	0	1
+1681	Jezek_2003	1	Il vetro si è rotto.	0	1	0	0	0	0	0	0	0
+1692	Jezek_2003	1	La lezione è continuata.	0	1	0	0	1	0	0	0	0
+1695	Jezek_2003	1	È mancata la luce.	0	1	0	0	0	0	0	0	0
+1696	Jezek_2003	1	L'americana ha saltato gli ostacoli.	0	1	0	0	0	0	0	0	0
+1697	Jezek_2003	1	L'americana ha saltato prima.	0	1	0	0	0	0	0	0	0
+1699	Jezek_2003	0	Riccardo è continuato.	0	1	0	0	0	0	0	0	0
+1700	Jezek_2003	1	La luce è mancata.	0	1	0	0	0	0	0	0	0
+1701	Jezek_2003	0	Il bersaglio è mancato.	0	1	0	0	1	0	0	0	0
+1702	Jezek_2003	0	Il treno è mancato.	0	1	0	0	1	0	0	0	0
+1706	Jezek_2003	1	Il pranzo è saltato.	0	1	0	0	1	0	0	0	0
+1712	Jezek_2003	1	La tovaglia si è macchiata.	0	1	0	0	0	0	0	0	0
+1715	Jezek_2003	0	Il biglietto si è bucato.	0	1	0	0	1	0	0	0	0
+1718	Jezek_2003	0	Il vino si è macchiato.	0	1	0	0	1	0	0	0	0
+1719	Jezek_2003	0	Il caffè si è macchiato.	0	1	0	0	0	0	0	0	0
+1720	Jezek_2003	1	La gomma è bucata.	0	1	0	0	0	0	0	0	0
+1721	Jezek_2003	1	Tutti sono commossi.	0	1	0	0	1	0	0	0	1
+1722	Jezek_2003	1	La tovaglia è macchiata.	0	1	0	0	1	0	0	0	0
+1723	Jezek_2003	0	La lezione si è continuata.	0	1	0	0	0	0	0	0	0
+1724	Jezek_2003	0	Il vino ha macchiato.	0	1	0	0	0	0	0	0	0
+1729	Jezek_2003	1	Il treno si è fermato a Roma.	0	1	0	0	0	0	0	0	0
+1730	Jezek_2003	0	Il treno è fermato a Roma.	0	1	0	0	0	0	0	0	0
+1737	Jezek_2003	0	Il burro è sciolto.	0	1	0	0	1	0	0	0	0
+1738	Jezek_2003	1	Il burro si è sciolto.	0	1	0	0	0	0	0	0	0
+1739	Jezek_2003	1	Guarda, il burro è tutto sciolto.	0	1	0	0	0	0	0	0	0
+1740	Jezek_2003	0	Il burro è sciolto in due ore.	0	1	0	0	0	0	0	0	0
+1741	Jezek_2003	1	Guarda, l'acqua è tutta gelata.	0	1	0	0	0	0	0	0	0
+1744	Jezek_2003	1	Paola è smontata a Termini.	0	1	0	0	0	0	0	0	0
+1747	Jezek_2003	1	Il bosco ha bruciato.	0	1	0	0	1	0	0	0	0
+1748	Jezek_2003	1	Il bosco è bruciato.	0	1	0	0	0	0	0	0	0
+1749	Jezek_2003	1	Il bosco si è bruciato.	0	1	0	0	0	0	0	0	0
+1752	Jezek_2003	1	Il bosco è bruciato per ore.	0	1	0	0	0	0	0	0	0
+1753	Jezek_2003	1	Il bosco è bruciato in due ore.	0	1	0	0	0	0	0	0	0
+1754	Jezek_2003	1	Il bosco è bruciato durante la notte.	0	1	0	0	0	0	0	0	0
+1755	Jezek_2003	0	Il bosco si è bruciato per ore.	0	1	0	0	0	0	0	0	0
+1756	Jezek_2003	1	Il bosco si è bruciato in due ore.	0	1	0	0	0	0	0	0	0
+1757	Jezek_2003	1	Il bosco si è bruciato durante la notte.	0	1	0	0	0	0	0	0	0
+1758	Jezek_2003	1	Paola ha cotto la torta.	0	1	0	0	0	0	0	0	0
+1759	Jezek_2003	1	La torta ha cotto.	0	1	0	0	1	0	0	0	0
+1760	Jezek_2003	0	La torta è cotta.	0	1	0	0	1	0	0	0	0
+1761	Jezek_2003	1	La torta si è cotta.	0	1	0	0	1	0	0	0	0
+1766	Jezek_2003	1	L'arrosto si è bruciato.	0	1	0	0	1	0	0	0	0
+1767	Jezek_2003	0	Le lette sono bruciate.	0	1	0	0	1	0	0	0	0
+1768	Jezek_2003	0	Le tappe sono bruciate.	0	1	0	0	1	0	0	0	0
+1795	Jezek_2003	1	Si è verificato un fatto strano.	0	1	0	0	0	0	0	0	0
+1804	Jezek_2003	1	Che mi combini?	0	0	0	0	0	1	0	0	0
+1819	Jezek_2003	1	È arrivato l'aereo.	0	1	0	0	1	0	0	0	0
+1829	Jezek_2003	1	Alessandro è caduto.	0	1	0	0	0	0	0	0	0
+1830	Jezek_2003	1	Riccardo è scappato.	0	1	0	0	1	0	0	0	0
+1831	Jezek_2003	1	Riccardo è uscito sbattendo la porta.	0	1	0	0	0	0	0	0	0
+1834	Jezek_2003	0	È guarito per un giorno.	0	1	0	0	0	0	0	0	0
+1835	Jezek_2003	1	È guarito in un giorno.	0	1	0	0	1	0	0	0	0
+1841	Jezek_2003	1	Era totalmente fumato.	0	1	0	0	0	0	0	0	0
+1842	Jezek_2003	1	Più che fumato, era bevuto.	0	1	0	0	0	0	0	0	0
+1844	Jezek_2003	1	Edoardo ha continuato.	0	1	0	0	0	0	0	0	0
+1845	Jezek_2003	0	Andrea è continuato.	0	1	0	0	1	0	0	0	0
+1846	Jezek_2003	1	Lorenzo ha continuato il libro.	0	1	0	0	0	0	0	0	0
+1847	Jezek_2003	1	Riccardo ha continuato la sigaretta.	0	1	0	0	0	0	0	0	0
+1848	Jezek_2003	1	Il discorso è continuato.	0	1	0	0	1	0	0	0	0
+1849	Jezek_2003	0	Il libro è continuato.	0	1	0	0	1	0	0	0	0
+1850	Jezek_2003	0	La sigaretta è continuata.	0	1	0	0	0	0	0	0	0
+1852	Jezek_2003	1	La scritta si è cancellata.	0	1	0	0	0	0	0	0	0
+1853	Jezek_2003	0	La lavagna si è cancellata.	0	1	0	0	0	0	0	0	0
+1857	Jezek_2003	1	Il malato è guarito.	0	1	0	0	0	0	0	0	0
+1858	Jezek_2003	1	L'ernia è guarita.	0	1	0	0	0	0	0	0	0
+1859	Jezek_2003	0	La febbre è guarita.	0	1	0	0	1	0	0	0	0
+1872	Jezek_2003	1	La sveglia ha suonato per ore.	0	1	0	0	0	0	0	0	0
+1873	Jezek_2003	1	Alle otto è suonata la sveglia.	0	1	0	0	0	0	0	0	0
+1874	Jezek_2003	1	La nebbia si è dissolta.	0	1	0	0	0	0	0	0	0
+1875	Jezek_2003	0	La nebbia è dissolta.	0	1	0	0	1	0	0	0	0
+1876	Jezek_2003	1	I negozianti hanno aumentato il prezzo.	0	1	0	0	0	0	0	0	0
+1877	Jezek_2003	1	Il prezzo è aumentato.	0	1	0	0	1	0	0	0	0
+1878	Jezek_2003	0	Il prezzo si è aumentato.	0	1	0	0	0	0	0	0	0
+1880	Jezek_2003	1	La torta è un po' bruciata.	0	1	0	0	0	0	0	0	0
+1881	Jezek_2003	1	La torta si è un po' bruciata.	0	1	0	0	0	0	0	0	0
+1882	Jezek_2003	0	Gabriele ha seduto il bambino.	0	1	0	0	0	0	0	0	0
+1883	Jezek_2003	1	Il bambino si è seduto.	0	1	0	0	0	0	0	0	0
+1884	Jezek_2003	1	Il bambino è seduto.	0	1	0	0	0	0	0	0	0
+1885	Jezek_2003	0	Il sasso ha scoppiato la gomma.	0	1	0	0	1	0	0	0	0
+1886	Jezek_2003	1	La gomma è scoppiata.	0	1	0	0	0	0	0	0	0
+1887	Jezek_2003	0	La gomma si è scoppiata.	0	1	0	0	1	0	0	0	0
+1997	D-Agostino_1983	0	Chi Andrea esce?	0	0	0	0	1	1	0	0	0
+1998	D-Agostino_1983	0	Che cosa Leonardo esce?	0	0	0	0	0	1	0	0	0
+2019	D-Agostino_1983	1	Che cosa Edoardo rompe?	1	0	0	0	0	1	0	0	0
+2076	D-Agostino_1983	1	Dove Edoardo ha nascosto il libro?	0	0	0	0	0	1	1	0	0
+2078	D-Agostino_1983	0	Dove Andrea ha nascosto le macchie di umidità?	0	0	0	0	0	1	0	0	0
+2080	D-Agostino_1983	0	Dove Maria ha nascosto i capelli?	0	0	0	0	0	1	1	0	0
+2099	D-Agostino_1983	1	Dove Riccardo mise la penna?	1	0	0	0	0	1	0	0	0
+2101	D-Agostino_1983	1	Dove Andrea mise la penna nel taschino?	1	0	0	0	0	1	0	0	0
+2102	D-Agostino_1983	1	Dove Edoardo mise la cassa?	0	0	0	0	0	1	0	0	0
+2103	D-Agostino_1983	1	Dove Gabriele mise la cassa in camera da pranzo?	0	0	0	0	0	1	0	0	0
+2155	D-Agostino_1983	1	Dove Alessandro beve il the?	0	0	0	0	0	1	0	0	0
+2161	D-Agostino_1983	1	Dove Edoardo estrasse la pistola?	1	0	0	0	0	1	0	0	0
+2275	D-Agostino_1983	1	È dal balcone in giardino che Alessandro ha lanciato il pallone.	1	0	0	0	0	0	1	0	0
+2276	D-Agostino_1983	0	È in giardino dal balcone che Alessandro ha lanciato il pallone.	1	0	0	0	0	0	1	0	0
+2277	D-Agostino_1983	1	È dal balcone che Tommaso ha lanciato il pallone in giardino.	1	0	0	0	0	0	1	0	0
+2278	D-Agostino_1983	1	È in giardino che Leonardo ha lanciato il pallone dal balcone.	1	1	0	0	0	0	0	0	0
+2279	D-Agostino_1983	0	È al garage dal giardino che Tommaso ha piantato fiori.	1	1	0	0	0	0	1	0	0
+2280	D-Agostino_1983	0	È dal giardino che Riccardo ha piantato fiori al garage.	1	0	0	0	0	0	1	0	0
+2281	D-Agostino_1983	0	È al garage che Lorenzo ha piantato fiori dal giardino.	1	1	0	0	0	0	0	0	0
+2411	Elia-et-al_1981	1	Riccardo sa qualcosa.	0	0	0	0	1	0	0	0	1
+2413	Elia-et-al_1981	1	Riccardo vuole qualcosa.	0	0	0	0	1	0	0	0	1
+2444	Elia-et-al_1981	1	Lorenzo è un costruttore di case.	0	1	0	0	0	0	0	0	0
+2446	Elia-et-al_1981	1	Paola è desiderosa di carezze.	0	1	0	0	0	0	0	0	0
+2469	Elia-et-al_1981	1	Il capo è Andrea.	0	1	0	0	1	0	0	0	0
+2484	Elia-et-al_1981	1	È Lorenzo a carezzare Maria.	1	1	0	0	0	0	0	0	0
+2485	Elia-et-al_1981	1	È Beatrice che Riccardo carezza.	1	1	0	0	0	0	0	0	0
+2486	Elia-et-al_1981	1	È alla presidenza che Edoardo mira.	1	0	0	0	0	0	0	0	0
+2488	Elia-et-al_1981	0	È carezza che Andrea Giulia.	1	0	0	0	0	0	0	0	0
+2490	Elia-et-al_1981	1	È fuggire che Riccardo desidera.	1	1	0	0	0	0	0	0	0
+2493	Elia-et-al_1981	1	È adesso che Paola arriva.	1	1	0	0	0	0	0	0	0
+2495	Elia-et-al_1981	1	È quando tramonterà il sole che Alessandro ucciderà Giulia.	1	0	0	0	0	0	0	0	0
+2497	Elia-et-al_1981	1	È un caminetto che Emma costruisce.	1	0	0	0	0	0	0	0	0
+2498	Elia-et-al_1981	0	È Emma ciò che costruisce un caminetto.	1	0	0	0	0	0	0	0	0
+2500	Elia-et-al_1981	1	È il successo ciò a cui Leonardo tiene.	1	1	0	0	0	0	0	0	0
+2501	Elia-et-al_1981	1	È un caminetto ciò che Maria costruisce.	1	0	0	0	0	0	0	0	0
+2502	Elia-et-al_1981	1	È un caminetto ciò che costruisce Maria.	1	0	0	0	0	0	0	0	0
+2503	Elia-et-al_1981	1	È un ragno ciò che Paola teme.	1	0	0	0	0	0	0	0	0
+2505	Elia-et-al_1981	1	È un ragno che Alice teme.	1	0	0	0	0	0	0	0	0
+2506	Elia-et-al_1981	0	Che Paola teme è un ragno.	1	1	0	0	0	0	0	0	0
+2508	Elia-et-al_1981	0	È lo che Leonardo vuole.	1	0	0	0	0	0	0	0	0
+2509	Elia-et-al_1981	1	Sarà un cane che Lorenzo vuole.	1	0	0	0	0	0	0	0	0
+2510	Elia-et-al_1981	1	Era un libro di fantascienza ciò che Riccardo desiderava.	1	0	0	0	0	0	0	0	0
+2512	Elia-et-al_1981	0	È dei polli che Riccardo compra.	1	1	0	0	0	0	0	0	0
+2513	Elia-et-al_1981	1	Sono dei polli, che Gabriele compra.	1	0	0	0	0	0	0	0	0
+2515	Elia-et-al_1981	0	È gli artisti che dipingono dei quadri.	1	0	0	0	0	0	0	0	0
+2516	Elia-et-al_1981	1	Sono gli artisti che dipingono dei quadri.	1	0	0	0	0	0	0	0	0
+2517	Elia-et-al_1981	0	È dei quadri ciò che gli artisti dipingono.	1	0	0	0	0	0	0	0	0
+2518	Elia-et-al_1981	1	Sono dei quadri ciò che artisti dipingono.	1	0	0	0	0	0	0	0	0
+2519	Elia-et-al_1981	1	È Edoardo che adora il cinema.	1	0	0	0	0	0	0	0	0
+2520	Elia-et-al_1981	1	È il cinema ciò che Lorenzo adora.	1	0	0	0	0	0	0	0	0
+2521	Elia-et-al_1981	1	È Alessandro che adora il cinema a non Francesco.	1	0	0	0	0	0	0	0	0
+2522	Elia-et-al_1981	1	È il cinema che Lorenzo adora e non la musica.	1	0	0	0	0	0	0	0	0
+2523	Elia-et-al_1981	1	È il cinema ciò che Edoardo adora e non la musica.	1	0	0	0	0	0	0	0	0
+2524	Elia-et-al_1981	1	È Riccardo e non Lorenzo che adora il cinema.	1	0	0	0	0	0	0	0	0
+2525	Elia-et-al_1981	1	È il cinema e non la musica ciò che Andrea adora.	1	1	0	0	0	0	0	0	0
+2637	Elia-et-al_1981	1	Edoardo guarda un costume che è da bagno.	0	1	0	0	0	0	0	0	0
+2651	Elia-et-al_1981	0	Maria diverte qualche cosa.	0	0	0	0	0	0	0	0	1
+2671	Elia-et-al_1981	1	Che tu venga è dolce.	1	1	0	0	0	0	0	0	0
+2672	Elia-et-al_1981	1	Che Giulia ancheggi è ridicolo.	0	1	0	0	0	0	0	0	0
+2673	Elia-et-al_1981	1	È bello che Edoardo dipinga.	1	1	0	0	0	0	0	0	0
+2674	Elia-et-al_1981	1	È dolce che tu venga.	1	1	0	0	0	0	0	0	0
+2675	Elia-et-al_1981	1	È ridicolo che Alice ancheggi.	1	0	0	0	0	0	0	0	0
+2676	Elia-et-al_1981	1	Carezzare Emma è dolce.	0	1	0	0	0	0	0	0	0
+2677	Elia-et-al_1981	1	Guardarti è bello.	0	1	0	0	0	0	0	0	0
+2678	Elia-et-al_1981	1	Ancheggiare è ridicolo.	0	1	0	0	0	0	0	0	0
+2680	Elia-et-al_1981	1	Il tuo ritorno è dolce.	0	1	0	0	1	0	0	0	0
+2681	Elia-et-al_1981	1	Gli ancheggiamenti di Maria sono ridicoli.	0	1	0	0	0	0	0	0	0
+2711	Elia-et-al_1981	1	È tardi.	0	1	0	0	1	0	0	0	0
+2712	Elia-et-al_1981	1	È presto.	0	1	0	0	1	0	0	0	0
+2787	Elia-et-al_1981	1	Il vestito di Maria splende di uno stupendo diamante.	0	0	0	0	0	0	0	0	1
+2788	Elia-et-al_1981	1	Il vestito di Paola brilla di uno stupendo diamante.	0	0	0	0	0	0	0	0	1
+2796	Elia-et-al_1981	0	La torre del castello garrisce di uno stendardo.	0	0	0	0	0	0	0	0	1
+2819	Elia-et-al_1981	1	Il cielo è tutto uno sfavillare di stelle.	0	1	0	0	0	0	0	0	0
+2820	Elia-et-al_1981	1	Il cielo è tutto uno scintillio di stelle.	0	1	0	0	0	0	0	0	0
+2828	Elia-et-al_1981	0	Da che cosa splende Paola?	0	0	0	0	0	1	0	0	0
+2985	Elia-et-al_1981	1	C'è un capanno nel giardino.	0	1	0	0	0	0	0	0	0
+3075	Elia-et-al_1981	1	Il cuoco di palazzo cucinò uno splendido involtino.	0	0	0	0	0	0	0	0	1
+3142	Elia-et-al_1981	0	Da dove Emma traveste Alessandro?	0	0	0	0	0	1	0	0	0
+3143	Elia-et-al_1981	0	Dove Maria traveste Riccardo?	0	0	0	0	0	1	0	0	0
+3150	Elia-et-al_1981	1	Maria dà uno schiaffo a Francesco.	0	0	0	0	0	0	0	0	1
+3151	Elia-et-al_1981	1	Giulia gli dà uno schiaffo.	0	0	0	0	0	0	0	0	1
+3164	Elia-et-al_1981	1	Gabriele ha dato un libro a qualcuno per conto di Maria.	0	0	0	0	0	0	0	0	1
+3293	Elia-et-al_1981	1	Gabriele ottiene la libertà da qualcuno.	0	0	0	0	0	0	0	0	1
+3294	Elia-et-al_1981	1	Riccardo ottiene la libertà di qualcuno.	0	0	0	0	0	0	0	0	1
+3337	Elia-et-al_1981	1	Il bicchiere è sul tavolo.	0	1	0	0	1	0	0	0	0
+3448	Elia-et-al_1981	1	Lorenzo accoppia Riccardo a Francesco, l'uno all'altro.	0	0	0	0	0	0	0	0	1
+3450	Elia-et-al_1981	1	Edoardo e Tommaso contano l'uno sull'altro.	0	0	0	0	0	0	0	0	1
+3496	Elia-et-al_1981	1	Sofia ha affermato che Andrea è bello.	0	1	0	0	0	0	0	0	0
+3566	Elia-et-al_1981	1	Che prima o poi si sposi qualcuno capita a tutti.	0	0	0	0	0	0	0	0	1
+3567	Elia-et-al_1981	1	Sposarsi con qualcuno prima o poi capita a tutti.	0	0	0	0	0	0	0	0	1
+3568	Elia-et-al_1981	1	Di sposarsi con qualcuno prima o poi capita a tutti.	0	0	0	0	0	0	0	0	1
+3569	Elia-et-al_1981	1	Capita a tutti prima o poi di sposarsi con qualcuno.	0	0	0	0	0	0	0	0	1
+3579	Elia-et-al_1981	1	Maria è bramosa di tornare.	0	1	0	0	0	0	0	0	0
+3580	Elia-et-al_1981	1	Maria ne è bramosa di tornare.	0	1	0	0	0	0	0	0	0
+3583	Elia-et-al_1981	1	Beatrice è felice che tu venga.	0	1	0	0	0	0	0	0	0
+3584	Elia-et-al_1981	1	Paola ne è felice di ciò.	0	1	0	0	0	0	0	0	0
+3618	Elia-et-al_1981	0	Andrea allieta se stesso che Paola ride.	0	0	0	0	0	0	0	1	0
+3619	Elia-et-al_1981	0	Lorenzo allieta se stesso del fatto che Paola ride.	0	0	0	0	0	0	0	1	0
+3625	Elia-et-al_1981	1	Lorenzo allieta se stesso perché Maria ride.	0	0	0	0	0	0	0	1	0
+3626	Elia-et-al_1981	1	Andrea allieta se stesso per il fatto che Emma ride.	0	0	0	0	0	0	0	1	0
+3634	Elia-et-al_1981	1	Alice volontariamente fa qualcosa per acquietarmi.	0	0	0	0	0	0	0	0	1
+3636	Elia-et-al_1981	1	Parlare con le ballerine è divertente per Edoardo.	0	1	0	0	0	0	0	0	0
+3707	Elia-et-al_1981	1	Paola ascolta qualcuno cantare.	0	0	0	0	0	0	0	0	1
+3715	Elia-et-al_1981	1	Emma stima che fumare è stupido.	0	1	0	0	0	0	0	0	0
+3725	Elia-et-al_1981	1	Alice trova che Giulia è bella.	0	1	0	0	0	0	0	0	0
+3727	Elia-et-al_1981	0	Maria lo trova che Giulia è bella.	0	1	0	0	0	0	0	0	0
+3735	Elia-et-al_1981	0	Emma lo considera che Francesco è un buffone.	0	1	0	0	0	0	0	0	0
+3756	Elia-et-al_1981	1	Io so qualcosa di te.	0	0	0	0	0	0	0	0	1
+3797	Elia-et-al_1981	1	Giulia pensa che Francesco è bello.	0	1	0	0	0	0	0	0	0
+4055	Elia-et-al_1981	1	Questo file è da vedere.	0	1	0	0	0	0	0	0	0
+4056	Elia-et-al_1981	1	Il libro è piacevole da leggere.	0	1	0	0	0	0	0	0	0
+4136	Vietri_2004	1	Scorsese è un regista italo-americano.	0	1	0	0	0	0	0	0	0
+4142	Vietri_2004	1	Leonardo sa qualcosa.	0	0	0	0	0	0	0	0	1
+4143	Vietri_2004	1	Paola desidera qualcosa.	0	0	0	0	1	0	0	0	1
+4145	Vietri_2004	1	Lorenzo sa che Maria desidera qualcosa.	0	0	0	0	0	0	0	0	1
+4148	Vietri_2004	1	Il fratello di quel ragazzo ha letto un romanzo di una studentessa.	0	0	0	0	0	0	0	0	1
+4149	Vietri_2004	1	Il fratello di quel ragazzo con gli occhi azzurri ha letto un romanzo di una studentessa di Gabriele.	0	0	0	0	0	0	0	0	1
+4158	Vietri_2004	1	È quel quadro di Picasso che angoscia l'amica di Giulia.	1	0	0	0	0	0	0	0	0
+4159	Vietri_2004	0	È quel quadro che di Picasso angoscia l'amica di Maria.	1	0	0	0	0	0	0	0	0
+4160	Vietri_2004	0	È quel quadro di che quel Picasso che angoscia l'amica di Maria.	1	0	0	0	0	0	0	0	0
+4161	Vietri_2004	0	È di Picasso che quel quadro angoscia l'amica di Paola.	1	0	0	0	0	0	0	0	0
+4162	Vietri_2004	1	È l'amica di Maria che quel quadro di Picasso angoscia.	1	0	0	0	0	0	0	0	0
+4180	Vietri_2004	0	È bacia Andrea che Paola.	1	0	0	0	0	0	0	0	0
+4184	Vietri_2004	0	È nessun difetto che Sofia non ha visto.	1	0	0	0	0	0	0	0	0
+4186	Vietri_2004	0	Sono numerosi invitati che sono arrivati.	1	0	0	0	0	0	0	0	0
+4217	Vietri_2004	1	Una tribù abita nella casa in campagna.	0	0	0	0	0	0	0	0	1
+4218	Vietri_2004	1	Una tribù abita New York.	0	0	0	0	0	0	0	0	1
+4219	Vietri_2004	1	Una tribù abita a New York.	0	0	0	0	0	0	0	0	1
+4220	Vietri_2004	1	Una tribù abita nella vallata.	0	0	0	0	1	0	0	0	1
+4221	Vietri_2004	1	Una tribù abita la vallata.	0	0	0	0	1	0	0	0	1
+4224	Vietri_2004	1	Riccardo dice una barzelletta ad Emma.	0	0	0	0	0	0	0	0	1
+4226	Vietri_2004	1	Tommaso è un attore.	0	1	0	0	0	0	0	0	0
+4231	Vietri_2004	1	Giulia è nuda.	0	1	0	0	0	0	0	0	0
+4242	Vietri_2004	1	Beatrice ha messo una nuova macchina nel garage.	0	0	0	0	0	0	0	0	1
+4243	Vietri_2004	1	Alice ha inventato una nuova macchina nel garage.	0	0	0	0	0	0	0	0	1
+4244	Vietri_2004	1	Alice ha inventato una nuova macchina.	0	0	0	0	0	0	0	0	1
+4245	Vietri_2004	0	Paola ha messo una nuova macchina.	0	0	0	0	0	0	0	0	1
+4283	Vietri_2004	1	Maria è identica ad Emma.	0	1	0	0	0	0	0	0	0
+4303	Vietri_2004	1	Maria fa una chiacchierata con Giulia.	0	0	0	0	0	0	0	0	1
+4304	Vietri_2004	1	Maria fece una fotografia ad Alice.	0	0	0	0	0	0	0	0	1
+4308	Vietri_2004	1	Il mio amico ha una Ferrari.	0	0	0	0	1	0	1	0	1
+4367	Vietri_2004	0	È il toro che Maria ha preso per le corna.	1	0	0	0	0	0	0	0	0
+4368	Vietri_2004	0	È per le corna che Alice ha preso il toro.	1	1	0	0	0	0	0	0	0
+4369	Vietri_2004	1	È Maria che ha preso il toro per le corna.	1	1	0	0	0	0	0	0	0
+4370	Vietri_2004	0	È per le corna che Paola ha preso per il toro e non per le gambe.	1	0	0	0	0	0	0	0	0
+4397	Vietri_2004	1	Tommaso ha comprato una barca un po' di tempo fa.	0	0	0	0	0	0	0	0	1
+4416	Vietri_2004	0	Andrea ha sezionato il vecchio tiglio in una frazione di secondo.	0	0	0	0	0	0	0	0	1
+4418	Vietri_2004	1	L'ala dell'aereo ha sezionato il vecchio tiglio in una frazione di secondo.	0	0	0	0	0	0	0	0	1
+4428	Vietri_2004	1	Andrea è in gamba.	0	1	0	0	1	0	0	0	0
+4429	Vietri_2004	1	Riccardo ha fatto una discussione con Paola.	0	0	0	0	0	0	0	0	1
+4430	Vietri_2004	1	Andrea ha intavolato una discussione con Beatrice.	0	0	0	0	0	0	0	0	1
+4443	Vietri_2004	1	Che tu torni è desiderato da Maria.	0	1	0	0	0	0	0	0	0
+4529	Vietri_2004	0	Riccardo ha spezzato Maria.	0	0	0	0	1	0	0	0	0
+4530	Vietri_2004	0	Lorenzo ha fratturato Giulia.	0	0	0	0	1	0	0	0	0
+4531	Vietri_2004	1	Maria fumava una sigaretta con Alice.	0	0	0	0	0	0	0	0	1
+4533	Vietri_2004	1	Alice fumava una sigaretta e ciò succedeva con Paola.	0	0	0	0	0	0	0	0	1
+4534	Vietri_2004	0	Maria fumava e ciò succedeva una sigaretta.	0	0	0	0	0	0	0	0	1
+4539	Vietri_2004	1	Una sigaretta era fumata da Sofia.	0	0	0	0	0	0	0	0	1
+4543	Vietri_2004	1	Tommaso fuma una cicca.	0	0	0	0	0	0	0	0	1
+4548	Vietri_2004	1	Maria cantava una canzone di Dalla.	0	0	0	0	0	0	0	0	1
+4549	Vietri_2004	1	Tommaso ha realizzato una bella canzone.	0	0	0	0	0	0	0	0	1
+4552	Vietri_2004	1	I cento metri è una corsa.	0	1	0	0	0	0	0	0	0
+4553	Vietri_2004	1	La maratona di New York è una corsa.	0	1	0	0	0	0	0	0	0
+4560	Vietri_2004	1	Un palazzo è una costruzione.	0	1	0	0	0	0	0	0	0
+4562	Vietri_2004	1	La Gioconda è un dipinto.	0	1	0	0	0	0	0	0	0
+4563	Vietri_2004	1	Gabriele ha disegnato una caricatura.	0	0	0	0	0	0	0	0	1
+4564	Vietri_2004	1	Una caricatura è un disegno.	0	1	0	0	1	0	0	0	0
+4569	Vietri_2004	1	Quell'uomo ha realizzato una canzone.	0	0	0	0	0	0	0	0	1
+4579	Vietri_2004	1	Alessandro è ricco.	0	1	0	0	0	0	0	0	0
+4633	Vietri_2004	0	Beatrice ha tagliato ha torta in una parte uguale.	0	0	0	0	0	0	0	0	1
+4637	Vietri_2004	1	Riccardo ha comprato una casa in collina.	0	0	0	0	0	0	0	0	1
+4640	Vietri_2004	1	Maria fuma una sigaretta.	0	0	0	0	1	0	0	0	1
+4646	Vietri_2004	1	Maria è una fumatrice.	0	1	0	0	0	0	0	0	0
+4647	Vietri_2004	1	Emma è studiosa.	0	1	0	0	0	0	0	0	0
+4660	Vietri_2004	1	Una pioggia pesante pioveva sul letto della casa.	0	0	0	0	0	0	0	0	1
+4661	Vietri_2004	1	Una neve gelida nevicava su di noi.	0	0	0	0	0	0	0	0	1
+4693	Vietri_2004	1	Emma proviene da una famiglia nobile.	0	0	0	0	0	0	0	0	1
+4697	Vietri_2004	1	Maria proviene da una famiglia nobile.	0	0	0	0	0	0	0	0	1
+4708	Vietri_2004	1	L'argento è scuro.	0	1	0	0	1	0	0	0	0
+4723	Vietri_2004	1	Lorenzo dice una barzelletta a Tommaso.	0	0	0	0	0	0	0	0	1
+4747	Vietri_2004	1	Gli uomini dispongono una cifra notevole.	0	0	0	0	0	0	0	0	1
+4797	Vietri_2004	1	Paola ha detto una bugia a Lorenzo.	0	0	0	0	0	0	0	0	1
+4805	Vietri_2004	1	Tommaso invita Giulia a una festa.	0	0	0	0	0	0	0	0	1
+4869	Vietri_2004	1	Leonardo ha piantato una grana a Maria.	0	0	0	0	0	0	0	0	1
+4883	Vietri_2004	1	Francesco è contro Giulia.	0	1	0	0	0	0	0	0	0
+4884	Vietri_2004	1	Lorenzo è ricco di sorprese.	0	1	0	0	0	0	0	0	0
+4888	Vietri_2004	1	Il suo nome è di dominio pubblico.	0	1	0	0	0	0	0	0	0
+4891	Vietri_2004	1	Andrea è la causa del fatto che il suo nome sia di dominio pubblico.	0	1	0	0	0	0	0	0	0
+4924	Vietri_2004	1	Un lead è un canto.	0	1	0	0	1	0	0	0	0
+4925	Vietri_2004	1	La Marsigliese è un canto.	0	1	0	0	1	0	0	0	0
+4926	Vietri_2004	1	Una persona che è Andrea canta un canto che è la Marsigliese.	0	1	0	0	0	0	0	0	0
+4930	Vietri_2004	1	Lorenzo è desideroso di carezze.	0	1	0	0	0	0	0	0	0
+4937	Vietri_2004	1	Andare a Miami è inutile.	0	1	0	0	0	0	0	0	0
+4938	Vietri_2004	1	Sofia è inferiore a Maria.	0	1	0	0	0	0	0	0	0
+4939	Vietri_2004	1	Questo evento è concomitante con quell'altro.	0	1	0	0	0	0	0	0	0
+4940	Vietri_2004	1	Questi eventi sono concomitanti.	0	1	0	0	0	0	0	0	0
+4941	Vietri_2004	1	Questa linea è equidistante da quella.	0	1	0	0	0	0	0	0	0
+4942	Vietri_2004	1	Queste due linee sono equidistanti.	0	1	0	0	0	0	0	0	0
+4943	Vietri_2004	1	Francesco è incapace di reagire.	0	1	0	0	0	0	0	0	0
+4962	Vietri_2004	1	Alice ha presentato quella a qualcuno.	0	0	0	0	0	0	0	0	1
+4963	Vietri_2004	1	Lei ha presentato quella a qualcuno.	0	0	0	0	0	0	0	0	1
+5014	Vietri_2004	1	Ѐ Andrea che mette i libri sugli scaffali ora.	1	0	0	0	0	0	0	0	0
+5015	Vietri_2004	1	Ѐ sugli scaffali che Andrea mette i libri ora.	1	0	0	0	0	0	0	0	0
+5016	Vietri_2004	1	Ѐ ora che Francesco mette i libri sugli scaffali.	1	0	0	0	0	0	0	0	0
+5017	Vietri_2004	0	Ѐ mette che Riccardo i libri sugli scaffali ora.	1	0	0	0	0	0	0	0	0
+5019	Vietri_2004	0	Ѐ desidera che Lorenzo scappare.	1	1	0	0	0	0	0	0	0
+5020	Vietri_2004	0	Ѐ Andrea ciò che mette i libri sugli scaffali ora.	1	0	0	0	0	0	0	0	0
+5021	Vietri_2004	0	Ѐ ora ciò che Tommaso mette i libri sugli scaffali.	1	0	0	0	0	0	0	0	0
+5022	Vietri_2004	0	Ѐ sugli scaffali ciò che Leonardo mette i libri.	1	0	0	0	0	0	0	0	0
+5023	Vietri_2004	1	Sono gli scaffali ciò su cui Tommaso mette i libri ora.	1	0	0	0	0	0	0	0	0
+5050	Vietri_2004	1	Sei andato al cinema?	0	0	0	0	0	1	0	0	0
+5051	Vietri_2004	1	Che cosa studia Emma?	0	0	0	0	0	1	0	0	0
+5056	Vietri_2004	1	Che cosa fa Francesco?	0	0	0	0	0	1	0	0	0
+5081	Vietri_2004	1	Gabriele crede qualcosa.	0	0	0	0	1	0	0	0	1
+5087	Vietri_2004	0	Ѐ la conversazione che Sofia raccontò ad Edoardo più esasperante della sua vita.	1	0	0	0	0	0	0	0	0
+5088	Vietri_2004	0	Ѐ della sua vita che Beatrice raccontò a Gabriele la conversazione più esasperante.	1	0	0	0	0	0	0	0	0
+5089	Vietri_2004	1	Ѐ la conversazione più esasperante della sua vita che Giulia raccontò a Riccardo.	1	1	0	0	0	0	0	0	0
+5091	Vietri_2004	1	Come spiegare la sua lettera?	0	0	0	0	0	1	0	0	0
+5093	Vietri_2004	1	Maria è in gamba.	0	1	0	0	0	0	0	0	0
+5094	Vietri_2004	1	Emma è preoccupata.	0	1	0	0	0	0	0	0	0
+5099	Vietri_2004	1	Costruisci ponti?	0	0	0	0	0	1	0	0	0
+5116	Vietri_2004	1	Ha fatto una gara.	0	1	0	0	0	0	0	0	1
+5118	Vietri_2004	1	Ho una bella casa.	0	1	0	0	0	0	0	0	1
+5119	Vietri_2004	1	La sua partenza è in dubbio.	0	1	0	0	0	0	0	0	0
+5126	Vietri_2004	1	Ascoltarlo è interessante per me.	0	1	0	0	0	0	0	0	0
+5151	Vietri_2004	1	Ha una cotta per Giulia.	0	0	0	0	1	0	0	0	1
+5162	Vietri_2004	1	Maria ha tolto il posto di lavoro alla sorella di Leonardo.	0	0	0	0	0	0	1	0	0
+5169	Vietri_2004	1	Paola ha composto una canzone.	0	0	0	0	0	0	0	0	1
+5170	Vietri_2004	1	Sting ha cantato una bella canzone.	0	0	0	0	0	0	1	0	1
+5175	Vietri_2004	1	Quell'uomo gode di una rendita molto alta.	0	0	0	0	0	0	0	0	1
+5177	Vietri_2004	1	La sua teoria consegue da una ipotesi precisa.	0	0	0	0	0	0	0	0	1
+5195	Vietri_2004	1	Gabriele ha annunciato che lui si era sposato.	0	0	0	0	0	0	1	0	0
+5196	Vietri_2004	1	Leonardo ha annunciato di essersi sposato.	0	0	0	0	0	0	1	0	0
+5204	Vietri_2004	1	Gabriele ha fatto svegliare Maria che stava facendo un bel sogno.	0	0	0	0	0	0	1	0	0
+5205	Vietri_2004	1	Hanno messo tutti in una stanza.	0	0	0	0	0	0	0	0	1
+5219	Vietri_2004	1	Quel vaso è d'argento.	0	1	0	0	1	0	0	0	0
+5224	Vietri_2004	1	Alice è inadatta a recitare.	0	1	0	0	1	0	0	0	0
+5225	Vietri_2004	1	L'armadio è colmo di vestiti.	0	1	0	0	0	0	0	0	0
+5232	Vietri_2004	1	Quella donna fu baciata.	0	1	0	0	0	0	0	0	0
+5233	Vietri_2004	1	Ѐ baciare quella donna ciò che Alessandro desidera.	1	0	0	0	0	0	0	0	0
+5237	Vietri_2004	1	Quella ragazza che ha le gambe lunghe e i capelli corti e neri lo fa impazzire.	1	0	0	0	0	0	0	0	0
+5240	Vietri_2004	1	Era una gioia che non aveva mai provato.	1	0	0	0	0	0	0	0	1
+5241	Vietri_2004	1	Ѐ una donna dai mille privilegi che proviene da una città con molti abitanti di diverse etnie.	1	0	0	0	0	0	0	0	1
+5247	Vietri_2004	1	Dov'è la copertina del libro?	0	0	0	0	0	1	0	0	0
+5260	Vietri_2004	1	La carne brucia.	0	1	0	0	1	0	0	0	0
+5261	Vietri_2004	1	Lorenzo irrita Paola.	0	1	0	0	0	0	0	0	0
+5263	Vietri_2004	1	Alessandro apre la porta.	0	1	0	0	0	0	0	0	0
+5264	Vietri_2004	1	Lorenzo fugge Leonardo.	0	1	0	0	1	0	0	0	0
+5266	Vietri_2004	1	Gli sembrava che stesse succedendo una cosa che era importante.	1	0	0	0	0	0	0	0	1
+5267	Vietri_2004	1	Fu consigliato a tutti di lasciare la città.	1	0	0	0	0	0	0	0	0
+5271	Vietri_2004	1	Vincerà la più brava.	0	1	0	0	0	0	0	0	0
+5273	Vietri_2017	1	Il vaso si è rotto.	0	1	0	0	0	0	0	0	0
+5275	Vietri_2017	1	La nave è affondata.	0	1	0	0	1	0	0	0	0
+5284	Vietri_2017	1	Andrea ha fatto scrivere una lettera a Tommaso.	0	0	0	0	0	0	0	0	1
+5298	Vietri_2017	1	La lastra è opaca.	0	1	0	0	1	0	0	0	0
+5331	Vietri_2017	1	I terroristi hanno abbattuto i passanti con una raffica di mitra.	0	0	0	0	0	0	0	0	1
+5332	Vietri_2017	1	I terroristi hanno ucciso i passanti con una raffica di mitra.	0	0	0	0	0	0	0	0	1
+5333	Vietri_2017	1	Una raffica di mitra ha abbattuto i passanti.	0	0	0	0	0	0	0	0	1
+5334	Vietri_2017	1	Una raffica di mitra ha ucciso i passanti.	0	0	0	0	0	0	0	0	1
+5335	Vietri_2017	1	Una forte tempesta ha affondato la nave.	0	0	0	0	0	0	0	0	1
+5336	Vietri_2017	0	Il capitano ha affondato la nave con una forte tempesta.	0	0	0	0	0	0	0	0	1
+5337	Vietri_2017	0	Sofia ha rotto il vetro con una improvvisa raffica di vento.	0	0	0	0	0	0	0	0	1
+5350	Vietri_2017	0	La nave fu affondata con una forte tempesta.	0	0	0	0	0	0	0	0	1
+5359	Vietri_2017	1	Paola ha lavato se stessa.	0	0	0	0	0	0	0	1	0
+5366	Vietri_2017	0	Alessandro ha laureato se stesso.	0	0	0	0	0	0	0	1	0
+5370	Vietri_2017	1	Riccardo ha graffiato se stesso sul viso.	0	0	0	0	0	0	1	1	0
+5371	Vietri_2017	1	Gabriele ha graffiato se stesso.	0	0	0	0	0	0	1	1	0
+5420	Vietri_2017	1	La Chrysler e la Fiat si sono fuse l'una con l'altra.	0	0	0	0	0	0	0	0	1
+5432	Vietri_2017	1	La nave è a fondo.	0	1	0	0	0	0	0	0	0
+5435	Vietri_2017	1	Il pollo è in cottura.	0	1	0	0	1	0	0	0	0
+5436	Vietri_2017	1	La città è abbellita.	0	1	0	0	1	0	0	0	0
+5438	Vietri_2017	1	La città è in abbellimento.	0	1	0	0	0	0	0	0	0
+5442	Vietri_2017	1	Il traffico è in intensificazione.	0	1	0	0	0	0	0	0	0
+5447	Vietri_2017	1	Maria è invecchiata.	0	1	0	0	1	0	0	0	0
+5450	Vietri_2017	1	La frutta è maturata.	0	1	0	0	1	0	0	0	0
+5454	Vietri_2017	1	L'esplosione ha frantumato la vetrata in un millisecondo.	0	0	0	0	0	0	1	0	0
+5477	Vietri_2017	1	Ha abbassato il prezzo dei moduli fotovoltaici in sei mesi.	0	0	0	0	0	0	1	0	0
+5478	Vietri_2017	0	Ha abbassato il prezzo dei moduli fotovoltaici per sei mesi.	0	0	0	0	0	0	1	0	0
+5479	Vietri_2017	1	Il prezzo dei moduli fotovoltaici si è abbassato in sei mesi.	0	0	0	0	0	0	1	0	0
+5480	Vietri_2017	1	Il prezzo dei moduli fotovoltaici si è abbassato per sei mesi.	0	0	0	0	0	0	1	0	0
+5481	Vietri_2017	1	Ha abbassato il prezzo di quei prodotti del 20 % in sei mesi.	0	0	0	0	0	0	1	0	0
+5482	Vietri_2017	1	Ha abbassato il prezzo di quei prodotti del 20 % per sei mesi.	0	0	0	0	0	0	1	0	0
+5483	Vietri_2017	1	Il prezzo di quei prodotti si è abbassato del 20 % in sei mesi.	0	0	0	0	0	0	1	0	0
+5509	Vietri_2017	1	Era una nave francese che si è affondata?	0	1	0	0	0	1	0	0	0
+5510	Vietri_2017	1	La cellula calciforme è affondata nei tessuti sottostanti.	0	0	0	0	0	0	1	0	0
+5519	Vietri_2017	1	Le vittorie hanno carburato il calciatore per settimane.	0	0	0	0	0	0	1	0	0
+5520	Vietri_2017	1	Il calciatore ha carburato in una settimana.	0	0	0	0	0	0	0	0	1
+5525	Vietri_2017	1	Il temporale ha ritardato il treno di due ore.	0	0	0	0	0	0	1	0	0
+5526	Vietri_2017	0	Il temporale ha ritardato il treno per due ore.	0	0	0	0	0	0	1	0	0
+5527	Vietri_2017	0	L'incidente ha ritardato il treno in due ore.	0	0	0	0	0	0	1	0	0
+5528	Vietri_2017	0	L'incidente ha ritardato il treno per due ore.	0	0	0	0	0	0	1	0	0
+5530	Vietri_2017	1	Paola ha bollito l'acqua in alcuni minuti.	0	0	0	0	0	0	1	0	0
+5539	Vietri_2017	1	I campi si sono inariditi in una settimana.	0	0	0	0	0	0	0	0	1
+5541	Vietri_2017	1	I campi sono inariditi in una settimana.	0	0	0	0	0	0	0	0	1
+5543	Vietri_2017	1	I campi si sono seccati in una settimana.	0	0	0	0	0	0	0	0	1
+5545	Vietri_2017	1	I campi sono seccati in una settimana.	0	0	0	0	0	0	0	0	1
+5584	Vietri_2017	1	Il cioccolato è fuso per 5 minuti.	0	1	0	0	0	0	0	0	0
+5585	Vietri_2017	1	Il cioccolato ha fuso in 5 minuti.	0	1	0	0	0	0	0	0	0
+5586	Vietri_2017	1	Il cioccolato ha fuso per 5 minuti.	0	1	0	0	0	0	1	0	0
+5610	Vietri_2017	1	Una volta rosolata inserite il vino rosso dove la carne ha macerato per 12 ore.	0	0	0	0	0	0	0	0	1
+5625	Vietri_2017	1	La valigia è leggera.	0	1	0	0	0	0	0	0	0
+5626	Vietri_2017	1	La valigia è più leggera.	0	1	0	0	0	0	0	0	0
+5627	Vietri_2017	1	La valigia è alleggerita.	0	1	0	0	0	0	0	0	0
+5628	Vietri_2017	1	La valigia viene alleggerita.	0	1	0	0	0	0	0	0	0
+5629	Vietri_2017	1	La valigia è oramai alleggerita.	0	1	0	0	0	0	0	0	0
+5630	Vietri_2017	1	Le pareti sono gialle.	0	1	0	0	1	0	0	0	0
+5631	Vietri_2017	1	Le pareti sono ingiallite.	0	1	0	0	1	0	0	0	0
+5632	Vietri_2017	1	Le pareti sono ormai ingiallite.	0	1	0	0	0	0	0	0	0
+5633	Vietri_2017	1	Le pareti sono diventate gialle.	0	1	0	0	0	0	0	0	0
+5634	Vietri_2017	0	La pareti sono diventate ingiallite.	0	1	0	0	0	0	0	0	0
+5635	Vietri_2017	0	La valigia è diventata alleggerita.	0	1	0	0	0	0	0	0	0
+5636	Vietri_2017	0	La stanza è diventata ingrandita.	0	1	0	0	0	0	0	0	0
+5637	Vietri_2017	1	I prezzi sono rincarati.	0	1	0	0	0	0	0	0	0
+5638	Vietri_2017	1	I prezzi sono diventati più cari.	0	1	0	0	0	0	0	0	0
+5639	Vietri_2017	1	Il ramo è diventato curvo.	0	1	0	0	0	0	0	0	0
+5640	Vietri_2017	1	Il pavimento è diventato sporco.	0	1	0	0	0	0	0	0	0
+5641	Vietri_2017	0	Il pavimento è diventato sporcato.	0	1	0	0	0	0	0	0	0
+5642	Vietri_2017	1	La valigia si è fatta leggera.	0	1	0	0	0	0	0	0	0
+5643	Vietri_2017	0	La valigia si è fatta alleggerita.	0	1	0	0	0	0	0	0	0
+5644	Vietri_2017	1	Le pareti sono fatte gialle.	0	1	0	0	0	0	0	0	0
+5645	Vietri_2017	0	Le pareti sono fatte ingiallite.	0	1	0	0	1	0	0	0	0
+5646	Vietri_2017	1	I prezzi si sono fatti più cari.	0	1	0	0	0	0	0	0	0
+5647	Vietri_2017	1	I prezzi si sono fatti cari.	0	1	0	0	0	0	0	0	0
+5648	Vietri_2017	0	I prezzi si sono fatti rincarati.	0	1	0	0	0	0	0	0	0
+5649	Vietri_2017	1	Il piede si è fatto gonfio.	0	1	0	0	0	0	0	0	0
+5650	Vietri_2017	0	Il piede si è fatto gonfiato.	0	1	0	0	0	0	0	0	0
+5651	Vietri_2017	1	La stanza si è fatta grande.	0	1	0	0	0	0	0	0	0
+5652	Vietri_2017	1	La stanza si è fatta più grande.	0	1	0	0	0	0	0	0	0
+5653	Vietri_2017	1	Maria ha reso la valigia leggera.	0	1	0	0	0	0	1	0	0
+5654	Vietri_2017	0	Sofia ha reso la valigia alleggerita.	0	1	0	0	0	0	1	0	0
+5655	Vietri_2017	1	Il fiume ha reso le pareti gialle.	0	1	0	0	0	0	0	0	0
+5656	Vietri_2017	0	Il fiume ha reso le pareti ingiallite.	0	1	0	0	0	0	0	0	0
+5657	Vietri_2017	1	I commercianti hanno reso i prezzi più cari.	0	1	0	0	0	0	0	0	0
+5658	Vietri_2017	0	I commercianti hanno reso i prezzi rincarati.	0	1	0	0	0	0	0	0	0
+5659	Vietri_2017	0	I commercianti hanno reso i prezzi più rincarati.	0	1	0	0	0	0	0	0	0
+5660	Vietri_2017	1	Hanno reso la stanza più grande.	0	1	0	0	0	0	0	0	0
+5661	Vietri_2017	0	Hanno reso la stanza ingrandita.	0	1	0	0	0	0	0	0	0
+5662	Vietri_2017	0	Hanno reso la stanza più ingrandita.	0	1	0	0	0	0	0	0	0
+5663	Vietri_2017	1	Ha reso il piede gonfio.	0	1	0	0	0	0	1	0	0
+5664	Vietri_2017	0	Ha reso il piede gonfiato.	0	1	0	0	0	0	0	0	0
+5665	Vietri_2017	1	La valigia, da pesante è diventata leggera.	0	1	0	0	0	0	0	0	0
+5666	Vietri_2017	0	La valigia, da pesante è diventata alleggerita.	0	1	0	0	0	0	0	0	0
+5667	Vietri_2017	0	La valigia, da appesantita è diventata alleggerita.	0	1	0	0	0	0	0	0	0
+5668	Vietri_2017	1	Il mare, da sporco è diventato pulito.	0	1	0	0	0	0	0	0	0
+5669	Vietri_2017	0	La porta è diventata rotta.	0	1	0	0	0	0	0	0	0
+5670	Vietri_2017	0	La porta si è fatta rotta.	0	1	0	0	0	0	0	0	0
+5671	Vietri_2017	0	La porta è diventata aperta.	0	1	0	0	0	0	0	0	0
+5672	Vietri_2017	0	La porta si è fatta aperta.	0	1	0	0	0	0	0	0	0
+5673	Vietri_2017	0	La porta è diventata chiusa.	0	1	0	0	0	0	0	0	0
+5674	Vietri_2017	0	La porta si è fatta chiusa.	0	1	0	0	0	0	0	0	0
+5675	Vietri_2017	0	Gabriele ha reso aperta la porta.	0	1	0	0	0	0	0	0	0
+5676	Vietri_2017	0	Riccardo ha reso chiusa la porta.	0	1	0	0	0	0	0	0	0
+5677	Vietri_2017	0	Tommaso ha reso rotta la porta.	0	1	0	0	0	0	1	0	0
+5678	Vietri_2017	1	Il mare è diventato inquinato.	0	1	0	0	0	0	0	0	0
+5679	Vietri_2017	0	Il mare si è fatto inquinato.	0	1	0	0	0	0	0	0	0
+5680	Vietri_2017	1	L'aria è diventata pulita.	0	1	0	0	0	0	0	0	0
+5681	Vietri_2017	1	L'aria si è fatta pulita.	0	1	0	0	0	0	0	0	0
+5682	Vietri_2017	1	Il mare è diventato gelato.	0	1	0	0	0	0	0	0	0
+5683	Vietri_2017	1	Il mare si è fatto gelato.	0	1	0	0	0	0	0	0	0
+5684	Vietri_2017	0	Il piede è diventato gonfiato.	0	1	0	0	0	0	0	0	0
+5685	Vietri_2017	1	I vestiti sono diventati logori.	0	1	0	0	0	0	0	0	0
+5686	Vietri_2017	0	I vestiti si sono fatti logori.	0	1	0	0	0	0	0	0	0
+5687	Vietri_2017	0	La frutta è diventata marcita.	0	1	0	0	0	0	0	0	0
+5688	Vietri_2017	1	La frutta si è fatta marcia.	0	1	1	0	0	0	0	0	0
+5689	Vietri_2017	1	La carne è insaporita.	0	1	0	0	0	0	0	0	0
+5690	Vietri_2017	1	La carne viene insaporita.	0	1	0	0	0	0	0	0	0
+5691	Vietri_2017	1	La carne si è insaporita in pochi minuti.	0	1	0	0	0	0	0	0	0
+5692	Vietri_2017	1	La carne è insaporita in pochi minuti.	0	1	0	0	0	0	0	0	0
+5693	Vietri_2017	1	La carne è oramai insaporita.	0	1	0	0	0	0	0	0	0
+5694	Vietri_2017	1	La carne è gustosa.	0	1	0	0	1	0	0	0	0
+5695	Vietri_2017	1	Leonardo è rinsecchito.	0	1	0	0	1	0	0	0	0
+5696	Vietri_2017	1	Leonardo è dimagrito.	0	1	0	0	0	0	0	0	0
+5697	Vietri_2017	1	La carne ha più sapore.	0	1	0	0	1	0	0	0	0
+5698	Vietri_2017	1	La carne ha sapore.	0	1	0	0	1	0	0	0	0
+5699	Vietri_2017	1	Il vino si è diventato aceto.	0	1	0	0	0	0	0	0	0
+5700	Vietri_2017	1	Il vino è diventato aceto.	0	1	0	0	0	0	0	0	0
+5701	Vietri_2017	1	Edoardo si è dimagrito.	0	1	0	0	1	0	0	0	0
+5702	Vietri_2017	1	Tommaso è uno scheletro.	0	1	0	0	1	0	0	0	0
+5703	Vietri_2017	1	Il pullover di lana è simile al feltro.	0	1	0	0	0	0	0	0	0
+5704	Vietri_2017	1	Il formaggio si è stagionato.	0	1	0	0	0	0	0	0	0
+5705	Vietri_2017	1	Il formaggio è stagionato.	0	1	0	0	1	0	0	0	0
+5706	Vietri_2017	0	Il formaggio ha stagione.	0	1	0	0	1	0	0	0	0
+5707	Vietri_2017	0	Il formaggio è stagione.	0	1	0	0	1	0	0	0	0
+5708	Vietri_2017	1	Gabriele è diventato simile a uno scheletro.	0	1	0	0	0	0	0	0	0
+5709	Vietri_2017	1	Andrea è diventato uno scheletro.	0	1	0	0	0	0	0	0	0
+5710	Vietri_2017	1	Lorenzo si è fatto uno scheletro.	0	1	0	0	0	0	0	0	0
+5711	Vietri_2017	1	La dieta lo ha reso uno scheletro.	0	1	0	0	0	0	0	0	0
+5712	Vietri_2017	0	Francesco è si è fatto magro.	0	1	0	0	0	0	0	0	0
+5713	Vietri_2017	0	Il bullone è diventato svitato.	0	1	0	0	0	0	0	0	0
+5714	Vietri_2017	0	Il bullone si è fatto svitato.	0	1	0	0	0	0	0	0	0
+5715	Vietri_2017	0	I prezzi sono diventati aumentati.	0	1	0	0	0	0	0	0	0
+5716	Vietri_2017	0	I prezzi si sono fatti aumentati.	0	1	0	0	0	0	0	0	0
+5717	Vietri_2017	0	I prezzi sono diventati incrementati.	0	1	0	0	0	0	0	0	0
+5718	Vietri_2017	0	I prezzi si sono fatti incrementati.	0	1	0	0	0	0	0	0	0
+5719	Vietri_2017	1	Il maglione è diventato infeltrito.	0	1	0	0	0	0	0	0	0
+5720	Vietri_2017	1	La situazione si è fatta ingarbugliata.	0	1	0	0	0	0	0	0	0
+5721	Vietri_2017	1	La sala è diventata affollata.	0	1	0	0	0	0	0	0	0
+5722	Vietri_2017	1	Il tessuto è diventato scolorito.	0	1	0	0	0	0	0	0	0
+5723	Vietri_2017	1	Il tessuto si è fatto scolorito.	0	1	0	0	0	0	0	0	0
+5724	Vietri_2017	1	Le tubature sono diventate arrugginite.	0	1	0	0	0	0	0	0	0
+5725	Vietri_2017	1	Le tubature si sono fatte arrugginite.	0	1	0	0	0	0	0	0	0
+5726	Vietri_2017	1	La crema è diventata grumosa.	0	1	0	0	0	0	0	0	0
+5727	Vietri_2017	1	La crema si è fatta grumosa.	0	1	1	0	0	0	0	0	0
+5728	Vietri_2017	1	L'aria è diventata puzzolente.	0	1	0	0	0	0	0	0	0
+5729	Vietri_2017	1	La carne è diventata saporita.	0	1	0	0	0	0	0	0	0
+5730	Vietri_2017	0	La carne è molto saporita.	0	1	0	0	0	0	0	0	0
+5731	Vietri_2017	0	La carne è diventa molto saporita.	0	1	0	0	0	0	0	0	0
+5732	Vietri_2017	0	La carne è saporitissima.	0	1	0	0	1	0	0	0	0
+5734	Vietri_2017	0	I prezzi sono aumentatissimi.	0	1	0	0	1	0	0	0	0
+5735	Vietri_2017	0	I prezzi sono molto aumentati.	0	1	0	0	0	0	0	0	0
+5736	Vietri_2017	0	I prezzi diventano molto aumentati.	0	1	0	0	0	0	0	0	0
+5737	Vietri_2017	1	La situazione è ingarbugliatissima.	0	1	0	0	0	0	0	0	0
+5738	Vietri_2017	1	La situazione è molto ingarbugliata.	0	1	0	0	0	0	0	0	0
+5739	Vietri_2017	1	La situazione diventa molto ingarbugliata.	0	1	0	0	0	0	0	0	0
+5740	Vietri_2017	1	La sala è affollatissima.	0	1	0	0	0	0	0	0	0
+5741	Vietri_2017	1	La sala è molto affollata.	0	1	0	0	0	0	0	0	0
+5742	Vietri_2017	1	La sala diventa affollatissima.	0	1	0	0	0	0	0	0	0
+5743	Vietri_2017	1	La sala diventa molto affollata.	0	1	0	0	0	0	0	0	0
+5744	Vietri_2017	1	Il vaso è in frantumi.	0	1	0	0	0	0	0	0	0
+5799	Vietri_2017	0	Maria ha fatto sedurre Alessandro a quella ragazza.	0	0	0	0	0	0	1	0	0
+5800	Vietri_2017	1	Maria ha fatto sedurre Riccardo da quella ragazza.	0	0	0	0	0	0	1	0	0
+5801	Vietri_2017	0	Maria ha fatto irretire Francesco a quella ragazza.	0	0	0	0	0	0	1	0	0
+5802	Vietri_2017	1	Maria ha fatto irretire Lorenzo da quella ragazza.	0	0	0	0	0	0	1	0	0
+5823	Vietri_2017	1	Quelle ragazze hanno gioito della vittoria di Francesco.	0	0	0	0	0	0	1	0	0
+5824	Vietri_2017	1	Quelle ragazze hanno gioito per la vittoria di Lorenzo.	0	0	0	0	0	0	1	0	0
+5825	Vietri_2017	1	La vittoria di Tommaso ha fatto gioire le ragazze.	0	0	0	0	0	0	1	0	0
+5826	Vietri_2017	1	Alessandro ha fatto gioire le ragazze con la sua vittoria.	0	0	0	0	0	0	1	0	0
+5827	Vietri_2017	1	Alessandro ha fatto gioire le ragazze per la sua vittoria.	0	0	0	0	0	0	1	0	0
+5828	Vietri_2017	1	Quel medico si è preoccupato della sua paziente.	0	0	0	0	0	0	1	1	0
+5829	Vietri_2017	1	Alice si è preoccupata dell'organizzazione di quell'evento.	0	0	0	0	0	0	1	0	0
+5830	Vietri_2017	1	Quel medico si è preoccupato per la sua paziente.	0	0	0	0	0	0	1	0	0
+5831	Vietri_2017	1	Paola si preoccuperà per l'organizzazione di quell'evento.	0	0	0	0	0	0	1	0	0
+5832	Vietri_2017	0	Quel medico si è preoccupato per la sua paziente per farla guarire in fretta.	0	0	0	0	0	0	1	0	0
+5833	Vietri_2017	1	Quel medico si occupa della sua paziente per farla guarire in fretta.	0	0	0	0	0	0	1	0	0
+5834	Vietri_2017	1	Maria si preoccupa dell'organizzazione di quell'evento per farlo ben riuscire.	0	0	0	0	0	0	1	0	0
+5835	Vietri_2017	1	Alice si occupa dell'organizzazione di quell'evento per farlo ben riuscire.	0	0	0	0	0	0	1	0	0
+5853	Vietri_2017	1	Che Maria non fosse ancora rientrata ha irritato Andrea.	0	1	0	0	0	0	1	0	0
+5854	Vietri_2017	1	Che Beatrice non fosse ancora rientrata ha spaventato Riccardo.	0	1	0	0	0	0	0	0	0
+5861	Vietri_2017	0	Alessandro si calma del fatto che Giulia si tranquilla.	0	0	0	0	0	0	1	0	0
+5862	Vietri_2017	0	Riccardo si calma che Maria si tranquilla.	0	0	0	0	0	0	1	0	0
+5863	Vietri_2017	1	Il fatto che i bambini stiano recitando diverte Riccardo.	0	0	0	0	0	0	1	0	0
+5864	Vietri_2017	1	Che i bambini stiano recitando diverte Alessandro.	1	0	0	0	0	0	0	0	0
+5866	Vietri_2017	1	Leonardo si diverte del fatto che i bambini stiano recitando.	0	0	0	0	0	0	1	0	0
+5867	Vietri_2017	1	L'ispettore è spaventato della cadenza degli omicidi.	0	0	0	0	0	0	1	0	0
+5868	Vietri_2017	1	L'ispettore è spaventato dalla cadenza degli omicidi.	0	0	0	0	0	0	1	0	0
+5869	Vietri_2017	1	L'ispettore è stupito della cadenza degli omicidi.	0	0	0	0	0	0	1	0	0
+5870	Vietri_2017	1	L'ispettore è stupito dalla cadenza degli omicidi.	0	0	0	0	0	0	1	0	0
+5871	Vietri_2017	1	L'ispettore è preoccupato della cadenza degli omicidi.	0	0	0	0	0	0	1	0	0
+5872	Vietri_2017	1	L'ispettore è preoccupato dalla cadenza degli omicidi.	0	0	0	0	0	0	1	0	0
+5873	Vietri_2017	1	Alessandro è preoccupato da questa situazione.	0	0	0	0	0	0	1	0	0
+5874	Vietri_2017	1	Gabriele viene stupito dalla cordialità di quella popolazione.	0	0	0	0	0	0	1	0	0
+5875	Vietri_2017	1	Gabriele viene agitato da mille preoccupazioni.	0	0	0	0	0	0	1	0	0
+5876	Vietri_2017	1	La gente viene agitata dalle minacce di morte.	0	0	0	0	0	0	1	0	0
+5916	Vietri_2017	1	La carne è cotta.	0	1	0	0	1	0	0	0	0
+5917	Vietri_2017	0	La carne sta bruciata.	0	1	0	0	0	0	0	0	0
+5918	Vietri_2017	0	La carne sta cotta.	0	1	0	0	1	0	0	0	0
+5919	Vietri_2017	1	La pianta è secca.	0	1	0	0	1	0	0	0	0
+5920	Vietri_2017	0	La pianta sta secca.	0	1	0	0	0	0	0	0	0
+5921	Vietri_2017	1	Maria è angosciata per quella notizia.	0	1	0	0	0	0	0	0	0
+5922	Vietri_2017	1	Emma sta in angoscia per quella notizia.	0	1	0	0	0	0	0	0	0
+5923	Vietri_2017	1	Beatrice è andata in angoscia per quella notizia.	0	1	0	0	0	0	0	0	0
+5924	Vietri_2017	1	Paola è in angoscia per quella notizia.	0	1	0	0	0	0	0	0	0
+5981	Vietri_2017	1	Una tempesta di vento ha abbattuto la casa.	0	0	0	0	0	0	1	0	1
+6023	Vietri_2017	1	La TV si è spenta.	0	1	0	0	0	0	0	0	0
+6050	Elia_1982	1	Riccardo desidera una donna.	0	0	0	0	0	0	0	0	1
+6052	Elia_1982	1	Edoardo ha il desiderio di una donna.	0	0	0	0	0	0	0	0	1
+6054	Elia_1982	1	Riccardo è desideroso di un libro.	0	1	0	0	0	0	0	0	0
+6055	Elia_1982	1	Riccardo è desideroso di una donna.	0	1	0	0	0	0	0	0	1
+6056	Elia_1982	1	Sofia è bella.	0	1	0	0	0	0	0	0	0
+6071	Elia_1982	1	Il libro è sopra il tavolo.	0	1	0	0	1	0	0	0	0
+6072	Elia_1982	1	Il libro è sopra al tavolo.	0	1	0	0	0	0	0	0	0
+6078	Elia_1982	1	Lorenzo è alla scuola.	0	1	0	0	0	0	0	0	0
+6079	Elia_1982	1	Lorenzo è alla scuola di danza.	0	1	0	0	0	0	0	0	0
+6085	Elia_1982	1	Il piatto è in tavola.	0	1	0	0	1	0	0	0	0
+6086	Elia_1982	0	Il piatto è alla tavola.	0	1	0	0	1	0	0	0	0
+6087	Elia_1982	1	Il piatto è a tavola.	0	1	0	0	0	0	0	0	0
+6088	Elia_1982	0	Leonardo è in tavola.	0	1	0	0	0	0	0	0	0
+6118	Elia_1982	1	La palla è finita a terra.	0	1	0	0	0	0	0	0	0
+6119	Elia_1982	1	La palla è finita a mare.	0	1	0	0	1	0	0	0	0
+6120	Elia_1982	1	La palla è lì a mare.	0	1	0	0	0	0	0	0	0
+6121	Elia_1982	1	La palla è finita giù.	0	1	0	0	0	0	0	0	0
+6122	Elia_1982	1	La palla è lì al suolo.	0	1	0	0	0	0	0	0	0
+6123	Elia_1982	1	La palla è lì giù.	0	1	0	0	1	0	0	0	0
+6124	Elia_1982	1	La palla è lì in acqua.	0	1	0	0	1	0	0	0	0
+6152	Elia_1982	1	Abbiamo una casa al mare.	0	0	0	0	0	0	0	0	1
+6158	Elia_1982	1	Maria tiene Leonardo sotto una campana di vetro.	0	0	0	0	0	0	0	0	1
+6159	Elia_1982	1	Beatrice tiene Alessandro sotto una campana di vetro.	0	0	0	0	0	0	0	0	1
+6163	Elia_1982	0	Edoardo fa una buca nelle acque.	0	0	0	0	0	0	0	0	1
+6166	Elia_1982	0	Emma carezza Tommaso sotto una campana di vetro.	0	0	0	0	0	0	0	0	1
+6168	Elia_1982	0	Alessandro tiene Maria dietro una campana di cristallo.	0	0	0	0	0	0	0	0	1
+6174	Elia_1982	1	Maria tiene un orologio sotto una campana di vetro.	0	0	0	0	0	0	0	0	1
+6203	Vietri_1985	1	Sofia fece una cosa inutile.	0	0	0	0	0	0	0	0	1
+6204	Vietri_1985	1	Paola rubò una caramella a Lorenzo.	0	0	0	0	0	0	0	0	1
+6221	Vietri_1985	0	Maria portò una legna a un bosco.	0	0	0	0	0	0	0	0	1
+6222	Vietri_1985	0	Paola portò una legna a quel bosco.	0	0	0	0	0	0	0	0	1
+6261	Vietri_1985	0	Sono le tappe che Alessandro ha bruciato.	1	0	0	0	0	0	0	0	0
+6262	Vietri_1985	1	Fu Sofia che rubò il cuore a Tommaso.	1	0	0	0	0	0	0	0	0
+6263	Vietri_1985	0	Fu il cuore che Giulia rubò a Francesco.	1	0	0	0	0	0	0	0	0
+6264	Vietri_1985	1	Fu Sofia che portò legna al bosco.	1	0	0	0	0	0	0	0	0
+6278	Vietri_1985	1	Maria scaldò una serpe in seno.	0	0	0	0	0	0	0	0	1
+6361	Vietri_1985	1	Francesco si prese una sbornia.	0	0	0	0	0	0	0	0	1
+6362	Vietri_1985	1	Tommaso prese una sbornia.	0	0	0	0	0	0	0	0	1
+6363	Vietri_1985	1	Leonardo prese una sbronza.	0	0	0	0	0	0	0	0	1
+6375	Vietri_1985	1	Gabriele ebbe una sbronza.	0	0	0	0	0	0	0	0	1
+6380	Vietri_1985	1	Il chimico era inerte.	0	1	0	0	1	0	0	0	0
+6381	Vietri_1985	1	Il chimico era in ozio.	0	1	0	0	1	0	0	0	0
+6391	Vietri_1985	1	Riccardo prese una corsa.	0	0	0	0	0	0	0	0	1
+6468	Vietri_1985	1	Sofia si prese una sbronza.	0	0	0	0	0	0	0	0	1
+6469	Vietri_1985	1	Paola prese una sbronza.	0	0	0	0	0	0	0	0	1
+6494	Vietri_1985	1	Tommaso prese una sbandata con la macchina.	0	0	0	0	0	0	0	0	1
+6517	Vietri_1985	1	Andrea prese una sbandata per Paola.	0	0	0	0	0	0	0	0	1
+6518	Vietri_1985	1	Riccardo si prese una sbandata per Emma.	0	0	0	0	0	0	0	0	1
+6532	Vietri_1985	1	Andrea si prese una confidenza con Emma.	0	0	0	0	0	0	0	0	1
+6566	Vietri_1985	1	Paola prese una cuffia per Tommaso.	0	0	0	0	0	0	0	0	1
+6567	Vietri_1985	1	Beatrice si prese una cuffia per Andrea.	0	0	0	0	0	0	0	0	1
+6578	Vietri_1985	1	Alice ha preso una cotta per Tommaso.	0	0	0	0	0	0	0	0	1
+6579	Vietri_1985	1	Tommaso ha preso una cotta per Giulia.	0	0	0	0	0	0	0	0	1
+6585	Vietri_1985	1	Sofia prese una cuffia dal cassetto.	0	0	0	0	0	0	0	0	1
+6586	Vietri_1985	1	Giulia prese una cuffia dal negozio.	0	0	0	0	0	0	0	0	1
+6589	Vietri_1985	1	Sofia ha avuto una cuffia per Edoardo.	0	0	0	0	0	0	0	0	1
+6590	Vietri_1985	1	Maria ha avuto una cotta per Alessandro.	0	0	0	0	0	0	0	0	1
+6591	Vietri_1985	1	Gabriele ha avuto una cotta per Edoardo.	0	0	0	0	0	0	0	0	1
+6596	Vietri_1985	1	Emma prese due piccioni con una fava.	0	0	0	0	0	0	0	0	1
+6598	Vietri_1985	1	Andrea prese una tegola sul capo.	0	0	0	0	0	0	0	0	1
+6606	Vietri_1985	1	Edoardo prese la fortuna per il ciuffo.	0	0	0	0	0	0	0	0	1
+6667	Vietri_1985	1	Francesco promise la luna a Lorenzo.	0	0	0	0	0	0	0	0	1
+6670	Vietri_1985	1	Andrea diede una lezione a Paola.	0	0	0	0	0	0	0	0	1
+6672	Vietri_1985	1	Leonardo diede una risciacquata a Gabriele.	0	0	0	0	0	0	0	0	1
+6673	Vietri_1985	1	Maria diede una voce a Maria.	0	0	0	0	0	0	0	0	1
+6681	Vietri_1985	1	Sofia diede una capatina nell'ufficio.	0	0	0	0	0	0	0	0	1
+6689	Vietri_1985	1	Leonardo puntò tutto su una carta.	0	0	0	0	0	0	0	0	1
+6691	Vietri_1985	1	Giulia si mise una mano sul cuore.	0	0	0	0	0	0	0	0	1
+6695	Vietri_1985	1	Andrea prese due piccioni con una fava.	0	0	0	0	0	0	0	0	1
+6696	Vietri_1985	1	Riccardo cava sangue da una rapa.	0	0	0	0	0	0	0	0	1
+6698	Vietri_1985	1	Paola allevò una serpe in seno.	0	0	0	0	0	0	0	0	1
+6776	D-Agostino_1992	1	Maria ha una casa.	0	0	0	0	0	0	0	0	1
+6784	D-Agostino_1992	1	Francesco è baffuto.	0	1	0	0	1	0	0	0	0
+6785	D-Agostino_1992	1	Leonardo è avvocato.	0	1	0	0	0	0	0	0	0
+6786	D-Agostino_1992	1	Edoardo ha una certa angoscia su di sé.	0	0	0	0	0	0	1	0	1
+6789	D-Agostino_1992	1	Francesco è vecchio.	0	1	0	0	0	0	0	0	0
+6795	D-Agostino_1992	1	Che Lorenzo sia un buon calciatore è un problema.	1	0	0	0	0	0	0	0	0
+6799	D-Agostino_1992	1	Che Gabriele sia partito sorprende Alessandro.	1	0	0	0	0	0	1	0	0
+6803	D-Agostino_1992	1	Edoardo fa una telefonata a Paola.	0	0	0	0	0	0	0	0	1
+6806	D-Agostino_1992	1	Leonardo fa una breve telefonata a Maria.	0	0	0	0	0	0	0	0	1
+6807	D-Agostino_1992	1	Tommaso fa una rapida telefonata a Maria.	0	0	0	0	0	0	0	0	1
+6808	D-Agostino_1992	1	Edoardo è in agitazione.	0	1	0	0	1	0	0	0	0
+6819	D-Agostino_1992	1	Francesco girò, con l'auto, a raccogliere una ragazza per strada.	0	0	0	0	0	0	0	0	1
+6838	D-Agostino_1992	0	Ho capelli di punta.	0	1	0	0	1	0	1	0	0
+6839	D-Agostino_1992	1	Riccardo si è fatto venire la mosca al naso.	0	1	0	0	0	0	0	0	0
+6864	D-Agostino_1992	1	Alice è lontana.	0	1	0	0	1	0	0	0	0
+6865	D-Agostino_1992	1	Andrea è calvo.	0	1	0	0	1	0	0	0	0
+6866	D-Agostino_1992	1	Gabriele è un ingegnere.	0	1	0	0	1	0	0	0	0
+6867	D-Agostino_1992	1	Leonardo fa il pompiere.	0	1	0	0	1	0	0	0	0
+6868	D-Agostino_1992	1	Francesco ha una certa abilità nel giocare a tennis.	0	0	0	0	0	0	1	0	1
+6869	D-Agostino_1992	1	Tommaso ha una certa abilità nella pittura.	0	0	0	0	0	0	1	0	1
+6876	D-Agostino_1992	1	Tommaso ha lasciato una ricca eredità a Francesco.	0	0	0	0	0	0	0	0	1
+6879	D-Agostino_1992	1	La casa è in abbandono.	0	1	0	0	0	0	0	0	0
+6895	D-Agostino_1992	1	Il lupo non sta più nella vecchia tana.	0	1	0	0	0	0	0	0	0
+6902	D-Agostino_1992	1	Alessandro è desideroso di rivedere Emma.	0	1	0	0	0	0	0	0	0
+6903	D-Agostino_1992	1	Beatrice è intelligente.	0	1	0	0	1	0	0	0	0
+6904	D-Agostino_1992	1	Leonardo fa il professore.	0	1	0	0	0	0	0	0	0
+6905	D-Agostino_1992	1	Emma ha pazienza con Lorenzo.	0	1	0	0	1	0	1	0	0
+6918	D-Agostino_1992	1	Riccardo ha una rigida condotta morale.	0	0	0	0	0	0	0	0	1
+6919	D-Agostino_1992	1	Edoardo si mantiene a una rigida condotta morale.	0	0	0	0	0	0	0	0	1
+6920	D-Agostino_1992	1	Andrea sostiene una rigida condotta morale.	0	0	0	0	1	0	0	0	1
+6921	D-Agostino_1992	1	Tommaso pratica una rigida condotta morale.	0	0	0	0	1	0	0	0	1
+6922	D-Agostino_1992	1	Maria ha preso una forte cotta per Lorenzo.	0	0	0	0	0	0	0	0	1
+6923	D-Agostino_1992	1	Alice si è beccata una forte cotta per Gabriele.	0	0	0	0	0	0	0	0	1
+6924	D-Agostino_1992	1	Sofia si è pigliata una forte cotta per Riccardo.	0	0	0	0	0	0	1	0	1
+6925	D-Agostino_1992	1	Emma ha acchiappato una forte cotta per Francesco.	0	0	0	0	0	0	0	0	1
+6926	D-Agostino_1992	0	Il frigorifero ha una rigida condotta morale.	0	0	0	0	0	0	0	0	1
+6927	D-Agostino_1992	0	La zanzara ha una rigida condotta morale.	0	0	0	0	0	0	0	0	1
+6928	D-Agostino_1992	0	Il frigorifero segue una rigida condotta morale.	0	0	0	0	0	0	0	0	1
+6929	D-Agostino_1992	0	La zanzara segue una rigida condotta morale.	0	0	0	0	0	0	0	0	1
+6930	D-Agostino_1992	0	Il frigorifero si mantiene a una rigida condotta morale.	0	0	0	0	0	0	0	0	1
+6931	D-Agostino_1992	0	La zanzara si mantiene a una rigida condotta morale.	0	0	0	0	0	0	0	0	1
+6932	D-Agostino_1992	0	La zanzara è di una rigida condotta morale.	0	1	0	0	0	0	0	0	1
+6933	D-Agostino_1992	0	La zanzara sostiene una rigida condotta morale.	0	1	0	0	0	0	0	0	1
+6934	D-Agostino_1992	0	Il frigorifero pratica una rigida condotta morale.	0	0	0	0	0	0	0	0	1
+6935	D-Agostino_1992	0	La zanzara ha una forte cotta per Edoardo.	0	0	0	0	0	0	0	0	1
+6937	D-Agostino_1992	0	La zanzara ha preso una forte cotta per Andrea.	0	0	0	0	0	0	0	0	1
+6938	D-Agostino_1992	0	La zanzara si è beccata una forte cotta per Francesco.	0	0	0	0	0	0	0	0	1
+6939	D-Agostino_1992	0	Il frigorifero si è pigliato una forte cotta per Leonardo.	0	0	0	0	0	0	0	0	1
+6940	D-Agostino_1992	0	La zanzara si è pigliata una forte cotta per Riccardo.	0	0	0	0	0	0	1	0	1
+6941	D-Agostino_1992	0	Il frigorifero ha acchiappato una forte cotta per Riccardo.	0	0	0	0	0	0	0	0	1
+6942	D-Agostino_1992	0	La zanzara ha acchiappato una forte cotta per Tommaso.	0	0	0	0	0	0	1	0	1
+6943	D-Agostino_1992	0	Leonardo ha una rigida condotta morale di Andrea.	0	0	0	0	0	0	0	0	1
+6944	D-Agostino_1992	0	Edoardo segue una rigida condotta morale di Tommaso.	0	0	0	0	0	0	0	0	1
+6945	D-Agostino_1992	0	Leonardo si mantiene a una rigida condotta morale di Riccardo.	0	0	0	0	0	0	0	0	1
+6946	D-Agostino_1992	0	Leonardo pratica una rigida condotta morale di Gabriele.	0	0	0	0	0	0	0	0	1
+6947	D-Agostino_1992	0	Maria ha una forte cotta per Riccardo di Maria.	0	0	0	0	0	0	0	0	1
+6948	D-Agostino_1992	0	Sofia ha preso una forte cotta per Andrea di Maria.	0	0	0	0	0	0	0	0	1
+6949	D-Agostino_1992	0	Alice si è beccata una forte cotta per Tommaso di Paola.	0	0	0	0	0	0	0	0	1
+6950	D-Agostino_1992	0	Emma ha acchiappato una forte cotta per Lorenzo di Maria.	0	0	0	0	0	0	0	0	1
+6951	D-Agostino_1992	0	Paola si è fortemente cotta per Lorenzo.	0	1	0	0	0	0	0	0	0
+6952	D-Agostino_1992	0	Maria si è fortemente cotta di Andrea.	0	1	0	0	0	0	0	0	0
+6953	D-Agostino_1992	1	Riccardo è raffreddato.	0	1	0	0	1	0	0	0	0
+6954	D-Agostino_1992	1	Riccardo ha un raffreddore.	0	0	0	0	1	0	1	0	0
+6955	D-Agostino_1992	1	Leonardo ha preso un raffreddore.	0	1	0	0	0	0	0	0	0
+6956	D-Agostino_1992	1	Leonardo ha pigliato un raffreddore.	0	1	0	0	0	0	0	0	0
+6957	D-Agostino_1992	1	Lorenzo si è beccato un raffreddore.	0	1	0	0	0	0	0	0	0
+6966	D-Agostino_1992	1	Edoardo è silenzioso.	0	1	0	0	1	0	0	0	0
+6967	D-Agostino_1992	1	Francesco è in silenzio.	0	1	0	0	0	0	0	0	0
+6968	D-Agostino_1992	1	Gabriele sta in silenzio.	0	1	0	0	1	0	0	0	0
+6989	D-Agostino_1992	1	Paola è in agitazione.	0	1	0	0	1	0	0	0	0
+6990	D-Agostino_1992	1	Paola sta in agitazione.	0	1	0	0	0	0	0	0	0
+6991	D-Agostino_1992	1	Alessandro è in collera.	0	1	0	0	1	0	0	0	0
+6995	D-Agostino_1992	1	Leonardo è la causa dell'agitazione di Maria.	0	1	0	0	0	0	0	0	0
+6996	D-Agostino_1992	1	Leonardo è la causa dell'agitazione in Maria.	0	1	0	0	0	0	0	0	0
+6997	D-Agostino_1992	1	Lorenzo è la causa della collera di Gabriele.	0	1	0	0	0	0	0	0	0
+6998	D-Agostino_1992	1	Riccardo è la causa della collera in Alessandro.	0	1	0	0	0	0	0	0	0
+7010	D-Agostino_1992	1	Il figlio di Tommaso è a scuola.	0	1	0	0	0	0	0	0	0
+7033	D-Agostino_1992	0	Il camion è la carica delle casse.	0	1	0	0	0	0	0	0	0
+7034	D-Agostino_1992	0	Il camion è il caricamento delle casse.	0	1	0	0	0	0	0	0	0
+7035	D-Agostino_1992	1	Il camion è carico di casse.	0	1	0	0	1	0	0	0	0
+7036	D-Agostino_1992	1	Il camion è caricato di casse.	0	1	0	0	0	0	0	0	0
+7037	D-Agostino_1992	0	Le casse sono cariche sul camion.	0	1	0	0	0	0	0	0	0
+7038	D-Agostino_1992	1	Le casse sono caricate sul camion.	0	1	0	0	0	0	0	0	0
+7039	D-Agostino_1992	1	Riccardo è un caricatore.	0	1	0	0	1	0	0	0	0
+7044	D-Agostino_1992	1	La mensola è carica di libri.	0	1	0	0	1	0	0	0	0
+7045	D-Agostino_1992	1	La mensola è caricata di libri.	0	1	0	0	1	0	0	0	0
+7046	D-Agostino_1992	0	Tommaso è il caricatore della mensola di libri.	0	1	0	0	0	0	0	0	0
+7051	D-Agostino_1992	1	Riccardo carica la fotocamera di una pellicola a colori.	0	0	0	0	0	0	0	0	1
+7052	D-Agostino_1992	1	Edoardo carica la fotocamera con una pellicola a colori.	0	0	0	0	0	0	0	0	1
+7056	D-Agostino_1992	1	Una pellicola a colori è al carica della fotocamera.	0	1	0	0	0	0	0	0	1
+7057	D-Agostino_1992	1	Il fucile è carico.	0	1	0	0	1	0	0	0	0
+7058	D-Agostino_1992	1	Il fucile è caricato.	0	1	0	0	1	0	0	0	0
+7059	D-Agostino_1992	1	La stilografica è carica.	0	1	0	0	1	0	0	0	0
+7060	D-Agostino_1992	1	La fotocamera è carica.	0	1	0	0	1	0	0	0	0
+7061	D-Agostino_1992	1	La fotocamera è caricata.	0	1	0	0	0	0	0	0	0
+7072	D-Agostino_1992	1	L'orologio ha una carica.	0	0	0	0	1	0	0	0	1
+7073	D-Agostino_1992	1	L'orologio è carico.	0	1	0	0	1	0	0	0	0
+7074	D-Agostino_1992	1	L'orologio è caricato.	0	1	0	0	1	0	0	0	0
+7081	D-Agostino_1992	1	La cavalleria fece una carica su le linee nemiche.	0	0	0	0	0	0	0	0	1
+7082	D-Agostino_1992	1	La cavalleria fece una carica contro le linee nemiche.	0	0	0	0	0	0	0	0	1
+7089	D-Agostino_1992	1	Una mandria infuriata caricò su i cow boys.	0	0	0	0	0	0	0	0	1
+7090	D-Agostino_1992	1	Una mandria infuriata caricò contro i cow boys.	0	0	0	0	0	0	0	0	1
+7094	D-Agostino_1992	1	Il terzino ha fatto una carica sull'attaccante avversario.	0	0	0	0	0	0	0	0	1
+7095	D-Agostino_1992	1	Il terzino ha dato una carica all'attaccante avversario.	0	0	0	0	0	0	0	0	1
+7098	D-Agostino_1992	1	Francesco è molto affettuoso con Maria.	0	1	0	0	0	0	0	0	0
+7115	D-Agostino_1992	1	Alice è l'incaricato del rapire Giulia.	0	1	0	0	0	0	0	0	0
+7116	D-Agostino_1992	1	Rapire Maria è l'incarico di Beatrice.	0	1	0	0	0	0	0	0	0
+7135	D-Agostino_1992	0	Andrea dette una presa al toro per le corna.	0	0	0	0	0	0	0	0	1
+7159	D-Agostino_1992	1	Maria ha cantato una collezione appassionata.	0	0	0	0	0	0	0	0	1
+7169	D-Agostino_1992	1	Beatrice manda una cartolina a Riccardo.	0	0	0	0	1	0	0	0	1
+7170	D-Agostino_1992	1	Riccardo ha costruito una capanna in giardino.	0	0	0	0	0	0	0	0	1
+7179	D-Agostino_1992	1	C'è uno scambio tra Alice ed Emma.	0	1	0	0	0	0	0	0	0
+7180	D-Agostino_1992	1	C'è uno scambio di libri tra Giulia ed Alice.	0	1	0	0	0	0	0	0	0
+7184	D-Agostino_1992	1	Tommaso conduce una vita disordinata.	0	0	0	0	0	0	0	0	1
+7199	D-Agostino_1992	1	Gabriele si è montato la testa.	0	1	0	0	0	0	0	0	0
+7200	D-Agostino_1992	1	Riccardo si è montato il capo.	0	0	0	0	1	0	1	0	0
+7201	D-Agostino_1992	0	Gabriele si è montato la faccia.	0	1	0	0	0	0	0	0	0
+7202	D-Agostino_1992	0	Andrea si è montato la fronte.	0	1	1	0	0	0	0	0	0
+7257	D-Agostino_1992	0	Sono le cuoia che Gabriele ha tirato.	1	0	0	0	0	0	0	0	0
+7258	D-Agostino_1992	1	È Leonardo che ha tirato le cuoia e non Sofia.	1	0	0	0	0	0	0	0	0
+7262	D-Agostino_1992	1	Piantare qualcuno in asso.	0	0	0	0	0	0	0	0	1
+7266	D-Agostino_1992	1	Cavare le castagne dal fuoco a qualcuno.	0	0	0	0	0	0	0	0	1
+7271	D-Agostino_1992	1	Essere al tappeto.	0	1	0	0	1	0	0	0	0
+7272	D-Agostino_1992	1	Stare al tappeto.	0	1	0	0	0	0	0	0	0
+7277	D-Agostino_1992	1	Fare il filo a qualcuno.	0	0	0	0	1	0	0	0	1
+7278	D-Agostino_1992	1	Fare il pelo a qualcuno.	0	0	0	0	0	0	0	0	1
+7281	D-Agostino_1992	1	Sciogliere la lingua a qualcuno.	0	0	0	0	0	0	0	0	1
+7282	D-Agostino_1992	1	Mettere a mano qualcosa.	0	0	0	0	1	0	0	0	1
+7283	D-Agostino_1992	1	Prendere qualcuno per la gola.	0	0	0	0	0	0	0	0	1
+7290	D-Agostino_1992	1	Essere alla mercé di qualcuno.	0	1	0	0	1	0	0	0	1
+7291	D-Agostino_1992	1	I nervi di qualcuno essere tesi.	0	0	0	0	0	0	0	0	1
+7292	D-Agostino_1992	1	Gli occhi di qualcuno sono a mandorla.	0	1	1	0	0	0	0	0	1
+7296	D-Agostino_1992	1	Avere occhi solo per qualcuno.	0	0	0	0	0	0	0	0	1
+7297	D-Agostino_1992	1	Avere qualcosa sulla punta della lingua.	0	0	0	0	0	0	1	0	1
+7300	D-Agostino_1992	1	Fare da lacchè a qualcuno.	0	0	0	0	0	0	0	0	1
+7303	D-Agostino_1992	1	Paola mi ha regalato una bambola con la testa di cuoio.	0	0	0	0	0	0	0	0	1
+7307	D-Agostino_1992	1	Gabriele è sparito in una casa di pietra.	0	0	0	0	0	0	1	0	1
+7311	D-Agostino_1992	1	A quella festa è di rigore l'abito scuro.	0	1	0	0	0	0	0	0	0
+7314	D-Agostino_1992	1	Tommaso possiede una moto nuovissima.	0	0	0	0	0	0	0	0	1
+7315	D-Agostino_1992	1	Edoardo possiede una moto nuova di zecca.	0	0	0	0	1	0	0	0	1
+7316	D-Agostino_1992	1	La moto di Francesco è nuovissima.	0	1	0	0	1	0	0	0	0
+7317	D-Agostino_1992	1	Le moto sono nuove zecca.	0	1	0	0	0	0	0	0	0
+7318	D-Agostino_1992	1	Il tappeto è grigio-verde.	0	1	0	0	0	0	0	0	0
+7335	D-Agostino_1992	1	Alessandro ha fatto divertire tutto il banco dei deputati con le sue battute.	0	0	0	0	0	0	1	0	0
+7336	D-Agostino_1992	1	Ho visto un cerchio.	0	1	0	0	1	0	0	0	0
+7337	D-Agostino_1992	0	Ho visto un cerchio di amici.	0	0	0	0	1	0	1	0	0
+7348	D-Agostino_1992	1	Maria si accorge del fatto che Francesco è venuto dal fatto che la stanza è in disordine.	0	0	1	0	0	0	1	0	0
+7353	D-Agostino_1992	1	La bomba è scoppiata.	0	1	0	0	0	0	0	0	0
+7354	D-Agostino_1992	1	Riccardo sorride a Paola.	0	1	0	0	1	0	0	0	0
+7355	D-Agostino_1992	1	Andrea giaceva sul letto.	0	1	0	0	1	0	0	0	0
+7356	D-Agostino_1992	1	Riccardo si sostiene con l'orologio.	0	1	0	0	0	0	0	0	0
+7357	D-Agostino_1992	1	Riccardo entrò nella stanza.	0	1	0	0	0	0	0	0	0
+7358	D-Agostino_1992	1	Emma andò a Roma.	0	1	0	0	1	0	0	0	0
+7360	D-Agostino_1992	1	Tommaso non sta a Roma.	0	1	0	0	1	0	0	0	0
+7361	D-Agostino_1992	1	Maria sta a Roma.	0	1	0	0	1	0	0	0	0
+7362	D-Agostino_1992	1	Paola sta a Roma.	0	1	0	0	1	0	0	0	0
+7376	D-Agostino_1992	1	Francesco rompe il vetro?	0	0	0	0	0	1	0	0	0
+7378	D-Agostino_1992	1	Chi Gabriele detesta?	0	0	0	0	0	1	0	0	0
+7392	D-Agostino_1992	1	Alessandro è meritevole del premio.	0	1	0	0	0	0	0	0	0
+7393	D-Agostino_1992	0	La notizia è meritevole di una conferma.	0	1	0	0	0	0	0	0	1
+7405	D-Agostino_1992	1	Una tale conclusione deriva da certe promesse.	0	0	0	0	0	0	0	0	1
+7410	D-Agostino_1992	1	Lorenzo scrive una lettera.	0	0	0	0	1	0	0	0	1
+7435	D-Agostino_1992	1	Egli mangia qualcosa.	0	0	0	0	1	0	0	0	1
+7437	D-Agostino_1992	1	Egli porta qualcosa.	0	0	0	0	1	0	0	0	1
+7442	D-Agostino_1992	0	Emma viveva una vita.	0	0	0	0	1	0	0	0	1
+7443	D-Agostino_1992	1	Giulia viveva una vita troppo dispendiosa.	0	0	0	0	1	0	0	0	1
+7445	D-Agostino_1992	1	La rana è una forma di nuoto.	0	1	0	0	1	0	0	0	1
+7446	D-Agostino_1992	1	La Capri-Napoli è una gara di nuoto.	0	1	0	0	1	0	0	0	0
+7464	D-Agostino_1992	1	Una gelata improvvisa ha ghiacciato tutta la pianura.	0	0	0	0	0	0	0	0	1
+7466	D-Agostino_1992	1	Una buona notizia ha raddoppiato le speranze di Francesco.	0	0	0	0	0	0	0	0	1
+7469	D-Agostino_1992	1	Una gelata improvvisa ha reso ghiacciata tutta la pianura.	0	0	1	0	0	0	1	0	1
+7473	D-Agostino_1992	1	Una buona notizia ha reso doppie le speranze di Leonardo.	0	0	1	0	0	0	1	0	1
+7479	D-Agostino_1992	1	La piazza è più larga.	0	1	0	0	0	0	0	0	0
+7481	D-Agostino_1992	1	Paola è tranquilla.	0	1	0	0	1	0	0	0	0
+7482	D-Agostino_1992	1	Paola e più tranquilla.	0	1	0	0	1	0	0	0	0
+7488	D-Agostino_1992	0	La pianura ghiaccia se stessa.	0	0	0	0	0	0	0	1	0
+7489	D-Agostino_1992	0	Il livello del fiume abbassa se stesso.	0	0	0	0	0	0	0	1	0
+7493	D-Agostino_1992	1	Beatrice lava se stessa.	0	0	0	0	0	0	0	1	0
+7495	D-Agostino_1992	1	Emma piace a se stessa.	0	0	0	0	1	0	0	1	0
+7499	D-Agostino_1992	0	Beatrice pente se stessa.	0	0	0	0	1	0	0	1	0
+7500	D-Agostino_1992	0	Giulia pente a se stessa.	0	0	0	0	0	0	0	1	0
+7516	D-Agostino_1992	1	È Tommaso che è caduto in ginocchio.	1	1	0	0	0	0	0	0	0
+7517	D-Agostino_1992	1	È Riccardo che è in ginocchio e non Emma.	1	1	0	0	0	0	0	0	0
+7519	D-Agostino_1992	1	È la stupidità di Emma che ha annoiato tutti.	1	0	0	0	0	0	0	0	0
+7521	D-Agostino_1992	1	Io dico con sincerità che Maria ha annoiato tutti.	0	0	0	0	0	0	1	0	0
+7522	D-Agostino_1992	1	Io dico sinceramente che Sofia ha annoiato tutti.	0	0	0	0	0	0	1	0	0
+7523	D-Agostino_1992	1	Io dico in modo sincero che Paola ha annoiato tutti.	0	0	0	0	0	0	1	0	0
+7524	D-Agostino_1992	1	Io suppongo con sincerità che Paola ha annoiato tutti.	0	0	0	0	0	0	1	0	0
+7525	D-Agostino_1992	1	Io suppongo sinceramente che Maria ha annoiato tutti.	0	0	0	0	0	0	1	0	0
+7526	D-Agostino_1992	1	Io suppongo in modo sincero che Giulia ha annoiato tutti.	0	0	0	0	0	0	1	0	0
+7527	D-Agostino_1992	1	Io suggerisco con sincerità che Paola ha annoiato tutti.	0	0	0	0	0	0	1	0	0
+7528	D-Agostino_1992	1	Io suggerisco sinceramente che Maria ha annoiato tutti.	0	0	0	0	0	0	1	0	0
+7529	D-Agostino_1992	1	Io suggerisco in modo sincero che Maria ha annoiato tutti.	0	0	0	0	0	0	1	0	0
+7530	D-Agostino_1992	1	È la mia sincerità che fa sì che io dica che Beatrice ha annoiato tutti.	1	1	0	0	0	0	0	0	0
+7536	D-Agostino_1992	1	Leonardo possiede una casetta in Canada.	0	0	0	0	0	0	0	0	1
+7545	D-Agostino_1992	1	Alessandro ha visto una casa che è di mattoni rossi.	0	0	0	0	0	0	1	0	1
+7546	D-Agostino_1992	1	Sofia ha comprato una statua di bronzo.	0	0	0	0	0	0	0	0	1
+7547	D-Agostino_1992	1	Alice ha comprato una statua bronzea.	0	0	0	0	0	0	0	0	1
+7569	D-Agostino_1992	1	Le truppe stanno nel fiume.	0	1	0	0	0	0	0	0	0
+7570	D-Agostino_1992	1	Le truppe stanno sul fiume.	0	1	0	0	0	0	0	0	0
+7584	D-Agostino_1992	1	Il nord attira l'ago della bussola verso se stesso.	0	0	0	0	0	0	0	1	0
+7585	D-Agostino_1992	0	Il nord attira l'ago della bussola da se stesso.	0	0	0	0	0	0	0	1	0
+7586	D-Agostino_1992	0	Il nord attira l'ago della bussola attraverso se stesso.	0	0	0	0	0	0	0	1	0
+7662	D-Agostino_1992	0	È dal marciapiedi che Alice ha piantato dei paletti alla porta di casa.	1	0	0	0	0	0	0	0	0
+7663	D-Agostino_1992	0	È alla porta di casa che Emma ha piantato dei paletti dal marciapiedi.	1	0	0	0	0	0	0	0	0
+7664	D-Agostino_1992	1	È dalla vallata sulla collina che il comando ha spostato i missili.	1	1	0	0	0	0	0	0	0
+7665	D-Agostino_1992	1	È dalla vallata che il comando ha spostato i missili sulla collina.	1	0	0	0	0	0	0	0	0
+7666	D-Agostino_1992	1	È sulla collina che il comando ha spostato i missili dalla vallata.	1	0	0	0	0	0	0	0	0
+7771	D-Agostino_1992	1	Giulia e Gabriele si detestano fortemente.	0	0	0	0	0	0	1	0	0
+7772	D-Agostino_1992	1	Maria detesta fortemente Riccardo e Riccardo detesta fortemente Maria.	0	0	0	0	0	0	1	0	0
+7773	D-Agostino_1992	0	Edoardo abbina male i calzini e abbina male la cravatta.	0	0	0	0	0	0	1	0	0
+7774	D-Agostino_1992	1	Leonardo discute il prezzo dell'auto con il concessionario e il concessionario discute il prezzo dell'auto con Leonardo.	0	0	0	0	0	0	1	0	0
+7804	Graffi_1994	0	Il mio lo preferito è la Divina Commedia.	0	0	0	0	0	0	1	0	0
+7805	Graffi_1994	0	Il mio treno preferito è la Divina Commedia.	0	0	0	0	0	0	1	0	0
+7806	Graffi_1994	1	Lorenzo ha detto che Andrea ha parlato con Riccardo.	0	0	1	0	0	0	1	0	0
+7807	Graffi_1994	1	Andrea sta elaborando la risposta.	0	0	0	0	1	0	0	0	0
+7808	Graffi_1994	1	Alessandro ha incontrato Giulia.	0	0	0	0	1	0	0	0	0
+7809	Graffi_1994	1	È ricomparso il padre del ragazzo.	0	0	1	0	0	0	0	0	0
+7810	Graffi_1994	1	I prezzi sono aumentati.	0	1	0	0	1	0	0	0	0
+7811	Graffi_1994	1	Salvato Andrea, ci siamo dati alla pazza gioia.	0	0	1	0	0	0	0	0	0
+7812	Graffi_1994	1	Il palazzo delle assicurazioni è crollato.	0	0	0	0	1	0	0	0	0
+7813	Graffi_1994	1	Quella costruzione offende il buon gusto.	0	0	0	0	1	0	0	0	0
+7814	Graffi_1994	1	Newton ha spiegato la forza di gravità.	0	0	0	0	1	0	0	0	0
+7815	Graffi_1994	1	Mi hanno dato il premio.	0	0	1	0	0	0	0	0	0
+7816	Graffi_1994	1	Tommaso si è danneggiato.	0	0	0	0	0	0	0	1	0
+7817	Graffi_1994	1	Quegli uomini hanno denunciato se stessi.	0	0	1	0	0	0	0	0	0
+7819	Graffi_1994	1	Ho incontrato Lorenzo, non Emma.	0	0	1	0	0	0	0	0	0
+7821	Graffi_1994	1	Ho incontrato molti amici di Riccardo.	0	0	1	0	0	0	0	0	0
+7822	Graffi_1994	1	Non ho trovato il tuo libro in quella biblioteca.	0	0	1	0	0	0	0	0	0
+7823	Graffi_1994	1	Non ce ne ho trovati molti.	0	0	1	0	0	0	0	0	0
+7824	Graffi_1994	1	Riccardo ha promesso a Maria che metterà in vendita la propria casa.	0	0	1	0	0	0	0	0	0
+7825	Graffi_1994	1	Maria ha salutato i suoi genitori.	0	0	0	0	1	0	0	0	0
+7826	Graffi_1994	1	Riccardo non è molto intelligente.	0	1	0	0	0	0	0	0	0
+7827	Graffi_1994	0	Riccardo non è molto, credo, intelligente.	0	1	0	0	0	0	0	0	0
+7828	Graffi_1994	1	Hanno chiamato molte persone quel numero.	0	0	1	0	0	0	0	0	0
+7830	Graffi_1994	1	Andrea è stato incontrato da Leonardo.	0	1	1	0	0	0	0	0	0
+7831	Graffi_1994	1	Riccardo ha domandato da chi non era stato visto Leonardo.	0	0	1	0	0	0	1	0	0
+7832	Graffi_1994	1	Leonardo, mi hanno detto che parlerà domani.	0	0	1	0	0	0	0	0	0
+7833	Graffi_1994	1	Gabriele, quando l'hai visto?	0	0	1	0	0	0	0	0	0
+7837	Graffi_1994	1	Lorenzo ha detto che partirà domani.	0	0	1	0	0	0	0	0	0
+7838	Graffi_1994	1	Quando è arrivato Francesco, abbiamo potuto cenare.	0	0	1	0	0	0	0	0	0
+7839	Graffi_1994	1	La tempesta ha abbattuto la quercia sotto cui il figliol prodigo pascolava i porci.	0	0	1	0	0	0	1	0	0
+7841	Graffi_1994	1	Alessandro, che è venuto a trovarmi ieri, mi ha detto di salutarti.	0	0	1	0	0	0	1	0	0
+7842	Graffi_1994	0	La commissione ritiene dunque il candidato aver fornito sufficienti prove della sua maturità scientifica.	0	0	0	0	0	0	1	0	0
+7843	Graffi_1994	1	Il timore della guerra è ingiustificato.	0	1	1	0	0	0	0	0	0
+7844	Graffi_1994	1	Riccardo ha perso le chiavi.	0	1	0	0	1	0	0	0	0
+7845	Graffi_1994	1	Alessandro è bramoso di potere.	0	1	0	0	0	0	0	0	0
+7846	Graffi_1994	1	Penso che Francesco domandi l'ora a Lorenzo.	0	0	0	0	0	0	1	0	0
+7847	Graffi_1994	1	Tommaso ha affermato che Edoardo parla.	0	0	1	0	0	0	0	0	0
+7849	Graffi_1994	1	Tommaso ha ordinato ad Andrea di difenderlo.	0	0	1	0	0	0	1	0	0
+7850	Graffi_1994	0	Il fatto di essere stato scoperto un delitto ci ha sconvolti.	0	0	1	0	0	0	1	0	0
+7851	Graffi_1994	1	Chi pensi che Alessandro incontrerà?	0	0	0	1	0	1	0	0	0
+7852	Graffi_1994	1	La sedia su cui ti sei seduto è rotta.	0	0	1	0	0	0	1	0	0
+7853	Graffi_1994	0	Questa è la persona con cui Edoardo ha fatto l'affermazione che Tommaso ha parlato.	0	0	0	0	0	0	1	0	0
+7854	Graffi_1994	0	Edoardo crede chi Sofia abbia baciato.	0	0	0	0	0	0	1	0	0
+7855	Graffi_1994	1	Che problema non sai come potremo risolvere?	0	0	0	1	0	1	0	0	0
+7856	Graffi_1994	1	Abbia visto lui.	0	0	1	0	1	0	0	0	0
+7857	Graffi_1994	0	Abbiamo visto lo.	0	0	1	0	0	0	0	0	0
+7858	Graffi_1994	1	Sofia dice che Alessandro parlerà domani.	0	0	0	0	0	0	1	0	0
+7859	Graffi_1994	0	Beatrice ha dichiarato che se stessa non ha mi avuto niente a che fare con Gabriele.	0	0	1	0	0	0	1	0	0
+7860	Graffi_2008	1	Riccardo ha detto che Andrea si è guardato.	0	0	1	0	0	0	1	0	0
+7861	Graffi_2008	1	Il padre di Andrea mi è sembrato molto contento quando gli ho parlato.	0	0	1	0	0	0	1	0	0
+7862	Graffi_2008	1	Penso che Edoardo creda che Maria voglia che Gabriele veda Riccardo.	0	0	0	0	0	0	1	0	0
+7863	Graffi_2008	1	Edoardo crede che Emma voglia che Tommaso veda Gabriele.	0	0	0	0	0	0	1	0	0
+7865	Graffi_2008	1	Che libro dice che il professore ha raccomandato di leggere?	0	0	0	1	0	1	0	0	0
+7866	Graffi_2008	0	Per primo sono arrivato me, non tu.	0	1	1	0	0	0	0	0	0
+7868	Graffi_2008	1	Leonardo uccise Andrea.	0	0	0	0	1	0	0	0	0
+7869	Graffi_2008	1	Andrea ha detti che Tommaso lo guarda.	0	0	1	0	0	0	1	0	0
+7870	Graffi-Scalise_2002	1	Gabriele ha voglia di andare al mare.	0	0	1	0	0	0	0	0	0
+7871	Graffi-Scalise_2002	1	È questo libro che non avevo mai letto.	1	0	1	0	0	0	0	0	0
+7872	Graffi-Scalise_2002	1	Da quel professore, Tommaso non è stato ancora interrogato?	0	0	0	0	0	1	0	0	0
+7874	Graffi-Scalise_2002	1	A proposito di questi paesi, quale crede Andrea che invaderanno?	0	0	0	0	0	1	0	0	0
+7875	Graffi-Scalise_2002	1	L'anno scorso Alessandro scriveva un libro, ma tutt'oggi non l'ha ancora finito.	0	0	1	0	0	0	0	0	0
+7876	Graffi-Scalise_2002	0	L'anno scorso, Edoardo scrisse un libro, ma a tutt'oggi non l'ha ancora finito.	0	0	1	0	0	0	0	0	0
+7877	Graffi-Scalise_2002	1	Gabriele è scapolo ed è sposato.	0	1	0	0	0	0	0	0	0
+7878	Graffi-Scalise_2002	1	L'attuale re di Francia è calvo.	0	1	0	0	0	0	0	0	0
+7891	Simone-Masini_2013	1	Le ragazze sono arrivate.	0	1	1	0	0	0	0	0	0
+7892	Simone-Masini_2013	1	Il libro che mi ha prestato Lorenzo non mi piace.	0	0	0	0	0	0	1	0	0
+7893	Simone-Masini_2013	1	Dicono che hai raccontato che non ci vediamo mai.	0	0	0	0	0	0	1	0	0
+7901	Simone-Masini_2013	1	Paola è una donna che apprezziamo molto.	0	1	0	0	0	0	0	0	0
+7902	Simone-Masini_2013	1	Cosa fai domani?	0	0	0	0	0	1	0	0	0
+7903	Simone-Masini_2013	1	Ho visto il libro che mi hai regalato.	0	0	0	0	0	0	1	0	0
+7904	Simone-Masini_2013	1	Gli amici il cui maestro è Andrea.	0	1	0	0	0	0	0	0	0
+7906	Simone-Masini_2013	1	Siccome è caduto, si è fatto male.	0	1	0	0	0	0	0	0	0
+7917	Simone-Masini_2013	1	Ho due case.	0	1	0	0	1	0	0	0	0
+7918	Simone-Masini_2013	1	Ho delle case.	0	1	0	0	0	0	0	0	0
+7919	Simone-Masini_2013	1	Il cavallo è arrivato primo.	0	1	0	0	0	0	0	0	0
+7920	Simone-Masini_2013	1	I cavalli sono animali resistenti.	0	1	0	0	0	0	0	0	0
+7921	Simone-Masini_2013	1	È venuto qualcuno.	0	1	0	0	0	0	0	0	1
+7922	Simone-Masini_2013	1	È arrivato.	0	1	0	0	0	0	0	0	0
+7925	Simone-Masini_2013	1	Lui è stato colto dalla pioggia.	0	1	0	0	0	0	0	0	0
+7928	Simone-Masini_2013	1	Alessandro promette ad Edoardo di restare a casa.	0	0	0	0	0	0	1	0	0
+7929	Simone-Masini_2013	1	Riccardo non ha tempo.	0	1	0	0	0	0	0	0	0
+7932	Simone-Masini_2013	1	Le è stato dato il cappello da me.	0	1	0	0	0	0	0	0	0
+7936	Simone-Masini_2013	1	È il meccanico che è venuto.	1	0	0	0	0	0	0	0	0
+7937	Simone-Masini_2013	1	È venire fino a Napoli che non voglio.	1	0	0	0	0	0	0	0	0
+7939	Simone-Masini_2013	1	Hai presente Lorenzo?	0	0	0	0	0	1	0	0	0
+7940	Simone-Masini_2013	1	E da quando vive in America?	0	0	0	0	0	1	0	0	0
+7941	Simone-Masini_2013	1	Credi che sia possibile una cosa del genere?	0	0	0	0	0	1	0	0	0
+7949	Simone-Masini_2013	1	Quel che vendo è merce cinese.	0	1	0	0	0	0	0	0	0
+7951	Simone-Masini_2013	1	È stato bandito un concorso.	0	0	0	0	0	0	1	0	0
+7952	Simone-Masini_2013	1	Tutte le balene devono essere protette.	0	0	0	0	0	0	1	0	0
+7954	Simone-Masini_2013	1	Questa macchina è vecchia ma nuova.	0	1	0	0	0	0	1	0	0
+7957	Jezek_2003	1	Ho spazzolato le scarpe.	0	1	0	0	0	0	0	0	0
+7960	Jezek_2003	1	Maria ha corso per ore.	0	1	0	0	0	0	0	0	0
+7967	Jezek_2003	1	La porta si è chiusa.	0	1	0	0	1	0	0	0	0
+7968	Jezek_2003	1	Gabriele non ammette di essere preso in giro.	0	0	0	0	0	0	1	0	0
+7970	Jezek_2003	1	Che cosa ha preso?	0	0	0	0	1	1	0	0	0
+7971	Jezek_2003	1	Le scarpe si sono macchiate.	0	1	0	0	1	0	0	0	0
+7973	Jezek_2003	0	Qualcosa ha accorciato le giornate.	0	0	0	0	0	0	0	0	1
+7974	Jezek_2003	0	Qualcuno ha accorciato le giornate.	0	0	0	0	0	0	0	0	1
+7977	Jezek_2003	1	La nebbia è svanita.	0	1	0	0	0	0	0	0	0
+7982	Jezek_2003	1	Andrea ha sbadigliato?	0	0	0	0	0	1	0	0	0
+7985	Jezek_2003	1	Il figlio di Francesco si siede in prima fila alle 8 in punto.	0	0	0	0	0	0	1	0	0
+7986	Jezek_2003	1	Quando iniziò il concerto, il figlio di Leonardo sedeva in prima fila.	0	0	0	0	0	0	1	0	0
+7994	Jezek_2003	1	Disturbo?	0	0	0	0	0	1	0	0	0
+7997	Jezek_2003	1	Il macchinista si è fermato.	0	1	0	0	0	0	0	0	0
+7998	Jezek_2003	0	I negozianti hanno aumentato.	0	1	0	0	1	0	0	0	0
+7999	Jezek_2003	1	I bicchieri si sono rotti.	0	1	0	0	1	0	0	0	0
+8000	Jezek_2003	1	Paola ha acceso il fuoco.	0	1	0	0	1	0	0	0	0
+8001	Jezek_2003	1	Il soggiorno in Canada ha migliorato il suo inglese.	0	0	0	0	0	0	1	0	0
+8002	Jezek_2003	0	La lezione ha continuato.	0	1	0	0	1	0	0	0	0
+8007	Jezek_2003	1	L'acqua è gelata in due ore.	0	1	0	0	0	0	0	0	0
+8013	Jezek_2003	1	Gabriele si è tagliato le basette.	0	1	0	0	0	0	0	0	0
+8014	Jezek_2003	1	Riccardo si è tagliato il mento con il rasoio.	0	1	0	0	0	0	0	0	0
+8015	Jezek_2003	1	Francesco si è calmato, irrigidito.	0	1	0	0	0	0	0	0	0
+8016	Jezek_2003	1	Si è rotto il vetro.	0	1	0	0	0	0	0	0	0
+8018	Jezek_2003	1	Il dibattito è continuato.	0	1	0	0	1	0	0	0	0
+8019	Jezek_2003	0	Il dibattito ha continuato.	0	1	0	0	0	0	0	0	0
+8022	Jezek_2003	1	Il livello si è alzato.	0	1	0	0	1	0	0	0	0
+8023	Jezek_2003	1	Francesco ha bruciato la torta.	0	1	0	0	0	0	0	0	0
+8024	Jezek_2003	1	Edoardo è pentito.	0	1	0	0	1	0	0	0	0
+8033	Jezek_2003	1	La camicia è sporca.	0	1	0	0	0	0	0	0	0
+8037	D-Agostino_1983	1	Chi Leonardo ama?	1	0	0	0	0	1	0	0	0
+8038	D-Agostino_1983	1	Francesco è il capo.	0	1	0	0	1	0	0	0	0
+8047	D-Agostino_1983	1	Dove Riccardo mise la cassa nel mobile?	0	0	0	0	0	1	0	0	0
+8054	D-Agostino_1983	1	Dove Andrea ha preso una sigaretta?	0	0	0	0	0	1	0	0	0
+8061	D-Agostino_1983	1	Dove hai messo le foto di Francesco?	0	0	0	0	0	1	0	0	0
+8099	Elia-et-al_1981	1	È sul letto che Maria salta.	1	1	0	0	0	0	0	0	0
+8100	Elia-et-al_1981	1	È subito che Edoardo vuole il caffè.	1	0	0	0	0	0	0	0	0
+8101	Elia-et-al_1981	0	È al successo ciò che Tommaso tiene.	1	0	0	0	0	0	0	0	0
+8102	Elia-et-al_1981	1	È alla presidenza che mira Leonardo.	1	1	0	0	0	0	0	0	0
+8104	Elia-et-al_1981	1	È il cinema che Francesco adora.	1	0	0	0	0	0	0	0	0
+8105	Elia-et-al_1981	1	È il cinema e non la musica che Alessandro adora.	1	1	0	0	0	0	0	0	0
+8117	Elia-et-al_1981	1	Alessandro ammira la casa che è di Paola.	0	1	0	0	0	0	0	0	0
+8120	Elia-et-al_1981	1	Che Riccardo dipinga è bello.	0	1	0	0	0	0	0	0	0
+8137	Elia-et-al_1981	1	Il vestito di Maria scintilla di uno stupendo diamante.	0	0	0	0	0	0	0	0	1
+8151	Elia-et-al_1981	1	Andrea è brutale con Alice.	0	1	0	0	0	0	0	0	0
+8157	Elia-et-al_1981	1	Leonardo è importante per noi.	0	1	0	0	0	0	0	0	0
+8218	Elia-et-al_1981	1	Maria ha fatto l'affermazione che Francesco è bello.	0	1	0	0	0	0	0	0	0
+8237	Elia-et-al_1981	1	Parlare con le ballerine è divertente.	0	1	0	0	0	0	0	0	0
+8249	Elia-et-al_1981	0	Paola ritiene che si parta è carino.	0	1	0	0	0	0	0	0	0
+8255	Elia-et-al_1981	1	Io penso qualcosa di te.	0	0	0	0	0	0	0	0	1
+8257	Elia-et-al_1981	1	Emma ottiene qualcosa da te.	0	0	0	0	0	0	0	0	1
+8288	Elia-et-al_1981	1	Paola è capace di cavalcare.	0	1	0	0	0	0	0	0	0
+8303	Vietri_2004	0	È l'amica che di Emma angoscia quel quadro di Picasso.	1	0	0	0	0	0	0	0	0
+8312	Vietri_2004	1	Gabriele è il marito di Paola.	0	1	0	0	0	0	0	0	0
+8318	Vietri_2004	1	Lorenzo è stato smanioso.	0	1	0	0	0	0	0	0	0
+8324	Vietri_2004	0	È il toro che Maria ha preso per le corna e non il bufalo.	1	0	0	0	0	0	0	0	0
+8359	Vietri_2004	1	Sofia fuma una bionda.	0	0	0	0	0	0	0	0	1
+8395	Vietri_2004	1	Alice è in ansia.	0	1	0	0	1	0	0	0	0
+8404	Vietri_2004	1	Sono i libri che Leonardo mette sugli scaffali ora.	1	0	0	0	0	0	0	0	0
+8406	Vietri_2004	1	Sono i libri ciò che Leonardo mette sugli scaffali ora.	1	0	0	0	0	0	0	0	0
+8413	Vietri_2004	1	Francesco ricorda qualcosa.	0	0	0	0	1	0	0	0	1
+8414	Vietri_2004	1	Era la conversazione che fecero i due ragazzi che Paola criticò.	1	0	0	0	0	0	0	0	0
+8423	Vietri_2004	1	Ha preso una cotta per Sofia.	0	0	0	0	0	0	0	0	1
+8424	Vietri_2004	1	Maria è in crisi.	0	1	0	0	1	0	0	0	0
+8426	Vietri_2004	1	Maria ha venduto i suoi vestiti al mercato delle pulci.	0	0	0	0	0	0	1	0	0
+8437	Vietri_2004	1	Hanno messo tutti in allarme?	0	0	0	0	0	1	0	0	1
+8441	Vietri_2017	1	Gabriele ha fatto scrivere una lettera a Lorenzo da Riccardo.	0	0	0	0	0	0	0	0	1
+8454	Vietri_2017	1	Paola ha trascurato se stessa.	0	0	0	0	0	0	0	1	0
+8472	Vietri_2017	1	Il prezzo di quei prodotti si è abbassato del 20 % per sei mesi.	0	0	0	0	0	0	1	0	0
+8475	Vietri_2017	1	Le vittorie hanno carburato il calciatore in una settimana.	0	0	0	0	0	0	1	0	1
+8477	Vietri_2017	0	Il temporale ha ritardato il treno in due ore.	0	0	0	0	0	0	1	0	0
+8478	Vietri_2017	1	L'incidente ha ritardato il treno di due ore.	0	0	0	0	0	0	1	0	0
+8484	Vietri_2017	1	Il cioccolato si è fuso in 5 minuti.	0	1	0	0	0	0	0	0	0
+8487	Vietri_2017	1	La valigia è diventata leggera.	0	1	0	0	0	0	0	0	0
+8488	Vietri_2017	1	I prezzi sono rincarati del 10 %.	0	1	0	0	0	0	0	0	0
+8489	Vietri_2017	1	Hanno reso la stanza grande.	0	1	0	0	0	0	0	0	0
+8490	Vietri_2017	1	Il mare si è fatto agitato.	0	1	0	0	0	0	0	0	0
+8491	Vietri_2017	1	La carne è saporita.	0	1	0	0	1	0	0	0	0
+8492	Vietri_2017	1	Il vino è aceto.	0	1	0	0	1	0	0	0	0
+8493	Vietri_2017	1	Il pullover di lana si è infeltrito.	0	1	0	0	0	0	0	0	0
+8494	Vietri_2017	1	Edoardo si è fatto simile a uno scheletro.	0	1	0	0	0	0	0	0	0
+8495	Vietri_2017	0	La carne è diventata gustosa.	0	1	0	0	0	0	0	0	0
+8496	Vietri_2017	1	La situazione è diventata ingarbugliata.	0	1	0	0	0	0	0	0	0
+8497	Vietri_2017	1	L'aria si è fatta puzzolente.	0	1	0	0	0	0	0	0	0
+8498	Vietri_2017	1	La situazione diventa ingarbugliatissima.	0	1	0	0	0	0	0	0	0
+8536	Elia_1982	1	Riccardo è desideroso di partire.	0	1	0	0	0	0	0	0	0
+8540	Elia_1982	0	Gabriele è alla tavola.	0	1	0	0	1	0	0	0	0
+8547	Elia_1982	1	La palla è finita didietro.	0	1	0	0	0	0	0	0	0
+8548	Elia_1982	1	La palla è finita in acqua.	0	1	0	0	0	0	0	0	0
+8570	Vietri_1985	1	Riccardo ebbe una sbornia.	0	0	0	0	1	0	0	0	1
+8575	Vietri_1985	1	Giulia prese una dritta.	0	0	0	0	1	0	0	0	1
+8596	Vietri_1985	1	Maria prese una cotta per Francesco.	0	0	0	0	0	0	0	0	1
+8602	Vietri_1985	1	Maria fece una seduta di elioterapia.	0	0	0	0	0	0	0	0	1
+8619	D-Agostino_1992	1	Gabriele fa una telefonata a Maria.	0	0	0	0	0	0	0	0	1
+8621	D-Agostino_1992	1	Che Andrea abbia telefonato ha causato il fatto che Giulia sia ritornata.	1	0	0	0	0	0	0	0	0
+8623	D-Agostino_1992	1	Emma è in angoscia.	0	1	0	0	1	0	0	0	0
+8625	D-Agostino_1992	1	Leonardo odia Paola?	0	0	0	0	1	1	0	0	0
+8630	D-Agostino_1992	1	I soldati hanno passato le armi ai prigionieri.	0	1	0	0	0	0	0	0	0
+8634	D-Agostino_1992	1	A Lorenzo, Alessandro gli ha lasciato una ricca eredità.	0	0	0	0	0	0	0	0	1
+8639	D-Agostino_1992	1	Gabriele segue una rigida condotta morale.	0	0	0	0	0	0	0	0	1
+8640	D-Agostino_1992	0	La zanzara pratica una rigida condotta morale.	0	0	0	0	0	0	0	0	1
+8641	D-Agostino_1992	0	Il frigorifero ha una forte cotta per Francesco.	0	0	0	0	0	0	1	0	1
+8651	D-Agostino_1992	1	La stilografica è caricata.	0	1	0	0	1	0	0	0	0
+8655	D-Agostino_1992	1	Lorenzo sale, per una seconda volta, le scale di corsa.	0	0	0	0	0	0	0	0	1
+8661	D-Agostino_1992	1	Riccardo ha sedotto una minorenne.	0	0	0	0	1	0	1	0	1
+8666	D-Agostino_1992	1	Paola fa una corsa in giardino.	0	0	0	0	0	0	0	0	1
+8673	D-Agostino_1992	1	Capire le intenzioni segrete di una persona.	0	0	0	0	0	0	0	0	1
+8681	D-Agostino_1992	1	Essere all'indice.	0	1	0	0	0	0	0	0	0
+8685	D-Agostino_1992	1	Cavare la castagne dal fuoco a qualcuno.	0	0	0	0	0	0	0	0	1
+8690	D-Agostino_1992	1	La moto di Leonardo è nuota di zecca.	0	1	0	0	0	0	0	0	0
+8697	D-Agostino_1992	1	Riccardo abita in una casa piccola.	0	1	0	0	0	0	0	0	1
+8698	D-Agostino_1992	1	Maria non sta a Roma.	0	1	0	0	0	0	0	0	0
+8704	D-Agostino_1992	0	Una tale conclusione deriva.	0	0	0	0	0	0	0	0	1
+8710	D-Agostino_1992	1	La siesta è una dormita.	0	1	0	0	1	0	0	0	1
+8720	D-Agostino_1992	1	Gabriele ha visto una casa di mattoni rossi.	0	0	0	0	0	0	0	0	1
+8721	D-Agostino_1992	1	Tommaso ha visto una casa.	0	0	0	0	0	0	0	0	1
+8724	D-Agostino_1992	1	Non c'è sempre una concordanza in Maria tra i fatti e le parole.	0	0	0	0	0	0	0	0	1
+8728	D-Agostino_1992	0	Il meccanismo di funzionamento del rotore alloggia se stesso in quell'involucro.	0	0	0	0	0	0	0	1	0
+8734	D-Agostino_1992	1	È dal marciapiedi alla porta di casa che Beatrice ha piantato dei paletti.	1	0	0	0	0	0	0	0	0
+8748	Graffi_1994	1	Quell'uomo e quella donna mi hanno colpito.	0	0	1	0	0	0	1	0	0
+8749	Graffi_1994	1	Il mio testo preferito è la Divina Commedia.	0	0	0	0	0	0	1	0	0
+8750	Graffi_1994	1	La mia lettura preferita è la Divina Commedia.	0	0	0	0	1	0	1	0	0
+8751	Graffi_1994	1	Francesco lo ha portato dentro la casa.	0	0	1	0	0	0	0	0	0
+8752	Graffi_1994	1	Lorenzo ha incontrato Sofia la settimana scorsa.	0	0	1	0	0	0	1	0	0
+8753	Graffi_1994	0	Lorenzo ha incontrato la settimana scorsa.	0	0	1	0	0	0	0	0	0
+8754	Graffi_1994	1	Ha telefonato il padre del ragazzo.	0	0	1	0	0	0	0	0	0
+8755	Graffi_1994	1	Ne sono partiti molti.	0	0	1	0	0	0	0	0	0
+8756	Graffi_1994	1	Gorbaciov ha donato un'icona al Papa.	0	0	1	0	0	0	0	0	0
+8758	Graffi_1994	0	Lo e la ho incontrato.	0	0	1	0	0	0	0	0	0
+8759	Graffi_1994	0	Ho incontrato la, non lo.	0	0	1	0	0	0	1	0	0
+8761	Graffi_1994	1	Ho scoperto solo ieri il colpevole del delitto.	0	0	1	0	0	0	1	0	0
+8762	Graffi_1994	1	In quella biblioteca non ho trovato il tuo libro.	0	0	1	0	0	0	0	0	0
+8763	Graffi_1994	1	Ho dato ad Alessandro alcuni libri.	0	0	1	0	0	0	0	0	0
+8764	Graffi_1994	0	Ne gli ho dati.	0	0	1	0	0	0	0	0	0
+8765	Graffi_1994	1	L'ho incontrata.	0	0	1	0	0	0	0	0	0
+8766	Graffi_1994	1	Ha ingannato se stesso.	0	0	1	0	0	0	0	0	0
+8767	Graffi_1994	1	Andrea dice che Tommaso ha ingannato solo se stesso.	0	0	1	0	0	0	0	0	0
+8769	Graffi_1994	1	Tommaso nella sua città natale è tornato l'anno scorso.	0	0	1	0	0	0	0	0	0
+8771	Graffi_1994	1	Alessandro è tornato nella sua città natale l'anno scorso e l'ultimo giorno di gennaio.	0	0	1	0	0	0	0	0	0
+8772	Graffi_1994	1	Alice li ha salutati.	0	0	1	0	0	0	0	0	0
+8773	Graffi_1994	1	Dentro il sacco a pelo, Edoardo ha dormito.	1	0	1	0	0	0	0	0	0
+8774	Graffi_1994	1	Gabriele ha incontrato suo padre.	0	0	1	0	0	0	0	0	0
+8775	Graffi_1994	0	Molte hanno chiamato quel numero persone.	0	0	1	0	0	0	0	0	0
+8777	Graffi_1994	1	Sembra che Tommaso sia partito.	0	0	1	0	0	0	0	0	0
+8778	Graffi_1994	1	Tommaso ha incontrato Andrea.	0	0	0	0	1	0	0	0	0
+8779	Graffi_1994	1	Gabriele ha sparso i fogli sul cassetto.	0	0	1	0	0	0	1	0	0
+8780	Graffi_1994	1	In quale cassetto hai detto che Riccardo ha messo i fogli?	0	0	0	0	0	1	1	0	0
+8781	Graffi_1994	1	Abbiamo dovuto cenare in fretta.	0	0	1	0	0	0	0	0	0
+8782	Graffi_1994	1	Lorenzo ha promesso a Paola di studiare ogni giorno.	0	0	1	0	0	0	1	0	0
+8783	Graffi_1994	0	Mattia ha promesso a Beatrice di lui studiare ogni giorno.	0	0	1	0	0	0	1	0	0
+8784	Graffi_1994	1	È ora di partire.	0	1	0	0	1	0	0	0	0
+8786	Graffi_1994	1	Giulia ha visto lui uscire dal cinema.	0	0	1	0	0	0	0	0	0
+8787	Graffi_1994	1	Ho fatto parlare Mattia.	0	0	1	0	0	0	0	0	0
+8788	Graffi_1994	1	Avendo Leonardo incontrato di nuovo Giorgia, la nostra storia può proseguire.	0	0	1	0	0	0	1	0	0
+8790	Graffi_1994	1	Non so se Edoardo ha comprato il giornale.	0	0	1	0	0	0	0	0	0
+8791	Graffi_1994	0	Partito me, avrete più spazio a disposizione.	0	0	1	0	0	0	0	0	0
+8792	Graffi_1994	1	Tommaso ha promesso a Leonardo di difenderlo.	0	0	1	0	0	0	1	0	0
+8793	Graffi_1994	1	Leonardo ha promesso ad Andrea di difendersi.	0	0	1	0	0	0	1	0	0
+8795	Graffi_1994	1	Edoardo ama Sofia.	0	0	0	0	1	0	0	0	0
+8796	Graffi_1994	1	Paola è stata salutata.	0	1	1	0	0	0	0	0	0
+8797	Graffi_1994	1	Ho comprato un libro da leggere in treno.	0	0	1	0	0	0	1	0	0
+8798	Graffi_1994	0	Ho comprato un libro che leggere in treno.	0	0	1	0	0	0	1	0	0
+8799	Graffi_1994	0	Questa è la sedia su cui Francesco ha domandato quando Alessandro si è seduto.	0	0	0	0	0	0	1	0	0
+8800	Graffi_1994	0	Questa è la persona che Riccardo ha fatto l'affermazione che Alessandro apprezza di più.	0	0	0	0	0	0	1	0	0
+8802	Graffi_1994	1	Beatrice ha detto di essere stata inseguita.	0	0	1	0	0	0	0	0	0
+8803	Graffi_1994	0	Che cosa hai parlato su?	0	0	0	1	0	1	0	0	0
+8804	Graffi_1994	1	Lui ha detto che Emma incontrato Riccardo (e non Andrea).	0	0	1	0	0	0	1	0	0
+8806	Graffi_1994	1	Emma ha molto apprezzato la mia descrizione di lei.	0	0	1	0	0	0	0	0	0
+8807	Graffi_1994	1	Alessandro ritiene che Francesco sia convinto che quella casa appartenga ancora alla propria famiglia.	0	0	0	0	0	0	1	0	0
+8808	Graffi_1994	0	Che argomento non sai quando discuteremo?	0	0	0	1	0	1	0	0	0
+8809	Graffi_2008	1	Ho incontrato Andrea e Giorgia, e ho parlato di te.	0	0	0	0	0	0	1	0	0
+8811	Graffi_2008	1	Beatrice è stata baciata da Edoardo.	0	1	1	0	0	0	0	0	0
+8812	Graffi_2008	1	Edoardo ha ordinato ad Emma di partire.	0	0	1	0	0	0	1	0	0
+8814	Graffi_2008	0	I ragazzi di cui mi ha parlato la ragazza parte.	0	0	1	0	0	0	1	0	0
+8817	Graffi_2008	0	Alessandro conosce che Leonardo è partito.	0	0	0	0	0	0	1	0	0
+8818	Graffi_2008	1	Tommaso conosce quell'uomo.	0	0	0	0	1	0	0	0	0
+8819	Graffi_2008	1	In questo luogo ne sono arrivati molti.	0	1	1	0	0	0	0	0	0
+8820	Graffi_2008	1	Tommaso ha promesso ad Aurora.	0	1	1	0	0	0	0	0	0
+8822	Graffi-Scalise_2002	1	I vicini credono che i ragazzi dicano che Beatrice mi ha colpito.	0	0	1	0	0	0	0	0	0
+8823	Graffi-Scalise_2002	1	I Rossi sostengono che i vicini credono che i ragazzi dicano che Giorgia mi ha colpito.	0	0	1	0	0	0	0	0	0
+8824	Graffi-Scalise_2002	1	Tommaso ha trovato una foto di qualcuno.	0	0	1	0	0	0	1	0	0
+8827	Graffi-Scalise_2002	0	La sporcizia legge il libro.	0	0	0	0	1	0	0	0	0
+8830	Graffi-Scalise_2002	1	Questo libro, non lo avevo mai letto.	0	0	1	0	0	0	0	0	0
+8831	Graffi-Scalise_2002	1	Cosa ha comprato Lorenzo?	0	0	0	1	0	1	0	0	0
+8833	Graffi-Scalise_2002	0	Quale paese Leonardo ha l'opinione che invaderanno?	0	0	0	1	0	1	0	0	0
+8834	Graffi-Scalise_2002	1	Dopo aver salutato la moglie, Gabriele uscì.	0	0	1	0	0	0	0	0	0
+8835	Graffi-Scalise_2002	1	Il ragazzo ha dato una rosa a Giorgia.	0	1	1	0	0	0	0	0	0
+8836	Graffi-Scalise_2002	1	Lorenzo si è dimenticato che aveva chiuso la porta e allora, visto che non aveva con sé le chiavi, ha dovuto sfondarla.	0	0	0	0	0	0	1	0	0
+8837	Graffi-Scalise_2002	1	Ogni ragazzo ama una ragazza.	0	0	0	0	1	0	0	0	0
+8841	Simone-Masini_2013	1	Vittoria saluta Tommaso.	0	0	0	0	1	0	0	0	0
+8843	Simone-Masini_2013	1	Ho visto il mio amico.	0	1	1	0	0	0	0	0	0
+8845	Simone-Masini_2013	1	Siamo usciti in macchina.	0	0	1	0	0	0	0	0	0
+8847	Simone-Masini_2013	1	Gabriele prende l'autobus.	0	0	0	0	1	0	0	0	0
+8848	Simone-Masini_2013	1	Chi hai visto?	0	0	0	1	0	1	0	0	0
+8849	Simone-Masini_2013	1	Il supremo diritto è la più grande ingiustizia.	0	1	0	0	0	0	0	0	0
+8850	Simone-Masini_2013	1	La dea è pigra.	0	1	0	0	0	0	0	0	0
+8851	Simone-Masini_2013	1	Ho visto il ragazzo che ha vinto il concorso.	0	0	0	0	0	0	1	0	0
+8853	Simone-Masini_2013	1	Perché sia venuto è un mistero.	0	1	0	0	0	0	0	0	0
+8855	Simone-Masini_2013	1	È caduto e si è fatto male.	0	1	0	0	0	0	0	0	0
+8856	Simone-Masini_2013	1	Andate al cinema?	0	0	0	0	1	1	0	0	0
+8858	Simone-Masini_2013	1	Avete visto?	0	0	0	0	0	1	0	0	0
+8861	Simone-Masini_2013	1	Sono appena arrivato.	0	1	0	0	0	0	0	0	0
+8862	Simone-Masini_2013	1	Che prende da bere?	0	0	0	0	0	1	0	0	0
+8866	Simone-Masini_2013	1	Lei è una donna fascinosa.	0	1	0	0	1	0	0	0	0
+8872	Simone-Masini_2013	1	È venuto il ragazzo che aspettavo.	0	1	0	0	0	0	0	0	0
+8884	Simone-Masini_2013	1	Edoardo ordina a Mattia di restare a casa.	0	0	0	0	0	0	1	0	0
+8886	Simone-Masini_2013	1	Paola è sua moglie.	0	1	0	0	0	0	0	0	0
+8889	Simone-Masini_2013	1	È lui che lo ha fatto.	1	0	0	0	0	0	0	0	0
+8897	Simone-Masini_2013	1	È arrivato tuo padre?	0	0	0	0	0	1	0	0	0
+8905	Simone-Masini_2013	1	Ho ucciso suo fratello.	0	1	0	0	0	0	0	0	0
+8907	Simone-Masini_2013	1	È partito ieri.	0	1	0	0	0	0	0	0	0
+8908	Simone-Masini_2013	1	Dopo il primo scroscio di pioggia il tempo è tornato bello.	0	0	0	0	0	0	1	0	0
+8912	Simone-Masini_2013	1	È Andrea che lascia sempre in disordine la stanza.	1	1	0	0	0	0	0	0	0
+8918	Jezek_2003	1	Beatrice è corsa a casa.	0	1	0	0	0	0	0	0	0
+8919	Jezek_2003	1	Hai telefonato a Sofia?	0	0	0	0	1	1	0	0	0
+8934	Jezek_2003	1	Le scarpe sono state lucidate da Beatrice.	0	1	0	0	0	0	0	0	0
+8935	Jezek_2003	1	Le scarpe sono state macchiate da Alice.	0	1	0	0	0	0	0	0	0
+8936	Jezek_2003	1	Leonardo è caduto.	0	1	0	0	1	0	0	0	0
+8937	Jezek_2003	0	La nebbia si è svanita.	0	1	0	0	0	0	0	0	0
+8938	Jezek_2003	1	La nebbia si è dileguata.	0	1	0	0	0	0	0	0	0
+8945	Jezek_2003	1	Il figlio di Andrea si siede in prima fila.	0	0	0	0	0	0	1	0	0
+8946	Jezek_2003	1	Alle 8 in punto, il figlio di Riccardo entrò nel teatro e si sedette in prima fila.	0	0	0	0	0	0	1	0	0
+8947	Jezek_2003	1	Il muro è ammuffito da molti anni.	0	1	0	0	0	0	0	0	0
+8952	Jezek_2003	1	La mia vecchia macchina beve sempre di più benzina.	0	0	0	0	0	0	1	0	0
+8956	Jezek_2003	1	Il liquore ha decantato.	0	1	0	0	0	0	0	0	0
+8957	Jezek_2003	1	L'acqua ha bollito per ore.	0	1	0	0	0	0	0	0	0
+8958	Jezek_2003	1	Francesco è guarito.	0	1	0	0	0	0	0	0	0
+8959	Jezek_2003	1	Andrea ha diffuso la notizia.	0	1	0	0	0	0	0	0	0
+8960	Jezek_2003	1	Andrea ha raccontato la notizia.	0	1	0	0	0	0	0	0	0
+8961	Jezek_2003	1	La notizia è stata raccontata da Leonardo.	0	1	0	0	0	0	0	0	0
+8962	Jezek_2003	1	Edoardo ha mancato il treno.	0	1	0	0	0	0	0	0	0
+8965	Jezek_2003	1	L'acqua del lago è gelata.	0	1	0	0	0	0	0	0	0
+8972	Jezek_2003	1	Hai bevuto tutto il vino?	0	0	0	0	0	1	0	0	0
+8973	Jezek_2003	1	Ti sei bevuto tutto il vino?	0	0	0	0	0	1	0	0	0
+8978	Jezek_2003	1	Alice si è seduta.	0	1	0	0	1	0	0	0	0
+8980	Jezek_2003	1	Andrea ha continuato il discorso.	0	1	0	0	0	0	0	0	0
+8982	Jezek_2003	1	È suonata la sveglia.	0	1	0	0	1	0	0	0	0
+8983	Jezek_2003	1	È suonato il telefono.	0	1	0	0	0	0	0	0	0
+8984	Jezek_2003	0	Il livello è alzato.	0	1	0	0	1	0	0	0	0
+9006	D-Agostino_1983	1	Che cosa Francesco studia?	1	0	0	0	0	1	0	0	0
+9019	D-Agostino_1983	1	Da Dove Edoardo ha preso una sigaretta?	1	0	0	0	0	1	1	0	0
+9034	D-Agostino_1983	0	È dal giardino al garage che Francesco ha piantato fiori.	1	1	0	0	0	0	0	0	0
+9060	Elia-et-al_1981	0	È al successo ciò a cui Alessandro tiene.	1	0	0	0	0	0	0	0	0
+9071	Elia-et-al_1981	1	Sofia diverte qualcuno.	0	0	0	0	0	0	0	0	1
+9094	Elia-et-al_1981	1	Uno stendardo sventola sulla torre del castello.	0	0	0	0	0	0	0	0	1
+9098	Elia-et-al_1981	1	La contessa era tutta uno sfavillare di gioielli.	0	0	0	0	0	0	0	0	1
+9118	Elia-et-al_1981	1	Tommaso ha ricavato uno splendido studio da vecchi mobili.	0	0	0	0	0	0	0	0	1
+9197	Elia-et-al_1981	1	Capita a tutti che prima o poi si sposi qualcuno.	0	0	0	0	0	0	0	0	1
+9206	Elia-et-al_1981	0	Il ministro è dal ritiro del passaporto.	0	1	0	0	0	0	0	0	0
+9271	Vietri_2004	1	Una tribù abita la casa in campagna.	0	0	0	0	0	0	0	0	1
+9278	Vietri_2004	1	Mattia ha fatto una fotografia.	0	0	0	0	0	0	0	0	1
+9285	Vietri_2004	1	È Sofia che ha preso il toro per le corna e non Gabriele.	1	0	0	0	0	0	0	0	0
+9298	Vietri_2004	1	La malattia ha paralizzato Beatrice.	0	0	0	0	1	0	1	0	0
+9302	Vietri_2004	1	Lorenzo fuma una sigaretta.	0	0	0	0	0	0	0	0	1
+9305	Vietri_2004	1	Quell'uomo ha cantato una canzone.	0	0	0	0	0	0	0	0	1
+9349	Vietri_2004	1	Il dado è tratto.	0	1	0	0	0	0	0	0	0
+9357	Vietri_2004	1	Una persona canta un canto.	0	0	0	0	0	0	0	0	1
+9358	Vietri_2004	1	Mattia è una persona.	0	1	0	0	0	0	0	0	0
+9359	Vietri_2004	1	Il libro è in stampa.	0	1	0	0	0	0	0	0	0
+9360	Vietri_2004	1	Comportarsi così è caratteristico di certa gente.	0	1	0	0	0	0	0	0	0
+9361	Vietri_2004	1	Partire è differente da rimanere.	0	1	0	0	0	0	0	0	0
+9372	Vietri_2004	1	Ѐ scappare che Andrea desidera.	1	0	0	0	0	0	0	0	0
+9374	Vietri_2004	1	Alessandro sa che è bello.	0	1	0	0	0	0	0	0	0
+9375	Vietri_2004	1	Tommaso sa che Tommaso è bello.	0	1	0	0	0	0	0	0	0
+9377	Vietri_2004	1	Chi studia la matematica?	0	0	0	0	0	1	0	0	0
+9378	Vietri_2004	1	Che studia Giorgia?	0	0	0	0	0	1	0	0	0
+9386	Vietri_2004	1	Hanno caricato le armi dei ragazzi di proiettili.	0	1	0	0	0	0	0	0	0
+9398	Vietri_2004	1	La sua memoria è di ferro.	0	1	0	0	1	0	0	0	0
+9400	Vietri_2004	1	Ѐ baciare quella donna che Mattia desidera.	1	0	0	0	0	0	0	0	0
+9401	Vietri_2004	1	Ѐ la moto che Francesco parcheggia che è una Harley Davidson.	1	0	0	0	0	0	0	0	1
+9406	Vietri_2004	1	A Sofia disse che quella festa fu triste.	1	1	0	0	0	0	0	0	0
+9415	Vietri_2017	1	Una improvvisa raffica di vento ha rotto il vetro.	0	0	0	0	0	0	0	0	1
+9417	Vietri_2017	1	La nave fu affondata da una forte tempesta.	0	0	0	0	0	0	0	0	1
+9419	Vietri_2017	0	Francesco ha diplomato se stesso.	0	0	0	0	0	0	0	1	0
+9435	Vietri_2017	1	Il vetro è in frantumi.	0	1	0	0	0	0	0	0	0
+9458	Vietri_2017	1	Le pareti sono recentemente ingiallite.	0	1	0	0	0	0	0	0	0
+9459	Vietri_2017	0	Il ramo è diventato curvato.	0	1	0	0	0	0	0	0	0
+9460	Vietri_2017	0	Le alici sono diventate marinate.	0	1	0	0	0	0	0	0	0
+9461	Vietri_2017	0	La stanza si è fatta ingrandita.	0	1	0	0	0	0	0	0	0
+9462	Vietri_2017	1	I commercianti hanno reso i prezzi cari.	0	1	0	0	0	0	0	0	0
+9463	Vietri_2017	1	Il mare è diventato agitato.	0	1	0	0	0	0	0	0	0
+9464	Vietri_2017	1	La carne viene insaporita dalle spezie.	0	1	0	0	0	0	0	0	0
+9465	Vietri_2017	1	Lorenzo è simile a uno scheletro.	0	1	0	0	0	0	0	0	0
+9466	Vietri_2017	1	Il pullover di lana è infeltrito.	0	1	1	0	1	0	0	0	0
+9467	Vietri_2017	1	La dieta lo ha reso simile a uno scheletro.	0	1	0	0	0	0	0	0	0
+9468	Vietri_2017	0	La carne si è fatta gustosa.	0	1	0	0	0	0	0	0	0
+9469	Vietri_2017	0	Riccardo è diventato magro.	0	1	0	0	0	0	0	0	0
+9470	Vietri_2017	1	Il maglione si è fatto infeltrito.	0	1	0	0	0	0	0	0	0
+9471	Vietri_2017	1	La sala si è fatta affollata.	0	1	0	0	0	0	0	0	0
+9472	Vietri_2017	1	La carne si è fatta saporita.	0	1	0	0	0	0	0	0	0
+9473	Vietri_2017	0	I prezzi diventano aumentatissimi.	0	1	0	0	1	0	0	0	0
+9480	Vietri_2017	0	Paola si preoccuperà per l'organizzazione di quell'evento per farlo ben riuscire.	0	0	0	0	0	0	1	0	0
+9481	Vietri_2017	1	Quel medico si preoccupa della sua paziente per farla guarire in fretta.	0	0	0	0	0	0	1	0	0
+9487	Vietri_2017	0	Francesco viene preoccupato da questa situazione.	0	0	0	0	0	0	1	0	0
+9503	Vietri_2017	0	Giulia ha montato la testa a se stessa.	0	0	0	0	0	0	1	1	0
+9505	Elia_1982	1	Tommaso fa una bestialità.	0	0	0	0	0	0	0	0	1
+9512	Elia_1982	1	La palla è lì dietro.	0	1	0	0	1	0	0	0	0
+9513	Elia_1982	1	La palla è lì a terra.	0	1	0	0	1	0	0	0	0
+9514	Elia_1982	1	La palla è finita al suolo.	0	1	0	0	0	0	0	0	0
+9516	Elia_1982	1	La casa è vicino là dove tu sai.	0	1	0	0	0	0	0	0	0
+9535	Vietri_1985	1	Beatrice ha smesso di fare qualcosa.	0	0	0	0	0	0	0	0	1
+9546	Vietri_1985	1	Riccardo si prese una sbronza.	0	0	0	0	0	0	0	0	1
+9572	Vietri_1985	1	Andrea prese il coltello per la lama dal cassetto.	0	0	0	0	0	0	1	0	0
+9576	Vietri_1985	1	Riccardo ha preso una buona occasione.	0	0	0	0	0	0	0	0	1
+9582	Vietri_1985	1	Gabriele prese una cotta per Aurora.	0	0	0	0	0	0	0	0	1
+9588	D-Agostino_1992	1	Che tu sia partito tocca Sofia profondamente.	1	0	0	0	0	0	0	0	0
+9602	D-Agostino_1992	1	Tommaso è di una rigida condotta morale.	0	0	0	0	0	0	0	0	1
+9603	D-Agostino_1992	1	Paola ha una forte cotta per Tommaso.	0	0	0	0	0	0	0	0	1
+9604	D-Agostino_1992	0	Il frigorifero è di una rigida condotta morale.	0	1	0	0	0	0	0	0	1
+9605	D-Agostino_1992	0	Il frigorifero sostiene una rigida condotta morale.	0	1	0	0	0	0	0	0	1
+9606	D-Agostino_1992	0	Il frigorifero si è beccato una forte cotta per Andrea.	0	0	0	0	0	0	0	0	1
+9607	D-Agostino_1992	0	Alessandro è di una rigida condotta morale di Mattia.	0	1	0	0	0	0	0	0	1
+9608	D-Agostino_1992	0	Lorenzo sostiene una rigida condotta morale di Tommaso.	0	0	0	0	0	0	0	0	1
+9609	D-Agostino_1992	0	Paola si è pigliata una forte cotta per Tommaso di Giulia.	0	0	0	0	0	0	0	0	1
+9610	D-Agostino_1992	1	Mattia si è raffreddato.	0	1	0	0	1	0	0	0	0
+9620	D-Agostino_1992	0	Il camion è il carico delle casse.	0	1	0	0	0	0	0	0	0
+9633	D-Agostino_1992	1	Alice è l'incaricato del rapimento di Sofia.	0	1	0	0	0	0	0	0	0
+9634	D-Agostino_1992	1	Il rapimento di Giorgia è l'incarico di Aurora.	0	1	0	0	0	0	0	0	0
+9638	D-Agostino_1992	0	Il frigo ha sedotto una minorenne.	0	0	0	0	0	0	1	0	1
+9650	D-Agostino_1992	1	Andare a genio a qualcuno.	0	0	0	0	0	0	0	0	1
+9651	D-Agostino_1992	1	Sciogliere la lingua di qualcuno.	0	0	0	0	0	0	0	0	1
+9652	D-Agostino_1992	1	Essere l'occhio destro di qualcuno.	0	1	0	0	0	0	0	0	1
+9653	D-Agostino_1992	1	Essere geloso come una tigre.	0	0	0	0	0	0	0	0	1
+9654	D-Agostino_1992	1	Fare la bocca a qualcuno.	0	0	0	0	0	0	0	0	1
+9656	D-Agostino_1992	1	La moto è nuova di zecca.	0	1	0	0	1	0	0	0	0
+9678	D-Agostino_1992	1	Egli legge qualcosa.	0	0	0	0	0	0	0	0	1
+9687	D-Agostino_1992	0	Riccardo afferra se stesso alla balaustra.	0	0	0	0	0	0	0	1	0
