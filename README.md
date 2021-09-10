@@ -61,9 +61,9 @@ Sources come from different sources extracted from the linguistic literature, co
 
 ItaCola is split into:
 
-- `train`: 7762 sentences
-- `test`:  976 sentences
-- `dev`: 948 sentences
+- `train`: 7801 sentences
+- `dev`: 946 sentences
+- `test`:  975 sentences
 
 Each line in the `.tsv` files consists of 5 tab-separated columns.
 
