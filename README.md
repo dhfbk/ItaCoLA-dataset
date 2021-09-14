@@ -106,7 +106,7 @@ File containing annotated sentences can be downloaded from this [ItaCoLA_dataset
 
 
 
-#### Footnotes
+#### References
 
 1. Alex Warstadt, Amanpreet Singh, Samuel R. Bowman; *Neural Network Acceptability Judgments*. Transactions of the Association for Computational Linguistics. 2019; 7 625–641.
 2. Emilio D’Agostino. 1983. Le*ssico e sintassi dellecostruzioni locative: materiali per la didattica dell’italiano*. Liguori.
