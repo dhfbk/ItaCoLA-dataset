@@ -81,7 +81,7 @@ Each line in the `.tsv` files consists of 5 tab-separated columns.
 | 3        | Graffi_1994     | 1         | Questa donna mi ha colpito. (*That women impressed me*)      | train |
 | 5784     | Vietri_2017     | 1         | Alice ha fatto terrorizzare Francesco da quell'uomo. (*Alice made Francesco terrified of the man.*) | train |
 | 8307     | Vietri_2004     | 0         | Quell'architetto ha alcuni progettato musei. (*That architect has some designed museums.*) | dev   |
-| 9206     | Elia-et-al_1981 | 00        | Il ministro è dal ritiro del passaporto. (*The minister is from passport withdrawal*) | test  |
+| 9206     | Elia-et-al_1981 | 0         | Il ministro è dal ritiro del passaporto. (*The minister is from passport withdrawal*) | test  |
 | 9366     | Vietri_2004     | 1         | Edoardo ne ride. (*Edward laughs about it*)                  | test  |
 
 #### Annotation
