@@ -20,7 +20,7 @@ The Italian Corpus of Linguistic Acceptability includes almost 10k sentences tak
 
 #### Paper
 
-Read the paper at [LINK TO BE ADDED]()
+Read the paper at https://arxiv.org/abs/2109.12053
 
 
 
