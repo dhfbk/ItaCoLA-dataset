@@ -20,7 +20,7 @@ The Italian Corpus of Linguistic Acceptability includes almost 10k sentences tak
 
 #### Paper
 
-Read the paper at https://arxiv.org/abs/2109.12053
+Read the paper at https://aclanthology.org/2021.findings-emnlp.250/
 
 
 
@@ -32,7 +32,7 @@ Download ItaCola from this [ItaCoLA_dataset.tsv](ItaCoLA_dataset.tsv)
 
 #### Citation
 
-> Trotta D., Guarasci R., Leonardelli E., Tonelli S. *Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus*. To appear in Findings of EMNLP 2021.
+> Trotta D., Guarasci R., Leonardelli E., Tonelli S. *Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus*. In Findings of EMNLP 2021.
 
 ### Data Description
 
