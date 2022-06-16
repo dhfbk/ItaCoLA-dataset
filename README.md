@@ -10,7 +10,7 @@ This repository contains the annotated datasets of the papers:
 [[cite]](#citation2) (*paper upcoming*) 
 
 --------------
-#1. Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus
+# 1. Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus
 
 
 ### Authors
@@ -121,7 +121,7 @@ File containing annotated sentences can be downloaded from this [ItaCoLA_dataset
 12. Simonetta Vietri. 2014. *Idiomatic constructions in Italian: a lexicon-grammar approach*, volume 31. John Benjamins Publishing Company.
 13. Simonetta Vietri. 2017. *Usi verbali dell’italiano: le frasi anticausative*. Carocci editore.
 
-#2. Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game
+# 2. Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game
 
 
 #### citation2
