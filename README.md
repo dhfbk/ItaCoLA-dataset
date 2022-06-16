@@ -11,10 +11,8 @@ This repository contains the annotated datasets of the papers:
 [[cite]](#citation2) (*paper upcoming*) 
 
 --------------
-<p align="center">
-    <img src="img/intro.jpg" width="900" alt="Background image">
-    <b>Fig. 1</b>: <i> Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus
-</p>
+## Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus
+
 
 
 
