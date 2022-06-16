@@ -8,7 +8,7 @@ This repository contains the annotated datasets of the papers:
 
 2. [Federico Bonetti](https://dh.fbk.eu/author/federicob/), [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), [Daniela Trotta](https://dh.fbk.eu/author/daniela/), [Raffaele Guarasci](https://www.icar.cnr.it/persone/guarasci/), [Sara Tonelli](https://dh.fbk.eu/author/sara/). **Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game** In *Proceedings of Language Resources and Evaluation Conference In LREC 2022. ELRA, 2022*.
 
-[[cite]](#citation2)Read the paper at *upcoming*
+[[cite]](#citation2) [[Read the paper at *upcoming*]]
 
 
 1. Italian Corpus of Linguistic Acceptability
@@ -115,7 +115,8 @@ File containing annotated sentences can be downloaded from this [ItaCoLA_dataset
 
 
 
-
+#### citation2
+Federico Bonetti, Elisa Leonardelli, Daniela Trotta, Raffaele Guarasci, and Sara Tonelli. Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game [In Press]. In Proceedings of Language Resources and Evaluation Conference (LREC 2022). ELRA, 2022.
 
 #### References
 
