@@ -1,11 +1,13 @@
 
 This repository contains the annotated datasets of the papers:
 
-[1.](#1.) [Daniela Trotta](https://dh.fbk.eu/author/daniela/), [Raffaele Guarasci](https://www.icar.cnr.it/persone/guarasci/), [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), [Sara Tonelli](https://dh.fbk.eu/author/sara/). **Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus.** In *Findings of EMNLP 2021*.
+[1.](#1.)  **Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus.** In *Findings of EMNLP 2021*.
+[Daniela Trotta](https://dh.fbk.eu/author/daniela/), [Raffaele Guarasci](https://www.icar.cnr.it/persone/guarasci/), [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), [Sara Tonelli](https://dh.fbk.eu/author/sara/).
 
 [[cite]](#citation) [[read the paper]](https://aclanthology.org/2021.findings-emnlp.250/)
 
-2. [Federico Bonetti](https://dh.fbk.eu/author/federicob/), [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), [Daniela Trotta](https://dh.fbk.eu/author/daniela/), [Raffaele Guarasci](https://www.icar.cnr.it/persone/guarasci/), [Sara Tonelli](https://dh.fbk.eu/author/sara/). **Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game** In *Proceedings of Language Resources and Evaluation Conference In LREC 2022. ELRA, 2022*.
+[2.](#2.) **Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game** In *Proceedings of Language Resources and Evaluation Conference In LREC 2022. ELRA, 2022*.
+[Federico Bonetti](https://dh.fbk.eu/author/federicob/), [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), [Daniela Trotta](https://dh.fbk.eu/author/daniela/), [Raffaele Guarasci](https://www.icar.cnr.it/persone/guarasci/), [Sara Tonelli](https://dh.fbk.eu/author/sara/). 
 
 [[cite]](#citation2) (*paper upcoming*) 
 
@@ -13,13 +15,8 @@ This repository contains the annotated datasets of the papers:
 #1. Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus
 
 
-
-
-
 ### Authors
-
 [Daniela Trotta](https://dh.fbk.eu/author/daniela/), [Raffaele Guarasci](https://www.icar.cnr.it/persone/guarasci/), [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), [Sara Tonelli](https://dh.fbk.eu/author/sara/)
-
 
 
 ### Introduction
@@ -27,11 +24,9 @@ This repository contains the annotated datasets of the papers:
 The Italian Corpus of Linguistic Acceptability includes almost 10k sentences taken from linguistic literature with a binary annotation made by the original authors themselves. The work is inspired by [CoLA](https://nyu-mll.github.io/CoLA/)<sup>1</sup>.
 
 
-
 #### Paper
 
 Read the paper at https://aclanthology.org/2021.findings-emnlp.250/
-
 
 
 ### Download
@@ -39,13 +34,12 @@ Read the paper at https://aclanthology.org/2021.findings-emnlp.250/
 Download ItaCola from this [ItaCoLA_dataset.tsv](ItaCoLA_dataset.tsv)
 
 
-
 ### Citation
 
 > Trotta D., Guarasci R., Leonardelli E., Tonelli S. *Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus*. In Findings of EMNLP 2021.
 
-### Data Description
 
+### Data Description
 
 
 ### Sources
@@ -113,10 +107,6 @@ Part of the dataset has been manually annotated with 9 linguistic phenomena.
 File containing annotated sentences can be downloaded from this [ItaCoLA_dataset_phenomenon](ItaCoLA_dataset_phenomenon.tsv). Every annotated sentence in this file is linked to main one through the unique id. The `.tsv` file has a structure similar to the main corpus, but each phenomenon is represented in a column (1 if present, 0 if not present).
 
 
-
-#### citation2
-Federico Bonetti, Elisa Leonardelli, Daniela Trotta, Raffaele Guarasci, and Sara Tonelli. Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game [In Press]. In Proceedings of Language Resources and Evaluation Conference (LREC 2022). ELRA, 2022.
-
 #### References
 
 1. Alex Warstadt, Amanpreet Singh, Samuel R. Bowman; *Neural Network Acceptability Judgments*. Transactions of the Association for Computational Linguistics. 2019; 7 625–641.
@@ -133,3 +123,8 @@ Federico Bonetti, Elisa Leonardelli, Daniela Trotta, Raffaele Guarasci, and Sara
 12. Simonetta Vietri. 2014. *Idiomatic constructions in Italian: a lexicon-grammar approach*, volume 31. John Benjamins Publishing Company.
 13. Simonetta Vietri. 2017. *Usi verbali dell’italiano: le frasi anticausative*. Carocci editore.
 
+#2. Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game
+
+
+#### citation2
+Federico Bonetti, Elisa Leonardelli, Daniela Trotta, Raffaele Guarasci, and Sara Tonelli. Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game [In Press]. In Proceedings of Language Resources and Evaluation Conference (LREC 2022). ELRA, 2022.
