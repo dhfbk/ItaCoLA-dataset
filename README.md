@@ -1,6 +1,17 @@
-# ItaCola
 
-## Italian Corpus of Linguistic Acceptability
+# ItaCola
+This repository contains the annotated datasets of the papers:
+
+1. [Daniela Trotta](https://dh.fbk.eu/author/daniela/), [Raffaele Guarasci](https://www.icar.cnr.it/persone/guarasci/), [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), [Sara Tonelli](https://dh.fbk.eu/author/sara/). Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus. (Findings of EMNLP 2021).
+
+Read the paper at https://aclanthology.org/2021.findings-emnlp.250/
+
+2. [Federico Bonetti](https://dh.fbk.eu/author/federicob/), [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), [Daniela Trotta](https://dh.fbk.eu/author/daniela/), [Raffaele Guarasci](https://www.icar.cnr.it/persone/guarasci/), [Sara Tonelli](https://dh.fbk.eu/author/sara/). Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game [In Press]. In Proceedings of Language Resources and Evaluation Conference (LREC 2022). ELRA, 2022.
+
+Read the paper at 
+
+
+1. Italian Corpus of Linguistic Acceptability
 
 --------------
 
@@ -121,5 +132,4 @@ File containing annotated sentences can be downloaded from this [ItaCoLA_dataset
 11. Simonetta Vietri. 2004. *Lessico-grammatica dell’italiano. Metodi, descrizioni e applicazioni*. UTET Università.
 12. Simonetta Vietri. 2014. *Idiomatic constructions in Italian: a lexicon-grammar approach*, volume 31. John Benjamins Publishing Company.
 13. Simonetta Vietri. 2017. *Usi verbali dell’italiano: le frasi anticausative*. Carocci editore.
-
 
