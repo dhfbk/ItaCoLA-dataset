@@ -22,7 +22,7 @@ This repository contains the annotated datasets of the papers:
 The Italian Corpus of Linguistic Acceptability includes almost 10k sentences taken from linguistic literature with a binary annotation made by the original authors themselves. The work is inspired by [CoLA](https://nyu-mll.github.io/CoLA/)<sup>1</sup>.
 
 
-#### Paper
+### Paper
 
 Read the paper at https://aclanthology.org/2021.findings-emnlp.250/
 
@@ -35,9 +35,6 @@ Download ItaCola from this [ItaCoLA_dataset.tsv](ItaCoLA_dataset.tsv)
 ### Citation
 
 > Trotta D., Guarasci R., Leonardelli E., Tonelli S. *Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus*. In Findings of EMNLP 2021.
-
-
-### Data Description
 
 
 ### Sources
@@ -76,7 +73,7 @@ Each line in the `.tsv` files consists of 5 tab-separated columns.
 - Column 5: the split to which the sentence belongs
 
 
-#### Corpus Sample
+### Corpus Sample
 
 | UniqueID | Source          | Judgement | Sentence                                                     | Split |
 | -------- | --------------- | --------- | ------------------------------------------------------------ | ----- |
@@ -86,7 +83,7 @@ Each line in the `.tsv` files consists of 5 tab-separated columns.
 | 9206     | Elia-et-al_1981 | 0         | Il ministro è dal ritiro del passaporto. (*The minister is from passport withdrawal*) | test  |
 | 9366     | Vietri_2004     | 1         | Edoardo ne ride. (*Edward laughs about it*)                  | test  |
 
-#### Annotation
+### Annotation
 
 Part of the dataset has been manually annotated with 9 linguistic phenomena.
 
