@@ -4,11 +4,11 @@ This repository contains the annotated datasets of the papers:
 
 1. [Daniela Trotta](https://dh.fbk.eu/author/daniela/), [Raffaele Guarasci](https://www.icar.cnr.it/persone/guarasci/), [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), [Sara Tonelli](https://dh.fbk.eu/author/sara/). **Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus.** In *Findings of EMNLP 2021*.
 
-[[cite]](#citation) [read the paper](https://aclanthology.org/2021.findings-emnlp.250/)
+[[cite]](#citation) [[read the paper]](https://aclanthology.org/2021.findings-emnlp.250/)
 
 2. [Federico Bonetti](https://dh.fbk.eu/author/federicob/), [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), [Daniela Trotta](https://dh.fbk.eu/author/daniela/), [Raffaele Guarasci](https://www.icar.cnr.it/persone/guarasci/), [Sara Tonelli](https://dh.fbk.eu/author/sara/). **Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game** In *Proceedings of Language Resources and Evaluation Conference In LREC 2022. ELRA, 2022*.
 
-Read the paper at *upcoming*
+[[cite]](#citation2)Read the paper at *upcoming*
 
 
 1. Italian Corpus of Linguistic Acceptability
