@@ -1,7 +1,7 @@
 
 This repository contains the annotated datasets of the papers:
 
-1. [Daniela Trotta](https://dh.fbk.eu/author/daniela/), [Raffaele Guarasci](https://www.icar.cnr.it/persone/guarasci/), [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), [Sara Tonelli](https://dh.fbk.eu/author/sara/). **Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus.** In *Findings of EMNLP 2021*.
+[1.](# 1.) [Daniela Trotta](https://dh.fbk.eu/author/daniela/), [Raffaele Guarasci](https://www.icar.cnr.it/persone/guarasci/), [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), [Sara Tonelli](https://dh.fbk.eu/author/sara/). **Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus.** In *Findings of EMNLP 2021*.
 
 [[cite]](#citation) [[read the paper]](https://aclanthology.org/2021.findings-emnlp.250/)
 
