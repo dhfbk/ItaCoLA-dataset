@@ -118,9 +118,6 @@ Download ItaCola-nonexpert dataset from this [ItaCoLA_dataset_non-expertannotati
 ItaCola-nonexpert consists of 1062 sentences.
 Each line in the `.tsv` files consists of 7 tab-separated columns.
 
-UniqueIndexID_ItaCoLA	Sentence	ExpertAcceptability	PlayersAcceptability	NumAnnotations	DisaggragatedAnnotations	PlayersID
-
-
 - Column 1 `UniqueIndexID_ItaCoLA`: an unique ID that links to (ItaCoLA)
 - Column 2 `Sentence`:	the sentence 
 - Column 3 `ExpertAcceptability`:	the acceptability judgment label from the original ItaCoLA (0=unacceptable, 1=acceptable)
@@ -129,8 +126,8 @@ UniqueIndexID_ItaCoLA	Sentence	ExpertAcceptability	PlayersAcceptability	NumAnnot
 - Column 6 `DisaggragatedAnnotations`: non-expert indivdual annotations
 - Column 7 `PlayersID`: anonymized non-expert identifier. Order of the identifiers reflect annotations given in the `DisaggragatedAnnotations`
 
-### Corpus Sample
 
+### Corpus Sample
 
 | ItaCoLA | Sentence	| ExpertAcc. | PlayersAcc.| NumAnn	| Disaggragated	| PlayersID |
 | ------- | -------------------- | - | - | - | ------- | ----------------------------------| 
