@@ -138,7 +138,7 @@ Each line in the `.tsv` files consists of 7 tab-separated columns.
 
 [discover more about the videogame here](https://aclanthology.org/2020.gamnlp-1.6/)
 ### Citation
-> Bonetti F., Leonardelli E., Trotta D., Guarasci R., Tonelli S. *Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game* [In Press]. In Proceedings of Language Resources and Evaluation Conference (LREC 2022). ELRA, 2022.
+> Bonetti F., Leonardelli E., Trotta D., Guarasci R., Tonelli S. *Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game*. In Proceedings of Language Resources and Evaluation Conference (LREC 2022). ELRA, 2022.
 
 
 -------
