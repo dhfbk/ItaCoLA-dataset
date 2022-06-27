@@ -11,7 +11,7 @@ In *Findings of EMNLP 2021*.
 In *Proceedings of Language Resources and Evaluation Conference In LREC 2022. ELRA, 2022*. 
 [Federico Bonetti](https://dh.fbk.eu/author/federicob/), [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), [Daniela Trotta](https://dh.fbk.eu/author/daniela/), [Raffaele Guarasci](https://www.icar.cnr.it/persone/guarasci/), [Sara Tonelli](https://dh.fbk.eu/author/sara/). 
 
-[[cite]](#citation2) [[read the paper]](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.185.pdf)
+[[cite]](http://www.lrec-conf.org/proceedings/lrec2022/bib/2022.lrec-1.185.bib) [[read the paper]](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.185.pdf)
 
 --------------
 ## 1. Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus
