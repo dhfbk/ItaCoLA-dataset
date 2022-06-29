@@ -11,7 +11,7 @@ In *Findings of EMNLP 2021*.
 In *Proceedings of Language Resources and Evaluation Conference In LREC 2022. ELRA, 2022*. 
 [Federico Bonetti](https://dh.fbk.eu/author/federicob/), [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), [Daniela Trotta](https://dh.fbk.eu/author/daniela/), [Raffaele Guarasci](https://www.icar.cnr.it/persone/guarasci/), [Sara Tonelli](https://dh.fbk.eu/author/sara/). 
 
-[[cite]](http://www.lrec-conf.org/proceedings/lrec2022/bib/2022.lrec-1.185.bib) [[read the paper]](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.185.pdf) [[play the game]](https://dh-server.fbk.eu/hssh-a/)
+[[cite]](http://www.lrec-conf.org/proceedings/lrec2022/bib/2022.lrec-1.185.bib) [[read the paper]](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.185.pdf) [[try the game]](https://dh-server.fbk.eu/hssh-a/)
 
 --------------
 ## 1. Monolingual and Cross-Lingual Acceptability Judgments with the Italian CoLA corpus
@@ -137,7 +137,7 @@ Each line in the `.tsv` files consists of 7 tab-separated columns.
 ### The 3d video game
 
 [discover more about the videogame here](https://aclanthology.org/2020.gamnlp-1.6/)
-You can play the game here [[play the game]](https://dh-server.fbk.eu/hssh-a/)
+You can play the game here [[try the game]](https://dh-server.fbk.eu/hssh-a/)
 ### Citation
 > Bonetti F., Leonardelli E., Trotta D., Guarasci R., Tonelli S. *Work Hard, Play Hard: Collecting Acceptability Annotations through a 3D Game*. In Proceedings of Language Resources and Evaluation Conference (LREC 2022). ELRA, 2022.
 
